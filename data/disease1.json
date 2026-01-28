@@ -1,0 +1,3806 @@
+[
+  {
+    "disease_label": 0,
+    "lang": "en",
+    "disease_name": "Anemia",
+    "aliases": ["Anaemia"],
+    "definitions": "Anemia is a blood disorder affecting the circulatory system, characterized by low red blood cells or haemoglobin, reducing oxygen delivery to tissues. It is commonly caused by iron deficiency, vitamin deficiencies, chronic disease, infections, or genetic disorders."
+  },
+  {
+    "disease_label": 1,
+    "lang": "en",
+    "disease_name": "Diabetes",
+    "aliases": ["Diabetes Mellitus"],
+    "definitions": "Diabetes is a metabolic disorder affecting the endocrine system, caused by insufficient insulin production or insulin resistance, leading to persistently high blood glucose levels and damage to blood vessels, nerves, kidneys, eyes, and heart."
+  },
+  {
+    "disease_label": 2,
+    "lang": "en",
+    "disease_name": "Hypertension",
+    "aliases": ["High Blood Pressure"],
+    "definitions": "Hypertension is a cardiovascular disorder affecting blood vessels, where blood pressure remains chronically elevated, increasing strain on arteries and raising the risk of heart disease, stroke, kidney failure, and vascular damage."
+  },
+  {
+    "disease_label": 3,
+    "lang": "en",
+    "disease_name": "Tuberculosis",
+    "aliases": ["TB"],
+    "definitions": "Tuberculosis is a bacterial infectious disease caused by Mycobacterium tuberculosis, primarily affecting the lungs but may involve other organs, spreading through airborne droplets and causing chronic cough, fever, weight loss, and fatigue."
+  },
+  {
+    "disease_label": 4,
+    "lang": "en",
+    "disease_name": "Chikungunya",
+    "aliases": [],
+    "definitions": "Chikungunya is a viral infection caused by the Chikungunya virus, transmitted by Aedes mosquitoes, affecting joints and muscles, leading to high fever, severe joint pain, fatigue, and prolonged arthritis-like symptoms."
+  },
+  {
+    "disease_label": 5,
+    "lang": "en",
+    "disease_name": "Dengue",
+    "aliases": ["Breakbone Fever"],
+    "definitions": "Dengue is a mosquito-borne viral disease caused by the Dengue virus, affecting the blood and immune system, leading to high fever, severe body pain, rash, bleeding tendencies, and possible shock in severe cases."
+  },
+  {
+    "disease_label": 6,
+    "lang": "en",
+    "disease_name": "Typhoid",
+    "aliases": ["Typhoid Fever"],
+    "definitions": "Typhoid is a bacterial infection caused by Salmonella typhi, affecting the digestive system and bloodstream, transmitted through contaminated food or water, causing prolonged fever, abdominal pain, weakness, and intestinal complications."
+  },
+  {
+    "disease_label": 7,
+    "lang": "en",
+    "disease_name": "Diarrhea",
+    "aliases": ["Diarrhoea"],
+    "definitions": "Diarrhea is a gastrointestinal condition affecting the intestines, commonly caused by bacterial, viral, or parasitic infections, leading to frequent loose stools, dehydration, electrolyte imbalance, and weakness."
+  },
+  {
+    "disease_label": 8,
+    "lang": "en",
+    "disease_name": "Malnutrition",
+    "aliases": [],
+    "definitions": "Malnutrition is a nutritional disorder affecting multiple body systems, caused by inadequate intake or absorption of nutrients, leading to impaired growth, weakened immunity, muscle wasting, and increased infection risk."
+  },
+  {
+    "disease_label": 9,
+    "lang": "en",
+    "disease_name": "Cholera",
+    "aliases": [],
+    "definitions": "Cholera is an acute bacterial infection caused by Vibrio cholerae, affecting the intestines and transmitted through contaminated water, resulting in severe watery diarrhea, rapid dehydration, electrolyte loss, and shock."
+  },
+  {
+    "disease_label": 10,
+    "lang": "en",
+    "disease_name": "Dehydration",
+    "aliases": [],
+    "definitions": "Dehydration is a fluid imbalance condition affecting the entire body, caused by excessive fluid loss or inadequate intake, leading to reduced blood volume, dizziness, dry mouth, low urine output, and organ dysfunction."
+  },
+  {
+    "disease_label": 11,
+    "lang": "en",
+    "disease_name": "Age-Related Macular Degeneration",
+    "aliases": ["AMD"],
+    "definitions": "Age-related macular degeneration is a degenerative eye disease affecting the retina, particularly the macula, leading to progressive loss of central vision and difficulty in reading and recognizing faces in older adults."
+  },
+  {
+    "disease_label": 12,
+    "lang": "en",
+    "disease_name": "Conjunctivitis",
+    "aliases": ["Pink Eye"],
+    "definitions": "Conjunctivitis is an inflammatory eye condition caused by viral, bacterial, or allergic factors, affecting the conjunctiva and leading to redness, itching, discharge, tearing, and eye discomfort."
+  },
+  {
+    "disease_label": 13,
+    "lang": "en",
+    "disease_name": "Asthma",
+    "aliases": [],
+    "definitions": "Asthma is a chronic inflammatory respiratory disease affecting the airways, triggered by allergens or infections, causing wheezing, breathlessness, chest tightness, and coughing due to airway narrowing."
+  },
+  {
+    "disease_label": 14,
+    "lang": "en",
+    "disease_name": "Influenza",
+    "aliases": ["Flu"],
+    "definitions": "Influenza is a viral respiratory illness caused by the Influenza virus, affecting the nose, throat, and lungs, resulting in fever, cough, sore throat, body aches, fatigue, and possible pneumonia."
+  },
+  {
+    "disease_label": 15,
+    "lang": "en",
+    "disease_name": "Pneumonia",
+    "aliases": [],
+    "definitions": "Pneumonia is a lung infection caused by bacteria, viruses, or fungi, affecting the alveoli and leading to fever, cough, chest pain, breathing difficulty, and reduced oxygen exchange."
+  },
+  {
+    "disease_label": 16,
+    "lang": "en",
+    "disease_name": "Constipation",
+    "aliases": [],
+    "definitions": "Constipation is a gastrointestinal condition affecting the large intestine, characterized by infrequent or difficult bowel movements, often caused by low fiber intake, dehydration, medications, or reduced intestinal motility."
+  },
+  {
+    "disease_label": 17,
+    "lang": "en",
+    "disease_name": "Sinusitis",
+    "aliases": [],
+    "definitions": "Sinusitis is an inflammatory condition of the sinus cavities, commonly caused by viral or bacterial infections, leading to nasal congestion, facial pain, headache, thick nasal discharge, and reduced sense of smell."
+  },
+  {
+    "disease_label": 18,
+    "lang": "en",
+    "disease_name": "Food Poisoning",
+    "aliases": [],
+    "definitions": "Food poisoning is an acute gastrointestinal illness caused by bacteria, viruses, parasites, or toxins in contaminated food, affecting the stomach and intestines and causing nausea, vomiting, diarrhea, abdominal cramps, and fever."
+  },
+  {
+    "disease_label": 19,
+    "lang": "en",
+    "disease_name": "Fungal Infections",
+    "aliases": ["Mycosis"],
+    "definitions": "Fungal infections are caused by pathogenic fungi affecting the skin, nails, mucous membranes, or internal organs, leading to itching, rashes, discoloration, or systemic illness in immunocompromised individuals."
+  },
+  {
+    "disease_label": 20,
+    "lang": "en",
+    "disease_name": "Fatty Liver",
+    "aliases": ["Hepatic Steatosis"],
+    "definitions": "Fatty liver disease is a metabolic liver disorder characterized by excessive fat accumulation in liver cells, commonly caused by obesity, diabetes, alcohol use, or insulin resistance, potentially progressing to liver inflammation."
+  },
+  {
+    "disease_label": 21,
+    "lang": "en",
+    "disease_name": "Arthritis",
+    "aliases": [],
+    "definitions": "Arthritis is a musculoskeletal disorder affecting joints, caused by inflammation, autoimmune reactions, or wear and tear, leading to joint pain, stiffness, swelling, and reduced mobility."
+  },
+  {
+    "disease_label": 22,
+    "lang": "en",
+    "disease_name": "Heat Stroke",
+    "aliases": [],
+    "definitions": "Heat stroke is a life-threatening condition affecting the nervous system and vital organs, caused by prolonged exposure to high temperatures, leading to failure of temperature regulation, confusion, organ damage, and unconsciousness."
+  },
+  {
+    "disease_label": 23,
+    "lang": "en",
+    "disease_name": "Hepatitis B",
+    "aliases": [],
+    "definitions": "Hepatitis B is a viral liver infection caused by the Hepatitis B virus, transmitted through blood and body fluids, leading to liver inflammation, jaundice, fatigue, and increased risk of cirrhosis and liver cancer."
+  },
+  {
+    "disease_label": 24,
+    "lang": "en",
+    "disease_name": "Hepatitis C",
+    "aliases": [],
+    "definitions": "Hepatitis C is a blood-borne viral infection caused by the Hepatitis C virus, primarily affecting the liver, often becoming chronic and leading to liver fibrosis, cirrhosis, or liver cancer."
+  },
+  {
+    "disease_label": 25,
+    "lang": "en",
+    "disease_name": "Liver Cirrhosis",
+    "aliases": [],
+    "definitions": "Liver cirrhosis is a chronic liver disease characterized by irreversible scarring of liver tissue due to long-term damage from alcohol, viral hepatitis, or fatty liver disease, resulting in impaired liver function."
+  },
+  {
+    "disease_label": 26,
+    "lang": "en",
+    "disease_name": "Alzheimer’s Disease",
+    "aliases": ["Alzheimer Disease"],
+    "definitions": "Alzheimer’s disease is a progressive neurodegenerative disorder affecting the brain, characterized by memory loss, cognitive decline, and behavioral changes due to accumulation of abnormal protein deposits."
+  },
+  {
+    "disease_label": 27,
+    "lang": "en",
+    "disease_name": "Gastritis",
+    "aliases": [],
+    "definitions": "Gastritis is an inflammatory condition of the stomach lining, commonly caused by Helicobacter pylori infection, excessive alcohol use, or medications, leading to abdominal pain, nausea, and indigestion."
+  },
+  {
+    "disease_label": 28,
+    "lang": "en",
+    "disease_name": "Peptic Ulcer",
+    "aliases": [],
+    "definitions": "Peptic ulcer disease is characterized by open sores in the stomach or duodenum, caused mainly by Helicobacter pylori infection or NSAID use, leading to burning pain, bleeding, and digestive discomfort."
+  },
+  {
+    "disease_label": 29,
+    "lang": "en",
+    "disease_name": "Parkinson’s Disease",
+    "aliases": [],
+    "definitions": "Parkinson’s disease is a progressive neurological disorder affecting movement, caused by degeneration of dopamine-producing neurons in the brain, leading to tremors, stiffness, slow movements, and balance problems."
+  },
+  {
+    "disease_label": 30,
+    "lang": "en",
+    "disease_name": "Breast Cancer",
+    "aliases": [],
+    "definitions": "Breast cancer is a malignant tumor arising from breast tissue, caused by uncontrolled cell growth, affecting the lymphatic and circulatory systems and potentially spreading to other organs if untreated."
+  },
+  {
+    "disease_label": 31,
+    "lang": "en",
+    "disease_name": "Cervical Cancer",
+    "aliases": [],
+    "definitions": "Cervical cancer is a malignant disease affecting the cervix, primarily caused by persistent infection with high-risk human papillomavirus (HPV), leading to abnormal cell growth and potential spread."
+  },
+  {
+    "disease_label": 32,
+    "lang": "en",
+    "disease_name": "Urinary Tract Infection",
+    "aliases": ["UTI"],
+    "definitions": "Urinary tract infection is a bacterial infection commonly caused by Escherichia coli, affecting the bladder or kidneys, leading to painful urination, frequent urge to urinate, and lower abdominal pain."
+  },
+  {
+    "disease_label": 33,
+    "lang": "en",
+    "disease_name": "Lupus",
+    "aliases": ["Systemic Lupus Erythematosus"],
+    "definitions": "Lupus is an autoimmune disease in which the immune system attacks healthy tissues, affecting joints, skin, kidneys, heart, and brain, causing inflammation, pain, fatigue, and organ damage."
+  },
+  {
+    "disease_label": 34,
+    "lang": "en",
+    "disease_name": "Scurvy",
+    "aliases": [],
+    "definitions": "Scurvy is a nutritional deficiency disease caused by lack of vitamin C, affecting connective tissue and blood vessels, leading to bleeding gums, weakness, anemia, and poor wound healing."
+  },
+  {
+    "disease_label": 35,
+    "lang": "en",
+    "disease_name": "Ringworm",
+    "aliases": ["Tinea"],
+    "definitions": "Ringworm is a contagious fungal skin infection caused by dermatophytes, affecting the skin, scalp, or nails, resulting in circular, itchy, red, and scaly rashes."
+  },
+  {
+    "disease_label": 36,
+    "lang": "en",
+    "disease_name": "Nipah Virus Infection",
+    "aliases": [],
+    "definitions": "Nipah virus infection is a zoonotic viral disease caused by the Nipah virus, affecting the respiratory and central nervous systems, leading to fever, encephalitis, respiratory distress, and high mortality."
+  },
+  {
+    "disease_label": 37,
+    "lang": "en",
+    "disease_name": "Zika Virus Disease",
+    "aliases": [],
+    "definitions": "Zika virus disease is a mosquito-borne viral infection affecting the nervous system, caused by the Zika virus, usually mild but associated with birth defects when contracted during pregnancy."
+  },
+  {
+    "disease_label": 38,
+    "lang": "en",
+    "disease_name": "Yellow Fever",
+    "aliases": [],
+    "definitions": "Yellow fever is a viral hemorrhagic disease caused by the Yellow fever virus, transmitted by mosquitoes, affecting the liver and bloodstream, leading to fever, jaundice, bleeding, and organ failure."
+  },
+  {
+    "disease_label": 39,
+    "lang": "en",
+    "disease_name": "Polycystic Ovary Syndrome",
+    "aliases": ["PCOS"],
+    "definitions": "Polycystic ovary syndrome is a hormonal disorder affecting the reproductive and endocrine systems, characterized by irregular menstruation, excess androgen levels, ovarian cysts, and increased metabolic risk."
+  },
+  {
+    "disease_label": 40,
+    "lang": "en",
+    "disease_name": "Hypothyroidism",
+    "aliases": [],
+    "definitions": "Hypothyroidism is an endocrine disorder caused by insufficient thyroid hormone production, affecting metabolism and leading to fatigue, weight gain, cold intolerance, and slowed bodily functions."
+  },
+  {
+    "disease_label": 41,
+    "lang": "en",
+    "disease_name": "Hyperthyroidism",
+    "aliases": [],
+    "definitions": "Hyperthyroidism is an endocrine disorder characterized by excessive thyroid hormone production, accelerating metabolism and causing weight loss, rapid heartbeat, anxiety, tremors, and heat intolerance."
+  },
+  {
+    "disease_label": 42,
+    "lang": "en",
+    "disease_name": "Chronic Obstructive Pulmonary Disease",
+    "aliases": ["COPD"],
+    "definitions": "COPD is a chronic respiratory disease affecting the lungs, primarily caused by smoking, characterized by persistent airflow limitation, chronic cough, breathlessness, and progressive lung damage."
+  },
+  {
+    "disease_label": 43,
+    "lang": "en",
+    "disease_name": "Endometriosis",
+    "aliases": [],
+    "definitions": "Endometriosis is a gynecological disorder where tissue similar to the uterine lining grows outside the uterus, affecting pelvic organs and causing chronic pain, painful menstruation, and infertility."
+  },
+  {
+    "disease_label": 44,
+    "lang": "en",
+    "disease_name": "Cataract",
+    "aliases": [],
+    "definitions": "Cataract is an eye disorder characterized by clouding of the natural lens, affecting vision clarity and causing blurred vision, glare, and difficulty seeing, commonly associated with aging."
+  },
+  {
+    "disease_label": 45,
+    "lang": "en",
+    "disease_name": "HIV/AIDS",
+    "aliases": ["HIV","AIDS"],
+    "definitions": "HIV/AIDS is a viral disease caused by the Human Immunodeficiency Virus, affecting the immune system and progressively weakening defenses against infections and cancers if untreated."
+  },
+  {
+    "disease_label": 46,
+    "lang": "en",
+    "disease_name": "Oral Cancer",
+    "aliases": [],
+    "definitions": "Oral cancer is a malignant tumor affecting the mouth or throat tissues, often linked to tobacco or alcohol use, causing persistent sores, pain, difficulty swallowing, and speech problems."
+  },
+  {
+    "disease_label": 47,
+    "lang": "en",
+    "disease_name": "Stomach Cancer",
+    "aliases": ["Gastric Cancer"],
+    "definitions": "Stomach cancer is a malignant disease affecting the stomach lining, often associated with Helicobacter pylori infection, causing indigestion, weight loss, abdominal pain, and gastrointestinal bleeding."
+  },
+  {
+    "disease_label": 48,
+    "lang": "en",
+    "disease_name": "Liver Cancer",
+    "aliases": ["Hepatocellular Carcinoma"],
+    "definitions": "Liver cancer is a malignant tumor originating in liver cells, commonly developing due to chronic hepatitis infection, cirrhosis, or long-term liver damage."
+  },
+  {
+    "disease_label": 49,
+    "lang": "en",
+    "disease_name": "Lung Cancer",
+    "aliases": [],
+    "definitions": "Lung cancer is a malignant disease affecting lung tissue, most commonly caused by smoking, leading to persistent cough, chest pain, breathlessness, and potential spread to other organs."
+  },
+  {
+    "disease_label": 50,
+    "lang": "en",
+    "disease_name": "Piles",
+    "aliases": ["Hemorrhoids"],
+    "definitions": "Piles are swollen blood vessels in the rectum or anus, affecting the lower digestive tract, causing pain, itching, discomfort, and bleeding during bowel movements."
+  },
+  {
+    "disease_label": 51,
+    "lang": "en",
+    "disease_name": "Eczema",
+    "aliases": ["Atopic Dermatitis"],
+    "definitions": "Eczema is a chronic inflammatory skin condition affecting the epidermis, caused by immune dysfunction or allergens, leading to itching, redness, dryness, and skin irritation."
+  },
+  {
+    "disease_label": 52,
+    "lang": "en",
+    "disease_name": "Acne",
+    "aliases": [],
+    "definitions": "Acne is a skin disorder affecting hair follicles and sebaceous glands, caused by clogged pores, bacteria, and hormonal changes, resulting in pimples, blackheads, and inflammation."
+  },
+  {
+    "disease_label": 53,
+    "lang": "en",
+    "disease_name": "Jaundice",
+    "aliases": [],
+    "definitions": "Jaundice is a clinical condition affecting the liver and bloodstream, characterized by yellowing of skin and eyes due to elevated bilirubin levels, commonly caused by liver disease or blood disorders."
+  },
+  {
+    "disease_label": 0,
+    "lang": "ta",
+    "disease_name": "ரத்தசோகை",
+    "aliases": ["அனீமியா"],
+    "definitions": "ரத்தசோகை என்பது இரத்த ஓட்ட அமைப்பை பாதிக்கும் ஒரு நோயாகும். இதில் சிவப்பு இரத்த அணுக்கள் அல்லது ஹீமோகுளோபின் அளவு குறைவதால் உடல் திசுக்களுக்கு ஆக்சிஜன் செல்லும் அளவு குறைகிறது. இது இரும்புச்சத்து குறைபாடு, வைட்டமின் குறைபாடுகள், நீண்டகால நோய்கள், தொற்றுகள் அல்லது மரபணு கோளாறுகள் காரணமாக ஏற்படுகிறது."
+  },
+  {
+    "disease_label": 1,
+    "lang": "ta",
+    "disease_name": "நீரிழிவு நோய்",
+    "aliases": ["டயாபடீஸ் மெலிட்டஸ்"],
+    "definitions": "நீரிழிவு நோய் என்பது உட்சுரப்பி அமைப்பை பாதிக்கும் மாற்றுச்சத்து நோயாகும். இதில் இன்சுலின் உற்பத்தி குறைபாடு அல்லது இன்சுலின் எதிர்ப்பு காரணமாக இரத்த சர்க்கரை அளவு அதிகரித்து, நரம்புகள், சிறுநீரகங்கள், கண்கள், இதயம் மற்றும் இரத்த நாளங்களுக்கு சேதம் ஏற்படுகிறது."
+  },
+  {
+    "disease_label": 2,
+    "lang": "ta",
+    "disease_name": "உயர் இரத்த அழுத்தம்",
+    "aliases": ["ஹை பிளட் பிரஷர்"],
+    "definitions": "உயர் இரத்த அழுத்தம் என்பது இரத்த நாளங்களை பாதிக்கும் இதய-இரத்த நாள நோயாகும். இதில் இரத்த அழுத்தம் நீண்ட காலமாக அதிகமாக இருந்து, இதயம், மூளை, சிறுநீரகம் மற்றும் இரத்த நாளங்களுக்கு பாதிப்பு ஏற்படும் அபாயத்தை அதிகரிக்கிறது."
+  },
+  {
+    "disease_label": 3,
+    "lang": "ta",
+    "disease_name": "காசநோய்",
+    "aliases": ["டிபி"],
+    "definitions": "காசநோய் என்பது Mycobacterium tuberculosis என்ற பாக்டீரியாவால் ஏற்படும் தொற்றுநோயாகும். இது முக்கியமாக நுரையீரலை பாதிக்கிறது, ஆனால் பிற உறுப்புகளையும் பாதிக்கக்கூடும். காற்றின் மூலம் பரவி நீண்டகால இருமல், காய்ச்சல், உடல் எடை குறைவு மற்றும் சோர்வை ஏற்படுத்துகிறது."
+  },
+  {
+    "disease_label": 4,
+    "lang": "ta",
+    "disease_name": "சிக்குன்குனியா",
+    "aliases": [],
+    "definitions": "சிக்குன்குனியா என்பது Chikungunya வைரஸால் ஏற்படும் வைரஸ் தொற்றுநோயாகும். இது Aedes வகை கொசுக்களால் பரவி, மூட்டு மற்றும் தசைகளை பாதித்து அதிக காய்ச்சல், கடும் மூட்டு வலி, சோர்வு மற்றும் நீண்டகால மூட்டு வலியை ஏற்படுத்துகிறது."
+  },
+  {
+    "disease_label": 5,
+    "lang": "ta",
+    "disease_name": "டெங்கு",
+    "aliases": ["எலும்பு முறிவு காய்ச்சல்"],
+    "definitions": "டெங்கு என்பது Dengue வைரஸால் ஏற்படும் கொசு மூலம் பரவும் வைரஸ் நோயாகும். இது இரத்தம் மற்றும் நோய் எதிர்ப்பு அமைப்பை பாதித்து, அதிக காய்ச்சல், கடும் உடல்வலி, தோல் சிரங்கு, இரத்த கசிவு மற்றும் கடுமையான நிலையில் ஷாக் ஏற்படலாம்."
+  },
+  {
+    "disease_label": 6,
+    "lang": "ta",
+    "disease_name": "டைபாய்டு",
+    "aliases": ["டைபாய்டு காய்ச்சல்"],
+    "definitions": "டைபாய்டு என்பது Salmonella typhi என்ற பாக்டீரியாவால் ஏற்படும் தொற்றுநோயாகும். இது செரிமான அமைப்பையும் இரத்தத்தையும் பாதித்து, மாசுபட்ட உணவு அல்லது நீர் மூலம் பரவி நீண்டகால காய்ச்சல், வயிற்று வலி மற்றும் பலவீனத்தை ஏற்படுத்துகிறது."
+  },
+  {
+    "disease_label": 7,
+    "lang": "ta",
+    "disease_name": "வயிற்றுப்போக்கு",
+    "aliases": ["டயரியா"],
+    "definitions": "வயிற்றுப்போக்கு என்பது குடல்களை பாதிக்கும் ஒரு செரிமான கோளாறாகும். இது பாக்டீரியா, வைரஸ் அல்லது பராசைட் தொற்றுகளால் ஏற்பட்டு, அடிக்கடி நீர்ப்போக்கு மலச்சிக்கல், நீரிழப்பு மற்றும் மினேரல் சமநிலை குறைவை ஏற்படுத்துகிறது."
+  },
+  {
+    "disease_label": 8,
+    "lang": "ta",
+    "disease_name": "ஊட்டச்சத்து குறைபாடு",
+    "aliases": [],
+    "definitions": "ஊட்டச்சத்து குறைபாடு என்பது உடலுக்கு தேவையான சத்துக்கள் போதிய அளவில் கிடைக்காததால் அல்லது உறிஞ்சப்படாததால் ஏற்படும் நிலையாகும். இது வளர்ச்சி குறைவு, நோய் எதிர்ப்பு சக்தி குறைவு மற்றும் தொற்றுகளுக்கு அதிக ஆபத்தை ஏற்படுத்துகிறது."
+  },
+  {
+    "disease_label": 9,
+    "lang": "ta",
+    "disease_name": "காலரா",
+    "aliases": [],
+    "definitions": "காலரா என்பது Vibrio cholerae என்ற பாக்டீரியாவால் ஏற்படும் தீவிர குடல் தொற்றுநோயாகும். இது மாசுபட்ட நீர் மூலம் பரவி, கடும் நீர்ப்போக்கு வயிற்றுப்போக்கு, வேகமான நீரிழப்பு மற்றும் ஷாக்கை ஏற்படுத்துகிறது."
+  },
+  {
+    "disease_label": 53,
+    "lang": "ta",
+    "disease_name": "மஞ்சள் காமாலை",
+    "aliases": [],
+    "definitions": "மஞ்சள் காமாலை என்பது கல்லீரல் மற்றும் இரத்தத்தை பாதிக்கும் ஒரு மருத்துவ நிலையாகும். இதில் பிலிருபின் அளவு அதிகரிப்பதால் தோல் மற்றும் கண்களின் வெள்ளைப் பகுதி மஞ்சளாக மாறுகிறது. இது பொதுவாக கல்லீரல் நோய்கள் அல்லது இரத்தக் கோளாறுகள் காரணமாக ஏற்படுகிறது."
+  },
+  {
+    "disease_label": 10,
+    "lang": "ta",
+    "disease_name": "நீரிழப்பு",
+    "aliases": ["டிஹைட்ரேஷன்"],
+    "definitions": "நீரிழப்பு என்பது உடலில் நீர் மற்றும் மினேரல்கள் அளவுக்கு மீறி இழப்பதால் ஏற்படும் நிலையாகும். இது வயிற்றுப்போக்கு, அதிக வியர்வை அல்லது குறைந்த நீர் உட்கொள்ளல் காரணமாக ஏற்பட்டு, சிறுநீரகம் மற்றும் இரத்த ஓட்டத்தை பாதிக்கிறது."
+  },
+  {
+    "disease_label": 11,
+    "lang": "ta",
+    "disease_name": "வயதுசார் மாகுலார் சிதைவு",
+    "aliases": ["AMD"],
+    "definitions": "வயதுசார் மாகுலார் சிதைவு என்பது கண்களின் ரெட்டினாவை பாதிக்கும் நீண்டகால நோயாகும். இது வயதானவர்களில் ஏற்பட்டு, மைய பார்வை இழப்பை ஏற்படுத்தி தினசரி செயல்பாடுகளை பாதிக்கிறது."
+  },
+  {
+    "disease_label": 12,
+    "lang": "ta",
+    "disease_name": "கண் அழற்சி",
+    "aliases": ["பிங்க் ஐ"],
+    "definitions": "கண் அழற்சி என்பது கண்களின் வெளிப்புற உறையை பாதிக்கும் வைரஸ் அல்லது பாக்டீரியா தொற்றுநோயாகும். இது கண் சிவப்பு, நீர்வருதல், எரிச்சல் மற்றும் ஒட்டும் சுரப்பை ஏற்படுத்துகிறது."
+  },
+  {
+    "disease_label": 13,
+    "lang": "ta",
+    "disease_name": "ஆஸ்துமா",
+    "aliases": [],
+    "definitions": "ஆஸ்துமா என்பது மூச்சுத் தளங்களை பாதிக்கும் நீண்டகால சுவாச நோயாகும். இது அலர்ஜன், மாசுபாடு அல்லது மரபணு காரணங்களால் ஏற்பட்டு, மூச்சுத்திணறல், இருமல் மற்றும் சீறு சத்தத்தை ஏற்படுத்துகிறது."
+  },
+  {
+    "disease_label": 14,
+    "lang": "ta",
+    "disease_name": "காய்ச்சல்",
+    "aliases": ["ஃப்ளூ"],
+    "definitions": "காய்ச்சல் என்பது இன்ஃப்ளூயன்சா வைரஸால் ஏற்படும் வைரஸ் தொற்றுநோயாகும். இது மூச்சுக்குழாய் அமைப்பை பாதித்து, காய்ச்சல், இருமல், உடல்வலி மற்றும் சோர்வை ஏற்படுத்துகிறது."
+  },
+  {
+    "disease_label": 15,
+    "lang": "ta",
+    "disease_name": "நுரையீரல் அழற்சி",
+    "aliases": ["நியூமோனியா"],
+    "definitions": "நுரையீரல் அழற்சி என்பது பாக்டீரியா, வைரஸ் அல்லது பூஞ்சை தொற்றால் ஏற்படும் நுரையீரல் நோயாகும். இது மூச்சுத்திணறல், காய்ச்சல், மார்பு வலி மற்றும் ஆக்சிஜன் குறைவை ஏற்படுத்துகிறது."
+  },
+  {
+    "disease_label": 16,
+    "lang": "ta",
+    "disease_name": "மலச்சிக்கல்",
+    "aliases": [],
+    "definitions": "மலச்சிக்கல் என்பது செரிமான அமைப்பை பாதிக்கும் நிலையாகும். இதில் மலவிடுதல் அரிதாக அல்லது கடினமாக இருந்து, குறைந்த நார் உணவு, நீர் குறைவு அல்லது உடல் இயக்கக் குறைவு காரணமாக ஏற்படுகிறது."
+  },
+  {
+    "disease_label": 17,
+    "lang": "ta",
+    "disease_name": "மூக்கு சைனஸ் அழற்சி",
+    "aliases": ["சைனசைட்டிஸ்"],
+    "definitions": "சைனசைட்டிஸ் என்பது மூக்கு மற்றும் முக எலும்புகளில் உள்ள சைனஸ் குழிகளை பாதிக்கும் அழற்சி நோயாகும். இது வைரஸ் அல்லது பாக்டீரியா தொற்றால் ஏற்பட்டு, தலைவலி மற்றும் மூக்கடைப்பை ஏற்படுத்துகிறது."
+  },
+  {
+    "disease_label": 18,
+    "lang": "ta",
+    "disease_name": "உணவு விஷமடைதல்",
+    "aliases": [],
+    "definitions": "உணவு விஷமடைதல் என்பது மாசுபட்ட உணவுகளில் உள்ள பாக்டீரியா அல்லது நச்சுகள் காரணமாக ஏற்படும் செரிமான நோயாகும். இது வாந்தி, வயிற்றுப்போக்கு மற்றும் வயிற்றுவலியை ஏற்படுத்துகிறது."
+  },
+  {
+    "disease_label": 19,
+    "lang": "ta",
+    "disease_name": "பூஞ்சை தொற்றுகள்",
+    "aliases": ["ஃபங்கல் இன்ஃபெக்ஷன்"],
+    "definitions": "பூஞ்சை தொற்றுகள் என்பது பூஞ்சை கிருமிகளால் தோல், நகம் அல்லது உட்புற உறுப்புகளை பாதிக்கும் தொற்றுநோயாகும். இது ஈரப்பதம் மற்றும் குறைந்த நோய் எதிர்ப்பு சக்தியுடன் தொடர்புடையது."
+  },
+  {
+    "disease_label": 20,
+    "lang": "ta",
+    "disease_name": "கொழுப்பு கல்லீரல்",
+    "aliases": ["ஃபாட்டி லிவர்"],
+    "definitions": "கொழுப்பு கல்லீரல் என்பது கல்லீரலில் அதிக கொழுப்பு சேர்வதால் ஏற்படும் நிலையாகும். இது மதுபானம், உடல் பருமன் அல்லது நீரிழிவு காரணமாக ஏற்பட்டு, கல்லீரல் செயல்பாட்டை பாதிக்கிறது."
+  },
+  {
+    "disease_label": 21,
+    "lang": "ta",
+    "disease_name": "மூட்டு வாதம்",
+    "aliases": ["ஆர்த்ரைட்டிஸ்"],
+    "definitions": "மூட்டு வாதம் என்பது மூட்டுகளை பாதிக்கும் அழற்சி அல்லது சிதைவு நோயாகும். இது வயது, தன்னைத்தானே தாக்கும் நோய்கள் அல்லது காயம் காரணமாக ஏற்பட்டு, வலி மற்றும் இயக்கக் குறைவை ஏற்படுத்துகிறது."
+  },
+  {
+    "disease_label": 22,
+    "lang": "ta",
+    "disease_name": "வெப்பக்காய்ச்சல்",
+    "aliases": ["ஹீட் ஸ்ட்ரோக்"],
+    "definitions": "வெப்பக்காய்ச்சல் என்பது அதிக வெப்பநிலை காரணமாக உடல் வெப்ப கட்டுப்பாடு தோல்வியடைவதால் ஏற்படும் அவசர நிலையாகும். இது மூளை மற்றும் உட்புற உறுப்புகளை பாதித்து உயிருக்கு ஆபத்தானது."
+  },
+  {
+    "disease_label": 23,
+    "lang": "ta",
+    "disease_name": "ஹெபடைட்டிஸ் பி",
+    "aliases": [],
+    "definitions": "ஹெபடைட்டிஸ் பி என்பது Hepatitis B வைரஸால் ஏற்படும் கல்லீரல் தொற்றுநோயாகும். இது இரத்தம் மற்றும் உடல் திரவங்கள் மூலம் பரவி, கல்லீரல் அழற்சி மற்றும் சிரோசிஸை ஏற்படுத்தலாம்."
+  },
+  {
+    "disease_label": 24,
+    "lang": "ta",
+    "disease_name": "ஹெபடைட்டிஸ் சி",
+    "aliases": [],
+    "definitions": "ஹெபடைட்டிஸ் சி என்பது Hepatitis C வைரஸால் ஏற்படும் நீண்டகால கல்லீரல் தொற்றுநோயாகும். இது பெரும்பாலும் இரத்தத்தின் மூலம் பரவி, கல்லீரல் சிரோசிஸ் மற்றும் புற்றுநோயை ஏற்படுத்தும்."
+  },
+  {
+    "disease_label": 25,
+    "lang": "ta",
+    "disease_name": "கல்லீரல் சிரோசிஸ்",
+    "aliases": [],
+    "definitions": "கல்லீரல் சிரோசிஸ் என்பது நீண்டகால கல்லீரல் சேதத்தின் இறுதி நிலையாகும். இது மது பழக்கம், வைரஸ் ஹெபடைட்டிஸ் அல்லது கொழுப்பு கல்லீரல் காரணமாக ஏற்பட்டு, கல்லீரல் செயலிழப்பை உண்டாக்குகிறது."
+  },
+  {
+    "disease_label": 26,
+    "lang": "ta",
+    "disease_name": "அல்ஸைமர் நோய்",
+    "aliases": [],
+    "definitions": "அல்ஸைமர் நோய் என்பது மூளையை பாதிக்கும் நரம்பியல் சிதைவு நோயாகும். இது நினைவாற்றல், சிந்தனை மற்றும் நடத்தை திறன்களை மெல்ல மெல்ல இழக்கச் செய்து, முதியவர்களில் அதிகம் காணப்படுகிறது."
+  },
+  {
+    "disease_label": 27,
+    "lang": "ta",
+    "disease_name": "வயிற்று அழற்சி",
+    "aliases": ["காஸ்ட்ரைட்டிஸ்"],
+    "definitions": "காஸ்ட்ரைட்டிஸ் என்பது வயிற்றின் உள் உறையை பாதிக்கும் அழற்சி நோயாகும். இது பாக்டீரியா தொற்று, அதிக அமில சுரப்பு அல்லது மருந்துகள் காரணமாக ஏற்படுகிறது."
+  },
+  {
+    "disease_label": 28,
+    "lang": "ta",
+    "disease_name": "பெப்டிக் அல்சர்",
+    "aliases": [],
+    "definitions": "பெப்டிக் அல்சர் என்பது வயிறு அல்லது சிறுகுடல் உள் உறையில் ஏற்படும் புண் ஆகும். இது Helicobacter pylori பாக்டீரியா அல்லது நீண்டகால வலி நிவாரணி மருந்துகள் காரணமாக ஏற்படுகிறது."
+  },
+  {
+    "disease_label": 29,
+    "lang": "ta",
+    "disease_name": "பார்கின்சன் நோய்",
+    "aliases": [],
+    "definitions": "பார்கின்சன் நோய் என்பது மூளையின் இயக்கக் கட்டுப்பாட்டை பாதிக்கும் நரம்பியல் நோயாகும். இது டோபமின் குறைபாடு காரணமாக ஏற்பட்டு, நடுக்கம் மற்றும் இயக்கக் குறைவை உண்டாக்குகிறது."
+  },
+  {
+    "disease_label": 30,
+    "lang": "ta",
+    "disease_name": "மார்பக புற்றுநோய்",
+    "aliases": [],
+    "definitions": "மார்பக புற்றுநோய் என்பது மார்பக திசுக்களில் ஏற்படும் தீவிர செல்கள் வளர்ச்சியால் ஏற்படும் நோயாகும். இது ஹார்மோன், மரபணு மற்றும் வாழ்க்கை முறைக் காரணங்களுடன் தொடர்புடையது."
+  },
+  {
+    "disease_label": 31,
+    "lang": "ta",
+    "disease_name": "கர்ப்பப்பை கழுத்து புற்றுநோய்",
+    "aliases": [],
+    "definitions": "கர்ப்பப்பை கழுத்து புற்றுநோய் என்பது Human Papillomavirus (HPV) வைரஸால் ஏற்படும் புற்றுநோயாகும். இது பெண்களின் இனப்பெருக்க அமைப்பை பாதித்து, ஆரம்ப நிலையில் கண்டறிதல் முக்கியமானது."
+  },
+  {
+    "disease_label": 32,
+    "lang": "ta",
+    "disease_name": "மூத்திர பாதை தொற்று",
+    "aliases": ["UTI"],
+    "definitions": "மூத்திர பாதை தொற்று என்பது பாக்டீரியாவால் ஏற்படும் தொற்றுநோயாகும். இது சிறுநீரகம், மூத்திரப்பை அல்லது மூத்திரக் குழாயை பாதித்து, எரிச்சல் மற்றும் வலியுடன் சிறுநீர் செல்ல காரணமாகிறது."
+  },
+  {
+    "disease_label": 33,
+    "lang": "ta",
+    "disease_name": "லூபஸ்",
+    "aliases": ["SLE"],
+    "definitions": "லூபஸ் என்பது தன்னைத்தானே தாக்கும் நோயாகும். இதில் நோய் எதிர்ப்பு அமைப்பு உடலின் சொந்த திசுக்களை தாக்கி, மூட்டுகள், தோல், சிறுநீரகம் மற்றும் இதயத்தை பாதிக்கிறது."
+  },
+  {
+    "disease_label": 34,
+    "lang": "ta",
+    "disease_name": "ஸ்கர்வி",
+    "aliases": [],
+    "definitions": "ஸ்கர்வி என்பது வைட்டமின் C குறைபாட்டால் ஏற்படும் ஊட்டச்சத்து நோயாகும். இது ஈறுகள், தோல் மற்றும் எலும்புகளை பாதித்து, இரத்தக்கசிவு மற்றும் களைப்பை ஏற்படுத்துகிறது."
+  },
+  {
+    "disease_label": 35,
+    "lang": "ta",
+    "disease_name": "ரிங் வோர்ம்",
+    "aliases": ["தோல் பூஞ்சை தொற்று"],
+    "definitions": "ரிங் வோர்ம் என்பது தோலை பாதிக்கும் பூஞ்சை தொற்றுநோயாகும். இது வட்ட வடிவ சிரங்கு, அரிப்பு மற்றும் சிவப்பை ஏற்படுத்தி, நேரடி தொடர்பு மூலம் பரவுகிறது."
+  },
+  {
+    "disease_label": 36,
+    "lang": "ta",
+    "disease_name": "நிபா வைரஸ் தொற்று",
+    "aliases": [],
+    "definitions": "நிபா வைரஸ் தொற்று என்பது Nipah வைரஸால் ஏற்படும் தீவிர வைரஸ் நோயாகும். இது மூளை மற்றும் சுவாச அமைப்பை பாதித்து, வவ்வால்கள் மூலம் பரவுகிறது."
+  },
+  {
+    "disease_label": 37,
+    "lang": "ta",
+    "disease_name": "சீகா வைரஸ் நோய்",
+    "aliases": [],
+    "definitions": "சீகா வைரஸ் நோய் என்பது Zika வைரஸால் ஏற்படும் கொசு மூலம் பரவும் நோயாகும். இது கர்ப்பிணிப் பெண்களில் பிறவியிலேயே குழந்தை மூளை வளர்ச்சி குறைவை ஏற்படுத்தலாம்."
+  },
+  {
+    "disease_label": 38,
+    "lang": "ta",
+    "disease_name": "மஞ்சள் காய்ச்சல்",
+    "aliases": [],
+    "definitions": "மஞ்சள் காய்ச்சல் என்பது Yellow Fever வைரஸால் ஏற்படும் கொசு மூலம் பரவும் வைரஸ் நோயாகும். இது கல்லீரல் மற்றும் இரத்தத்தை பாதித்து, காய்ச்சல் மற்றும் மஞ்சள்தன்மையை ஏற்படுத்துகிறது."
+  },
+  {
+    "disease_label": 39,
+    "lang": "ta",
+    "disease_name": "பல சிஸ்ட் கருப்பை நோய்",
+    "aliases": ["PCOS"],
+    "definitions": "PCOS என்பது ஹார்மோன் சமநிலை கோளாறால் ஏற்படும் பெண்கள் இனப்பெருக்க நோயாகும். இது கருப்பை, மாதவிடாய் மற்றும் இன்சுலின் செயல்பாட்டை பாதிக்கிறது."
+  },
+  {
+    "disease_label": 40,
+    "lang": "ta",
+    "disease_name": "தைராய்டு குறைபாடு",
+    "aliases": ["ஹைப்போதைராய்டிசம்"],
+    "definitions": "ஹைப்போதைராய்டிசம் என்பது தைராய்டு ஹார்மோன் குறைவால் ஏற்படும் உட்சுரப்பி நோயாகும். இது உடல் மெட்டபாலிசத்தை குறைத்து, சோர்வு மற்றும் எடை அதிகரிப்பை ஏற்படுத்துகிறது."
+  },
+  {
+    "disease_label": 41,
+    "lang": "ta",
+    "disease_name": "தைராய்டு அதிகரிப்பு",
+    "aliases": ["ஹைப்பர்தைராய்டிசம்"],
+    "definitions": "ஹைப்பர்தைராய்டிசம் என்பது தைராய்டு ஹார்மோன் அதிகமாக சுரப்பதால் ஏற்படும் நிலையாகும். இது இதய துடிப்பு, எடை இழப்பு மற்றும் பதட்டத்தை ஏற்படுத்துகிறது."
+  },
+  {
+    "disease_label": 42,
+    "lang": "ta",
+    "disease_name": "நீண்டகால மூச்சுத் தடை நோய்",
+    "aliases": ["COPD"],
+    "definitions": "COPD என்பது நீண்டகால நுரையீரல் நோயாகும். இது புகைபிடித்தல் காரணமாக ஏற்பட்டு, காற்றோட்டத்தை குறைத்து மூச்சுத்திணறலை ஏற்படுத்துகிறது."
+  },
+  {
+    "disease_label": 43,
+    "lang": "ta",
+    "disease_name": "எண்டோமெட்ரியோசிஸ்",
+    "aliases": [],
+    "definitions": "எண்டோமெட்ரியோசிஸ் என்பது கருப்பை உள் திசு வெளியே வளர்வதால் ஏற்படும் பெண்கள் நோயாகும். இது கடும் மாதவிடாய் வலி மற்றும் கருத்தரிப்பு சிக்கல்களை ஏற்படுத்துகிறது."
+  },
+  {
+    "disease_label": 44,
+    "lang": "ta",
+    "disease_name": "முத்துக்கண்",
+    "aliases": ["கேட்டரக்ட்"],
+    "definitions": "முத்துக்கண் என்பது கண் லென்ஸ் மங்குவதால் ஏற்படும் நிலையாகும். இது முதியவர்களில் அதிகம் காணப்பட்டு, பார்வை மங்கலையும் குருட்டுத்தனத்தையும் ஏற்படுத்தலாம்."
+  },
+  {
+    "disease_label": 45,
+    "lang": "ta",
+    "disease_name": "HIV / AIDS",
+    "aliases": [],
+    "definitions": "HIV என்பது மனித நோய் எதிர்ப்பு குறைபாடு வைரஸால் ஏற்படும் தொற்றுநோயாகும். இது நோய் எதிர்ப்பு அமைப்பை பாதித்து, சிகிச்சையின்றி AIDS நிலைக்கு முன்னேறும்."
+  },
+  {
+    "disease_label": 46,
+    "lang": "ta",
+    "disease_name": "வாய் புற்றுநோய்",
+    "aliases": [],
+    "definitions": "வாய் புற்றுநோய் என்பது வாய்திசுக்களில் ஏற்படும் தீவிர செல்கள் வளர்ச்சியால் உருவாகும் நோயாகும். இது புகையிலை மற்றும் மது பழக்கத்துடன் தொடர்புடையது."
+  },
+  {
+    "disease_label": 47,
+    "lang": "ta",
+    "disease_name": "வயிறு புற்றுநோய்",
+    "aliases": [],
+    "definitions": "வயிறு புற்றுநோய் என்பது வயிற்று உள் உறையில் ஏற்படும் தீவிர செல்கள் வளர்ச்சியால் உருவாகும் நோயாகும். இது உணவுப் பழக்கம் மற்றும் பாக்டீரியா தொற்றுகளுடன் தொடர்புடையது."
+  },
+  {
+    "disease_label": 48,
+    "lang": "ta",
+    "disease_name": "கல்லீரல் புற்றுநோய்",
+    "aliases": [],
+    "definitions": "கல்லீரல் புற்றுநோய் என்பது கல்லீரல் செல்களில் ஏற்படும் தீவிர புற்றுநோயாகும். இது நீண்டகால ஹெபடைட்டிஸ் அல்லது சிரோசிஸ் காரணமாக உருவாகிறது."
+  },
+  {
+    "disease_label": 49,
+    "lang": "ta",
+    "disease_name": "நுரையீரல் புற்றுநோய்",
+    "aliases": [],
+    "definitions": "நுரையீரல் புற்றுநோய் என்பது நுரையீரல் திசுக்களில் ஏற்படும் தீவிர புற்றுநோயாகும். இது பெரும்பாலும் புகைபிடித்தலால் ஏற்பட்டு, சுவாச அமைப்பை பாதிக்கிறது."
+  },
+  {
+    "disease_label": 50,
+    "lang": "ta",
+    "disease_name": "மூலம்",
+    "aliases": ["பைல்ஸ்"],
+    "definitions": "மூலம் என்பது மலத்துளை அருகே உள்ள இரத்த நாளங்கள் வீங்குவதால் ஏற்படும் நிலையாகும். இது மலச்சிக்கல் மற்றும் அதிக அழுத்தம் காரணமாக ஏற்படுகிறது."
+  },
+  {
+    "disease_label": 51,
+    "lang": "ta",
+    "disease_name": "எக்சீமா",
+    "aliases": [],
+    "definitions": "எக்சீமா என்பது தோலை பாதிக்கும் நீண்டகால அலர்ஜி நோயாகும். இது தோல் வறட்சி, அரிப்பு மற்றும் அழற்சியை ஏற்படுத்துகிறது."
+  },
+  {
+    "disease_label": 52,
+    "lang": "ta",
+    "disease_name": "முகப்பரு",
+    "aliases": ["ஆக்னி"],
+    "definitions": "முகப்பரு என்பது தோல் சுரப்பிகள் அடைதலால் ஏற்படும் தோல் நோயாகும். இது ஹார்மோன் மாற்றங்கள் மற்றும் பாக்டீரியா வளர்ச்சியுடன் தொடர்புடையது."
+  },
+  {
+    "disease_label": 53,
+    "lang": "ta",
+    "disease_name": "மஞ்சள் காமாலை",
+    "aliases": [],
+    "definitions": "மஞ்சள் காமாலை என்பது கல்லீரல் அல்லது இரத்தக் கோளாறுகள் காரணமாக பிலிருபின் அதிகரிப்பால் ஏற்படும் நிலையாகும். இது தோல் மற்றும் கண்களின் வெள்ளைப் பகுதி மஞ்சளாக மாற காரணமாகிறது."
+  },
+  {
+    "disease_label": 0,
+    "lang": "hi",
+    "disease_name": "एनीमिया",
+    "aliases": ["रक्ताल्पता"],
+    "definitions": "एनीमिया एक रक्त विकार है जिसमें लाल रक्त कोशिकाओं या हीमोग्लोबिन की कमी हो जाती है। इससे शरीर के ऊतकों तक ऑक्सीजन की आपूर्ति कम होती है, जिससे थकान, कमजोरी और सांस फूलना होता है।"
+  },
+  {
+    "disease_label": 1,
+    "lang": "hi",
+    "disease_name": "मधुमेह",
+    "aliases": ["डायबिटीज"],
+    "definitions": "मधुमेह एक चयापचय रोग है जिसमें इंसुलिन की कमी या प्रभावहीनता के कारण रक्त शर्करा बढ़ जाती है। यह अग्न्याशय, नसों, आंखों, गुर्दों और हृदय को प्रभावित करता है।"
+  },
+  {
+    "disease_label": 2,
+    "lang": "hi",
+    "disease_name": "उच्च रक्तचाप",
+    "aliases": ["हाई ब्लड प्रेशर"],
+    "definitions": "उच्च रक्तचाप एक हृदय-रक्तवाहिका रोग है जिसमें धमनियों पर रक्त का दबाव लगातार अधिक रहता है। यह हृदय, मस्तिष्क, गुर्दे और आंखों को नुकसान पहुंचा सकता है।"
+  },
+  {
+    "disease_label": 3,
+    "lang": "hi",
+    "disease_name": "क्षय रोग",
+    "aliases": ["टीबी"],
+    "definitions": "क्षय रोग Mycobacterium tuberculosis बैक्टीरिया से होने वाला संक्रामक रोग है। यह मुख्य रूप से फेफड़ों को प्रभावित करता है और हवा के माध्यम से फैलता है।"
+  },
+  {
+    "disease_label": 4,
+    "lang": "hi",
+    "disease_name": "चिकनगुनिया",
+    "aliases": [],
+    "definitions": "चिकनगुनिया एक वायरल रोग है जो चिकनगुनिया वायरस से होता है। यह एडीज मच्छर से फैलता है और जोड़ों, मांसपेशियों में तेज दर्द व बुखार पैदा करता है।"
+  },
+  {
+    "disease_label": 5,
+    "lang": "hi",
+    "disease_name": "डेंगू",
+    "aliases": ["डेंगू बुखार"],
+    "definitions": "डेंगू डेंगू वायरस से होने वाला मच्छर जनित रोग है। यह रक्त और प्रतिरक्षा प्रणाली को प्रभावित करता है, जिससे तेज बुखार, बदन दर्द और रक्तस्राव हो सकता है।"
+  },
+  {
+    "disease_label": 6,
+    "lang": "hi",
+    "disease_name": "टाइफाइड",
+    "aliases": ["टाइफाइड बुखार"],
+    "definitions": "टाइफाइड Salmonella typhi बैक्टीरिया से होने वाला संक्रामक रोग है। यह दूषित भोजन और पानी से फैलता है और पाचन तंत्र व रक्त को प्रभावित करता है।"
+  },
+  {
+    "disease_label": 7,
+    "lang": "hi",
+    "disease_name": "दस्त",
+    "aliases": ["डायरिया"],
+    "definitions": "दस्त एक पाचन तंत्र विकार है जो बैक्टीरिया, वायरस या परजीवी संक्रमण से होता है। इसमें बार-बार पतला मल आता है और शरीर में पानी की कमी हो जाती है।"
+  },
+  {
+    "disease_label": 8,
+    "lang": "hi",
+    "disease_name": "कुपोषण",
+    "aliases": [],
+    "definitions": "कुपोषण वह स्थिति है जिसमें शरीर को आवश्यक पोषक तत्व पर्याप्त मात्रा में नहीं मिलते। यह वृद्धि, प्रतिरक्षा प्रणाली और अंगों के कार्य को प्रभावित करता है।"
+  },
+  {
+    "disease_label": 9,
+    "lang": "hi",
+    "disease_name": "हैजा",
+    "aliases": ["कॉलरा"],
+    "definitions": "हैजा Vibrio cholerae बैक्टीरिया से होने वाला तीव्र आंत संक्रमण है। यह दूषित पानी से फैलता है और गंभीर दस्त व तेज निर्जलीकरण का कारण बनता है।"
+  },
+  {
+    "disease_label": 10,
+    "lang": "hi",
+    "disease_name": "निर्जलीकरण",
+    "aliases": ["डिहाइड्रेशन"],
+    "definitions": "निर्जलीकरण शरीर में पानी और इलेक्ट्रोलाइट्स की अत्यधिक कमी से होता है। यह दस्त, उल्टी या कम पानी पीने से होता है और रक्त व गुर्दों को प्रभावित करता है।"
+  },
+  {
+    "disease_label": 11,
+    "lang": "hi",
+    "disease_name": "आयु संबंधी मैक्यूलर डिजनरेशन",
+    "aliases": ["AMD"],
+    "definitions": "यह आंखों की रेटिना को प्रभावित करने वाला रोग है जो उम्र बढ़ने के साथ होता है। इससे केंद्रीय दृष्टि धीरे-धीरे कम हो जाती है।"
+  },
+  {
+    "disease_label": 12,
+    "lang": "hi",
+    "disease_name": "नेत्रश्लेष्मलाशोथ",
+    "aliases": ["पिंक आई"],
+    "definitions": "नेत्रश्लेष्मलाशोथ आंख की बाहरी झिल्ली का संक्रमण है जो बैक्टीरिया या वायरस से होता है। इससे आंखों में लालिमा, जलन और पानी आता है।"
+  },
+  {
+    "disease_label": 13,
+    "lang": "hi",
+    "disease_name": "अस्थमा",
+    "aliases": [],
+    "definitions": "अस्थमा एक दीर्घकालिक श्वसन रोग है जिसमें वायुमार्ग संकुचित हो जाते हैं। इससे सांस लेने में कठिनाई, खांसी और सीटी जैसी आवाज आती है।"
+  },
+  {
+    "disease_label": 14,
+    "lang": "hi",
+    "disease_name": "इन्फ्लुएंजा",
+    "aliases": ["फ्लू"],
+    "definitions": "इन्फ्लुएंजा एक वायरल संक्रमण है जो श्वसन तंत्र को प्रभावित करता है। यह इन्फ्लुएंजा वायरस से होता है और बुखार, खांसी व शरीर दर्द पैदा करता है।"
+  },
+  {
+    "disease_label": 15,
+    "lang": "hi",
+    "disease_name": "निमोनिया",
+    "aliases": [],
+    "definitions": "निमोनिया फेफड़ों का संक्रमण है जो बैक्टीरिया, वायरस या फंगस से होता है। इससे सांस फूलना, खांसी और बुखार होता है।"
+  },
+  {
+    "disease_label": 16,
+    "lang": "hi",
+    "disease_name": "कब्ज",
+    "aliases": [],
+    "definitions": "कब्ज एक पाचन समस्या है जिसमें मल त्याग कठिन या कम हो जाता है। यह कम फाइबर आहार, पानी की कमी और निष्क्रिय जीवनशैली से होता है।"
+  },
+  {
+    "disease_label": 17,
+    "lang": "hi",
+    "disease_name": "साइनुसाइटिस",
+    "aliases": ["साइनस संक्रमण"],
+    "definitions": "साइनुसाइटिस साइनस गुहाओं की सूजन है जो वायरस या बैक्टीरिया से होती है। इससे सिरदर्द, नाक बंद होना और चेहरे में दबाव महसूस होता है।"
+  },
+  {
+    "disease_label": 18,
+    "lang": "hi",
+    "disease_name": "फूड पॉइज़निंग",
+    "aliases": ["खाद्य विषाक्तता"],
+    "definitions": "फूड पॉइज़निंग दूषित भोजन में मौजूद बैक्टीरिया या विषाक्त पदार्थों से होती है। यह पेट, आंतों को प्रभावित कर उल्टी और दस्त का कारण बनती है।"
+  },
+  {
+    "disease_label": 19,
+    "lang": "hi",
+    "disease_name": "फंगल संक्रमण",
+    "aliases": [],
+    "definitions": "फंगल संक्रमण कवक से होने वाला रोग है जो त्वचा, नाखून या आंतरिक अंगों को प्रभावित करता है। यह नमी और कमजोर प्रतिरक्षा में अधिक होता है।"
+  },
+  {
+    "disease_label": 20,
+    "lang": "hi",
+    "disease_name": "फैटी लिवर",
+    "aliases": ["वसायुक्त यकृत"],
+    "definitions": "फैटी लिवर एक यकृत विकार है जिसमें यकृत में अधिक वसा जमा हो जाती है। यह मोटापा, मधुमेह या शराब सेवन से होता है।"
+  },
+  {
+    "disease_label": 21,
+    "lang": "hi",
+    "disease_name": "गठिया",
+    "aliases": ["आर्थराइटिस"],
+    "definitions": "गठिया जोड़ों का रोग है जिसमें सूजन और दर्द होता है। यह उम्र, ऑटोइम्यून कारणों या जोड़ क्षति से हो सकता है।"
+  },
+  {
+    "disease_label": 22,
+    "lang": "hi",
+    "disease_name": "हीट स्ट्रोक",
+    "aliases": ["लू लगना"],
+    "definitions": "हीट स्ट्रोक अत्यधिक गर्मी से होने वाली आपात स्थिति है जिसमें शरीर का ताप नियंत्रण बिगड़ जाता है। यह मस्तिष्क और आंतरिक अंगों को नुकसान पहुंचा सकता है।"
+  },
+  {
+    "disease_label": 23,
+    "lang": "hi",
+    "disease_name": "हेपेटाइटिस बी",
+    "aliases": [],
+    "definitions": "हेपेटाइटिस बी एक वायरल संक्रमण है जो हेपेटाइटिस बी वायरस से होता है। यह यकृत को प्रभावित करता है और रक्त व शरीर द्रवों से फैलता है।"
+  },
+  {
+    "disease_label": 24,
+    "lang": "hi",
+    "disease_name": "हेपेटाइटिस सी",
+    "aliases": [],
+    "definitions": "हेपेटाइटिस सी हेपेटाइटिस सी वायरस से होने वाला यकृत रोग है। यह लंबे समय तक रहने पर सिरोसिस और यकृत कैंसर का कारण बन सकता है।"
+  },
+  {
+    "disease_label": 25,
+    "lang": "hi",
+    "disease_name": "लिवर सिरोसिस",
+    "aliases": ["यकृत सिरोसिस"],
+    "definitions": "लिवर सिरोसिस यकृत की दीर्घकालिक क्षति की स्थिति है। यह शराब, वायरल हेपेटाइटिस या फैटी लिवर से हो सकता है।"
+  },
+  {
+    "disease_label": 26,
+    "lang": "hi",
+    "disease_name": "अल्ज़ाइमर रोग",
+    "aliases": [],
+    "definitions": "अल्ज़ाइमर एक तंत्रिका अपक्षयी रोग है जो मस्तिष्क को प्रभावित करता है। इससे स्मृति, सोचने और निर्णय लेने की क्षमता धीरे-धीरे कम हो जाती है।"
+  },
+  {
+    "disease_label": 27,
+    "lang": "hi",
+    "disease_name": "गैस्ट्राइटिस",
+    "aliases": ["पेट की सूजन"],
+    "definitions": "गैस्ट्राइटिस पेट की आंतरिक परत की सूजन है। यह बैक्टीरिया संक्रमण, अधिक अम्ल या दर्द निवारक दवाओं से हो सकता है।"
+  },
+  {
+    "disease_label": 28,
+    "lang": "hi",
+    "disease_name": "पेप्टिक अल्सर",
+    "aliases": ["पेट का अल्सर"],
+    "definitions": "पेप्टिक अल्सर पेट या छोटी आंत की परत में बनने वाला घाव है। यह Helicobacter pylori बैक्टीरिया या दवाओं से होता है।"
+  },
+  {
+    "disease_label": 29,
+    "lang": "hi",
+    "disease_name": "पार्किंसन रोग",
+    "aliases": [],
+    "definitions": "पार्किंसन रोग एक तंत्रिका संबंधी विकार है जो मस्तिष्क में डोपामिन की कमी से होता है। इससे कंपकंपी और गति में कमी आती है।"
+  },
+  {
+    "disease_label": 30,
+    "lang": "hi",
+    "disease_name": "स्तन कैंसर",
+    "aliases": [],
+    "definitions": "स्तन कैंसर स्तन ऊतकों में असामान्य कोशिकाओं की वृद्धि से होता है। यह हार्मोनल, आनुवंशिक और जीवनशैली कारकों से जुड़ा होता है।"
+  },
+  {
+    "disease_label": 31,
+    "lang": "hi",
+    "disease_name": "गर्भाशय ग्रीवा कैंसर",
+    "aliases": ["सर्वाइकल कैंसर"],
+    "definitions": "यह कैंसर Human Papillomavirus (HPV) संक्रमण से होता है। यह महिलाओं की प्रजनन प्रणाली को प्रभावित करता है।"
+  },
+  {
+    "disease_label": 32,
+    "lang": "hi",
+    "disease_name": "मूत्र मार्ग संक्रमण",
+    "aliases": ["UTI"],
+    "definitions": "मूत्र मार्ग संक्रमण बैक्टीरिया से होने वाला रोग है। यह मूत्राशय, मूत्रमार्ग या गुर्दों को प्रभावित करता है।"
+  },
+  {
+    "disease_label": 33,
+    "lang": "hi",
+    "disease_name": "ल्यूपस",
+    "aliases": ["SLE"],
+    "definitions": "ल्यूपस एक ऑटोइम्यून रोग है जिसमें प्रतिरक्षा प्रणाली शरीर के अपने अंगों पर हमला करती है। यह जोड़ों, त्वचा और गुर्दों को प्रभावित करता है।"
+  },
+  {
+    "disease_label": 34,
+    "lang": "hi",
+    "disease_name": "स्कर्वी",
+    "aliases": [],
+    "definitions": "स्कर्वी विटामिन C की कमी से होने वाला रोग है। यह मसूड़ों, त्वचा और हड्डियों को प्रभावित करता है।"
+  },
+  {
+    "disease_label": 35,
+    "lang": "hi",
+    "disease_name": "दाद",
+    "aliases": ["रिंगवर्म"],
+    "definitions": "दाद एक फंगल त्वचा संक्रमण है जो गोलाकार चकत्तों के रूप में दिखाई देता है। यह सीधे संपर्क से फैलता है।"
+  },
+  {
+    "disease_label": 36,
+    "lang": "hi",
+    "disease_name": "निपाह वायरस संक्रमण",
+    "aliases": [],
+    "definitions": "निपाह वायरस संक्रमण एक गंभीर वायरल रोग है जो निपाह वायरस से होता है। यह मस्तिष्क और श्वसन तंत्र को प्रभावित करता है।"
+  },
+  {
+    "disease_label": 37,
+    "lang": "hi",
+    "disease_name": "जीका वायरस रोग",
+    "aliases": [],
+    "definitions": "जीका वायरस रोग मच्छरों से फैलने वाला वायरल संक्रमण है। यह गर्भवती महिलाओं में भ्रूण के मस्तिष्क विकास को प्रभावित कर सकता है।"
+  },
+  {
+    "disease_label": 38,
+    "lang": "hi",
+    "disease_name": "येलो फीवर",
+    "aliases": ["पीला बुखार"],
+    "definitions": "येलो फीवर एक मच्छर जनित वायरल रोग है। यह यकृत और रक्त को प्रभावित करता है और पीलिया उत्पन्न कर सकता है।"
+  },
+  {
+    "disease_label": 39,
+    "lang": "hi",
+    "disease_name": "पॉलीसिस्टिक ओवरी सिंड्रोम",
+    "aliases": ["PCOS"],
+    "definitions": "PCOS एक हार्मोनल विकार है जो महिलाओं की प्रजनन प्रणाली को प्रभावित करता है। इससे मासिक धर्म अनियमितता और हार्मोन असंतुलन होता है।"
+  },
+  {
+    "disease_label": 40,
+    "lang": "hi",
+    "disease_name": "हाइपोथायरॉयडिज्म",
+    "aliases": ["थायरॉयड की कमी"],
+    "definitions": "हाइपोथायरॉयडिज्म थायरॉयड हार्मोन की कमी से होता है। यह चयापचय को धीमा कर देता है और थकान व वजन बढ़ाता है।"
+  },
+  {
+    "disease_label": 41,
+    "lang": "hi",
+    "disease_name": "हाइपरथायरॉयडिज्म",
+    "aliases": ["थायरॉयड की अधिकता"],
+    "definitions": "हाइपरथायरॉयडिज्म थायरॉयड हार्मोन की अधिकता से होता है। इससे दिल की धड़कन तेज, वजन कम और घबराहट होती है।"
+  },
+  {
+    "disease_label": 42,
+    "lang": "hi",
+    "disease_name": "सीओपीडी",
+    "aliases": ["क्रॉनिक ऑब्सट्रक्टिव पल्मोनरी डिजीज"],
+    "definitions": "COPD एक दीर्घकालिक फेफड़ों का रोग है जो मुख्य रूप से धूम्रपान से होता है। इससे सांस लेने में लगातार कठिनाई होती है।"
+  },
+  {
+    "disease_label": 43,
+    "lang": "hi",
+    "disease_name": "एंडोमेट्रियोसिस",
+    "aliases": [],
+    "definitions": "एंडोमेट्रियोसिस महिलाओं का रोग है जिसमें गर्भाशय की परत बाहर बढ़ने लगती है। इससे दर्द और बांझपन हो सकता है।"
+  },
+  {
+    "disease_label": 44,
+    "lang": "hi",
+    "disease_name": "मोतियाबिंद",
+    "aliases": ["कैटरैक्ट"],
+    "definitions": "मोतियाबिंद आंख के लेंस के धुंधला होने की स्थिति है। यह उम्र बढ़ने पर होता है और दृष्टि कमजोर कर देता है।"
+  },
+  {
+    "disease_label": 45,
+    "lang": "hi",
+    "disease_name": "एचआईवी / एड्स",
+    "aliases": [],
+    "definitions": "एचआईवी एक वायरल संक्रमण है जो प्रतिरक्षा प्रणाली को कमजोर करता है। बिना इलाज के यह एड्स में बदल सकता है।"
+  },
+  {
+    "disease_label": 46,
+    "lang": "hi",
+    "disease_name": "मुख कैंसर",
+    "aliases": ["ओरल कैंसर"],
+    "definitions": "मुख कैंसर मुंह के ऊतकों में होने वाला कैंसर है। यह तंबाकू और शराब सेवन से जुड़ा होता है।"
+  },
+  {
+    "disease_label": 47,
+    "lang": "hi",
+    "disease_name": "पेट कैंसर",
+    "aliases": ["गैस्ट्रिक कैंसर"],
+    "definitions": "पेट कैंसर पेट की आंतरिक परत में असामान्य कोशिकाओं की वृद्धि से होता है। यह आहार और संक्रमण से जुड़ा हो सकता है।"
+  },
+  {
+    "disease_label": 48,
+    "lang": "hi",
+    "disease_name": "लिवर कैंसर",
+    "aliases": ["यकृत कैंसर"],
+    "definitions": "लिवर कैंसर यकृत कोशिकाओं में होने वाला घातक रोग है। यह सिरोसिस और वायरल हेपेटाइटिस से जुड़ा होता है।"
+  },
+  {
+    "disease_label": 49,
+    "lang": "hi",
+    "disease_name": "फेफड़ों का कैंसर",
+    "aliases": ["लंग कैंसर"],
+    "definitions": "फेफड़ों का कैंसर फेफड़ों के ऊतकों में असामान्य कोशिकाओं की वृद्धि से होता है। इसका मुख्य कारण धूम्रपान है।"
+  },
+  {
+    "disease_label": 50,
+    "lang": "hi",
+    "disease_name": "बवासीर",
+    "aliases": ["पाइल्स"],
+    "definitions": "बवासीर गुदा क्षेत्र की सूजी हुई नसों की स्थिति है। यह कब्ज और अधिक दबाव से होती है।"
+  },
+  {
+    "disease_label": 51,
+    "lang": "hi",
+    "disease_name": "एक्जिमा",
+    "aliases": [],
+    "definitions": "एक्जिमा एक त्वचा रोग है जिसमें सूजन, खुजली और लालिमा होती है। यह एलर्जी और प्रतिरक्षा कारणों से होता है।"
+  },
+  {
+    "disease_label": 52,
+    "lang": "hi",
+    "disease_name": "मुंहासे",
+    "aliases": ["एक्ने"],
+    "definitions": "मुंहासे त्वचा की वसा ग्रंथियों के बंद होने से होने वाला रोग है। यह हार्मोनल बदलाव और बैक्टीरिया से जुड़ा होता है।"
+  },
+  {
+    "disease_label": 53,
+    "lang": "hi",
+    "disease_name": "पीलिया",
+    "aliases": ["जॉन्डिस"],
+    "definitions": "पीलिया एक स्थिति है जिसमें रक्त में बिलीरुबिन बढ़ने से त्वचा और आंखें पीली हो जाती हैं। यह यकृत या रक्त विकारों से होता है।"
+  },
+  {
+    "disease_label": 0,
+    "lang": "te",
+    "disease_name": "రక్తహీనత",
+    "aliases": ["అనీమియా"],
+    "definitions": "రక్తహీనత అనేది రక్త ప్రసరణ వ్యవస్థను ప్రభావితం చేసే వ్యాధి. ఇందులో ఎర్ర రక్తకణాలు లేదా హీమోగ్లోబిన్ తక్కువగా ఉండటం వల్ల శరీర కణజాలాలకు ఆక్సిజన్ సరఫరా తగ్గుతుంది. ఇది ఐరన్ లోపం, విటమిన్ లోపాలు, దీర్ఘకాలిక వ్యాధులు లేదా సంక్రమణల వల్ల కలుగుతుంది."
+  },
+  {
+    "disease_label": 1,
+    "lang": "te",
+    "disease_name": "మధుమేహం",
+    "aliases": ["డయాబెటిస్"],
+    "definitions": "మధుమేహం అనేది చయాపచయ వ్యాధి. ఇందులో ఇన్సులిన్ లోపం లేదా ఇన్సులిన్ పనిచేయకపోవడం వల్ల రక్తంలో చక్కెర స్థాయిలు పెరుగుతాయి. ఇది కళ్ళు, నరాలు, కిడ్నీలు మరియు గుండెను ప్రభావితం చేస్తుంది."
+  },
+  {
+    "disease_label": 2,
+    "lang": "te",
+    "disease_name": "అధిక రక్తపోటు",
+    "aliases": ["హై బ్లడ్ ప్రెజర్"],
+    "definitions": "అధిక రక్తపోటు అనేది గుండె-రక్తనాళాల వ్యాధి. ఇందులో రక్తపోటు నిరంతరం ఎక్కువగా ఉండి గుండె, మెదడు, కిడ్నీలు మరియు రక్తనాళాలకు హాని కలిగిస్తుంది."
+  },
+  {
+    "disease_label": 3,
+    "lang": "te",
+    "disease_name": "క్షయ వ్యాధి",
+    "aliases": ["టీబీ"],
+    "definitions": "క్షయ వ్యాధి Mycobacterium tuberculosis అనే బ్యాక్టీరియా వల్ల కలిగే అంటువ్యాధి. ఇది ప్రధానంగా ఊపిరితిత్తులను ప్రభావితం చేస్తుంది మరియు గాలిమార్గం ద్వారా వ్యాపిస్తుంది."
+  },
+  {
+    "disease_label": 4,
+    "lang": "te",
+    "disease_name": "చికున్‌గున్యా",
+    "aliases": [],
+    "definitions": "చికున్‌గున్యా అనేది చికున్‌గున్యా వైరస్ వల్ల కలిగే వైరల్ వ్యాధి. ఇది ఏడీస్ దోమల ద్వారా వ్యాపించి తీవ్రమైన జాయింట్ నొప్పి మరియు జ్వరాన్ని కలిగిస్తుంది."
+  },
+  {
+    "disease_label": 5,
+    "lang": "te",
+    "disease_name": "డెంగ్యూ",
+    "aliases": ["డెంగ్యూ జ్వరం"],
+    "definitions": "డెంగ్యూ అనేది డెంగ్యూ వైరస్ వల్ల కలిగే దోమల ద్వారా వ్యాపించే వ్యాధి. ఇది రక్తం మరియు రోగనిరోధక వ్యవస్థను ప్రభావితం చేసి తీవ్రమైన జ్వరం, శరీర నొప్పులు మరియు రక్తస్రావానికి దారితీయవచ్చు."
+  },
+  {
+    "disease_label": 6,
+    "lang": "te",
+    "disease_name": "టైఫాయిడ్",
+    "aliases": ["టైఫాయిడ్ జ్వరం"],
+    "definitions": "టైఫాయిడ్ అనేది Salmonella typhi బ్యాక్టీరియా వల్ల కలిగే వ్యాధి. ఇది కలుషిత ఆహారం లేదా నీటివల్ల వ్యాపించి జీర్ణవ్యవస్థను ప్రభావితం చేస్తుంది."
+  },
+  {
+    "disease_label": 7,
+    "lang": "te",
+    "disease_name": "విరేచనాలు",
+    "aliases": ["డయేరియా"],
+    "definitions": "విరేచనాలు అనేవి పేగులను ప్రభావితం చేసే జీర్ణవ్యవస్థ సమస్య. ఇది బ్యాక్టీరియా, వైరస్ లేదా పరాన్నజీవుల వల్ల కలిగి నీరసం మరియు నీరసాన్ని కలిగిస్తుంది."
+  },
+  {
+    "disease_label": 8,
+    "lang": "te",
+    "disease_name": "పోషకాహార లోపం",
+    "aliases": [],
+    "definitions": "పోషకాహార లోపం అనేది శరీరానికి అవసరమైన పోషకాలు సరిపడగా లభించకపోవడం వల్ల కలిగే పరిస్థితి. ఇది వృద్ధి, రోగనిరోధక శక్తి మరియు అవయవాల పనితీరును ప్రభావితం చేస్తుంది."
+  },
+  {
+    "disease_label": 9,
+    "lang": "te",
+    "disease_name": "కాలరా",
+    "aliases": [],
+    "definitions": "కాలరా అనేది Vibrio cholerae బ్యాక్టీరియా వల్ల కలిగే తీవ్రమైన పేగు సంక్రమణ. ఇది కలుషిత నీటివల్ల వ్యాపించి తీవ్రమైన విరేచనాలు మరియు నీరసం కలిగిస్తుంది."
+  },
+  {
+    "disease_label": 10,
+    "lang": "te",
+    "disease_name": "నీటి లోపం",
+    "aliases": ["డీహైడ్రేషన్"],
+    "definitions": "నీటి లోపం అనేది శరీరంలో నీరు మరియు ఎలక్ట్రోలైట్స్ తక్కువగా ఉండే పరిస్థితి. ఇది విరేచనాలు, వాంతులు లేదా తక్కువ నీరు తాగడం వల్ల కలుగుతుంది."
+  },
+  {
+    "disease_label": 11,
+    "lang": "te",
+    "disease_name": "వయస్సుతో వచ్చే మాక్యులార్ డిజెనరేషన్",
+    "aliases": ["AMD"],
+    "definitions": "ఇది కంటి రెటినాను ప్రభావితం చేసే వ్యాధి. ముఖ్యంగా వృద్ధుల్లో మధ్య దృష్టి నెమ్మదిగా తగ్గుతుంది."
+  },
+  {
+    "disease_label": 12,
+    "lang": "te",
+    "disease_name": "కంటి పొర వాపు",
+    "aliases": ["పింక్ ఐ"],
+    "definitions": "కంటి పొర వాపు అనేది బ్యాక్టీరియా లేదా వైరస్ వల్ల కలిగే కంటి సంక్రమణ. ఇది ఎర్రదనం, నీరు రావడం మరియు మంటను కలిగిస్తుంది."
+  },
+  {
+    "disease_label": 13,
+    "lang": "te",
+    "disease_name": "ఆస్తమా",
+    "aliases": [],
+    "definitions": "ఆస్తమా అనేది దీర్ఘకాలిక శ్వాసకోశ వ్యాధి. ఇందులో శ్వాసనాళాలు సంకుచితం కావడం వల్ల శ్వాస తీసుకోవడంలో ఇబ్బంది కలుగుతుంది."
+  },
+  {
+    "disease_label": 14,
+    "lang": "te",
+    "disease_name": "ఇన్‌ఫ్లుయెంజా",
+    "aliases": ["ఫ్లూ"],
+    "definitions": "ఇన్‌ఫ్లుయెంజా అనేది శ్వాసకోశాన్ని ప్రభావితం చేసే వైరల్ వ్యాధి. ఇది జ్వరం, దగ్గు మరియు శరీర నొప్పులను కలిగిస్తుంది."
+  },
+  {
+    "disease_label": 15,
+    "lang": "te",
+    "disease_name": "న్యూమోనియా",
+    "aliases": [],
+    "definitions": "న్యూమోనియా అనేది బ్యాక్టీరియా, వైరస్ లేదా ఫంగస్ వల్ల కలిగే ఊపిరితిత్తుల సంక్రమణ. ఇది శ్వాస తీసుకోవడంలో ఇబ్బంది మరియు జ్వరాన్ని కలిగిస్తుంది."
+  },
+  {
+    "disease_label": 16,
+    "lang": "te",
+    "disease_name": "మలబద్ధకం",
+    "aliases": [],
+    "definitions": "మలబద్ధకం అనేది పేగుల సమస్య. ఇందులో మల విసర్జన కష్టంగా లేదా అరుదుగా జరుగుతుంది."
+  },
+  {
+    "disease_label": 17,
+    "lang": "te",
+    "disease_name": "సైనసైటిస్",
+    "aliases": ["సైనస్ సంక్రమణ"],
+    "definitions": "సైనసైటిస్ అనేది సైనస్ గదుల్లో వాపు. ఇది వైరల్ లేదా బ్యాక్టీరియా సంక్రమణ వల్ల కలుగుతుంది."
+  },
+  {
+    "disease_label": 18,
+    "lang": "te",
+    "disease_name": "ఆహార విషబాధ",
+    "aliases": ["ఫుడ్ పాయిజనింగ్"],
+    "definitions": "ఆహార విషబాధ అనేది కలుషిత ఆహారంలో ఉన్న బ్యాక్టీరియా లేదా విషాల వల్ల కలిగే జీర్ణవ్యవస్థ వ్యాధి."
+  },
+  {
+    "disease_label": 19,
+    "lang": "te",
+    "disease_name": "ఫంగల్ సంక్రమణలు",
+    "aliases": [],
+    "definitions": "ఫంగల్ సంక్రమణలు అనేవి ఫంగస్ వల్ల కలిగే వ్యాధులు. ఇవి చర్మం, గోర్లు లేదా అంతర్గత అవయవాలను ప్రభావితం చేస్తాయి."
+  },
+  {
+    "disease_label": 20,
+    "lang": "te",
+    "disease_name": "కొవ్వు కాలేయం",
+    "aliases": ["ఫ్యాటి లివర్"],
+    "definitions": "కొవ్వు కాలేయం అనేది కాలేయ కణాల్లో అధిక కొవ్వు చేరడం వల్ల కలిగే వ్యాధి. ఇది మధుమేహం, ఊబకాయం లేదా మద్యం వల్ల కలుగుతుంది."
+  },
+  {
+    "disease_label": 21,
+    "lang": "te",
+    "disease_name": "సంధివాతం",
+    "aliases": ["ఆర్థరైటిస్"],
+    "definitions": "సంధివాతం అనేది సంధులను ప్రభావితం చేసే వ్యాధి. ఇది వాపు, నొప్పి మరియు కదలికల లోపాన్ని కలిగిస్తుంది."
+  },
+  {
+    "disease_label": 22,
+    "lang": "te",
+    "disease_name": "వడదెబ్బ",
+    "aliases": ["హీట్ స్ట్రోక్"],
+    "definitions": "వడదెబ్బ అనేది అధిక ఉష్ణోగ్రతల వల్ల కలిగే అత్యవసర పరిస్థితి. ఇది మెదడు మరియు ముఖ్య అవయవాలను ప్రభావితం చేస్తుంది."
+  },
+  {
+    "disease_label": 23,
+    "lang": "te",
+    "disease_name": "హెపటైటిస్ బి",
+    "aliases": [],
+    "definitions": "హెపటైటిస్ బి అనేది హెపటైటిస్ బి వైరస్ వల్ల కలిగే కాలేయ వ్యాధి. ఇది రక్తం మరియు శరీర ద్రవాల ద్వారా వ్యాపిస్తుంది."
+  },
+  {
+    "disease_label": 24,
+    "lang": "te",
+    "disease_name": "హెపటైటిస్ సి",
+    "aliases": [],
+    "definitions": "హెపటైటిస్ సి అనేది హెపటైటిస్ సి వైరస్ వల్ల కలిగే కాలేయ వ్యాధి. ఇది దీర్ఘకాలంలో సిరోసిస్ లేదా కాలేయ క్యాన్సర్‌కు దారితీయవచ్చు."
+  },
+  {
+    "disease_label": 25,
+    "lang": "te",
+    "disease_name": "కాలేయ సిరోసిస్",
+    "aliases": [],
+    "definitions": "కాలేయ సిరోసిస్ అనేది కాలేయానికి దీర్ఘకాలిక నష్టం వల్ల కలిగే వ్యాధి. ఇది మద్యం లేదా వైరల్ హెపటైటిస్ కారణంగా ఏర్పడుతుంది."
+  },
+  {
+    "disease_label": 26,
+    "lang": "te",
+    "disease_name": "ఆల్జీమర్స్ వ్యాధి",
+    "aliases": [],
+    "definitions": "ఆల్జీమర్స్ అనేది మెదడును ప్రభావితం చేసే నాడీక్షీణ వ్యాధి. ఇది జ్ఞాపకశక్తి మరియు ఆలోచన సామర్థ్యాన్ని తగ్గిస్తుంది."
+  },
+  {
+    "disease_label": 27,
+    "lang": "te",
+    "disease_name": "గ్యాస్ట్రైటిస్",
+    "aliases": [],
+    "definitions": "గ్యాస్ట్రైటిస్ అనేది కడుపు అంతర్గత పొర వాపు. ఇది బ్యాక్టీరియా సంక్రమణ లేదా మందుల వలన కలుగుతుంది."
+  },
+  {
+    "disease_label": 28,
+    "lang": "te",
+    "disease_name": "పెప్టిక్ అల్సర్",
+    "aliases": [],
+    "definitions": "పెప్టిక్ అల్సర్ అనేది కడుపు లేదా చిన్న పేగులో ఏర్పడే గాయం. ఇది Helicobacter pylori బ్యాక్టీరియా వల్ల కలుగుతుంది."
+  },
+  {
+    "disease_label": 29,
+    "lang": "te",
+    "disease_name": "పార్కిన్సన్స్ వ్యాధి",
+    "aliases": [],
+    "definitions": "పార్కిన్సన్స్ అనేది నాడీ వ్యవస్థ వ్యాధి. ఇది మెదడులో డోపమైన్ లోపం వల్ల కదలికల్లో సమస్యలు కలిగిస్తుంది."
+  },
+  {
+    "disease_label": 30,
+    "lang": "te",
+    "disease_name": "స్తన క్యాన్సర్",
+    "aliases": [],
+    "definitions": "స్తన క్యాన్సర్ అనేది స్తన కణజాలంలో అసాధారణ కణాల వృద్ధి వల్ల కలిగే క్యాన్సర్."
+  },
+  {
+    "disease_label": 31,
+    "lang": "te",
+    "disease_name": "గర్భాశయ ముఖ క్యాన్సర్",
+    "aliases": ["సర్వైకల్ క్యాన్సర్"],
+    "definitions": "ఈ క్యాన్సర్ ప్రధానంగా HPV వైరస్ వల్ల కలుగుతుంది. ఇది మహిళల ప్రজনన వ్యవస్థను ప్రభావితం చేస్తుంది."
+  },
+  {
+    "disease_label": 32,
+    "lang": "te",
+    "disease_name": "మూత్రనాళ సంక్రమణ",
+    "aliases": ["యుటీఐ"],
+    "definitions": "మూత్రనాళ సంక్రమణ అనేది బ్యాక్టీరియా వల్ల కలిగే వ్యాధి. ఇది మూత్రాశయం లేదా కిడ్నీలను ప్రభావితం చేస్తుంది."
+  },
+  {
+    "disease_label": 33,
+    "lang": "te",
+    "disease_name": "లూపస్",
+    "aliases": ["SLE"],
+    "definitions": "లూపస్ అనేది ఆటోఇమ్యూన్ వ్యాధి. ఇందులో శరీర రోగనిరోధక వ్యవస్థ స్వయంగా అవయవాలను దాడి చేస్తుంది."
+  },
+  {
+    "disease_label": 34,
+    "lang": "te",
+    "disease_name": "స్కర్వీ",
+    "aliases": [],
+    "definitions": "స్కర్వీ అనేది విటమిన్ C లోపం వల్ల కలిగే వ్యాధి. ఇది దంతాలు, చర్మం మరియు ఎముకలను ప్రభావితం చేస్తుంది."
+  },
+  {
+    "disease_label": 35,
+    "lang": "te",
+    "disease_name": "దద్దుర్లు",
+    "aliases": ["రింగ్‌వార్మ్"],
+    "definitions": "దద్దుర్లు అనేది ఫంగస్ వల్ల కలిగే చర్మ సంక్రమణ. ఇది గుండ్రటి దురద గల మచ్చలుగా కనిపిస్తుంది."
+  },
+  {
+    "disease_label": 36,
+    "lang": "te",
+    "disease_name": "నిపాహ్ వైరస్ సంక్రమణ",
+    "aliases": [],
+    "definitions": "నిపాహ్ వైరస్ సంక్రమణ అనేది తీవ్రమైన వైరల్ వ్యాధి. ఇది మెదడు మరియు శ్వాసకోశ వ్యవస్థను ప్రభావితం చేస్తుంది."
+  },
+  {
+    "disease_label": 37,
+    "lang": "te",
+    "disease_name": "జికా వైరస్ వ్యాధి",
+    "aliases": [],
+    "definitions": "జికా వైరస్ అనేది దోమల ద్వారా వ్యాపించే వైరల్ వ్యాధి. ఇది గర్భిణీ స్త్రీలలో శిశువు మెదడు అభివృద్ధిని ప్రభావితం చేయవచ్చు."
+  },
+  {
+    "disease_label": 38,
+    "lang": "te",
+    "disease_name": "యెల్లో ఫీవర్",
+    "aliases": ["పసుపు జ్వరం"],
+    "definitions": "యెల్లో ఫీవర్ అనేది దోమల ద్వారా వ్యాపించే వైరల్ వ్యాధి. ఇది కాలేయాన్ని ప్రభావితం చేసి పసుపు లక్షణాలను కలిగిస్తుంది."
+  },
+  {
+    "disease_label": 39,
+    "lang": "te",
+    "disease_name": "పాలిసిస్టిక్ ఓవరీ సిండ్రోమ్",
+    "aliases": ["PCOS"],
+    "definitions": "PCOS అనేది హార్మోన్ల అసమతుల్యత వల్ల కలిగే వ్యాధి. ఇది మహిళల ప్రজনన వ్యవస్థను ప్రభావితం చేస్తుంది."
+  },
+  {
+    "disease_label": 40,
+    "lang": "te",
+    "disease_name": "హైపోథైరాయిడిజం",
+    "aliases": [],
+    "definitions": "హైపోథైరాయిడిజం అనేది థైరాయిడ్ హార్మోన్ల లోపం వల్ల కలిగే వ్యాధి. ఇది శరీర చయాపచయాన్ని మందగిస్తుంది."
+  },
+  {
+    "disease_label": 41,
+    "lang": "te",
+    "disease_name": "హైపర్ థైరాయిడిజం",
+    "aliases": [],
+    "definitions": "హైపర్ థైరాయిడిజం అనేది థైరాయిడ్ హార్మోన్ల అధిక ఉత్పత్తి వల్ల కలిగే వ్యాధి. ఇది గుండె వేగాన్ని పెంచుతుంది."
+  },
+  {
+    "disease_label": 42,
+    "lang": "te",
+    "disease_name": "సీఓపీడీ",
+    "aliases": ["క్రానిక్ అబ్స్ట్రక్టివ్ పల్మనరీ డిసీజ్"],
+    "definitions": "సీఓపీడీ అనేది దీర్ఘకాలిక ఊపిరితిత్తుల వ్యాధి. ఇది ప్రధానంగా పొగతాగడం వల్ల కలుగుతుంది."
+  },
+  {
+    "disease_label": 43,
+    "lang": "te",
+    "disease_name": "ఎండోమెట్రియోసిస్",
+    "aliases": [],
+    "definitions": "ఎండోమెట్రియోసిస్ అనేది గర్భాశయ పొర బయట పెరుగడం వల్ల కలిగే వ్యాధి. ఇది తీవ్రమైన నొప్పి మరియు వంధ్యత్వానికి కారణమవుతుంది."
+  },
+  {
+    "disease_label": 44,
+    "lang": "te",
+    "disease_name": "కంటిపొర మసకబారడం",
+    "aliases": ["క్యాటరాక్ట్"],
+    "definitions": "కంటిపొర మసకబారడం అనేది కంటి లెన్స్ మబ్బుగా మారడం. ఇది వయస్సు పెరిగేకొద్దీ దృష్టి తగ్గిస్తుంది."
+  },
+  {
+    "disease_label": 45,
+    "lang": "te",
+    "disease_name": "హెచ్ఐవి / ఎయిడ్స్",
+    "aliases": [],
+    "definitions": "హెచ్ఐవి అనేది రోగనిరోధక వ్యవస్థను దెబ్బతీసే వైరస్. చికిత్స లేకపోతే ఇది ఎయిడ్స్‌గా మారుతుంది."
+  },
+  {
+    "disease_label": 46,
+    "lang": "te",
+    "disease_name": "నోటి క్యాన్సర్",
+    "aliases": [],
+    "definitions": "నోటి క్యాన్సర్ అనేది నోటి కణజాలాన్ని ప్రభావితం చేసే క్యాన్సర్. ఇది పొగాకు మరియు మద్యపానంతో సంబంధం కలిగి ఉంటుంది."
+  },
+  {
+    "disease_label": 47,
+    "lang": "te",
+    "disease_name": "కడుపు క్యాన్సర్",
+    "aliases": ["గ్యాస్ట్రిక్ క్యాన్సర్"],
+    "definitions": "కడుపు క్యాన్సర్ అనేది కడుపు పొరలో అసాధారణ కణాల వృద్ధి వల్ల కలిగే వ్యాధి."
+  },
+  {
+    "disease_label": 48,
+    "lang": "te",
+    "disease_name": "కాలేయ క్యాన్సర్",
+    "aliases": [],
+    "definitions": "కాలేయ క్యాన్సర్ అనేది కాలేయ కణాల్లో ఏర్పడే క్యాన్సర్. ఇది సిరోసిస్ లేదా వైరల్ హెపటైటిస్ వల్ల కలుగుతుంది."
+  },
+  {
+    "disease_label": 49,
+    "lang": "te",
+    "disease_name": "ఊపిరితిత్తుల క్యాన్సర్",
+    "aliases": [],
+    "definitions": "ఊపిరితిత్తుల క్యాన్సర్ అనేది ఊపిరితిత్తుల కణజాలాన్ని ప్రభావితం చేసే క్యాన్సర్. దీని ప్రధాన కారణం పొగతాగడం."
+  },
+  {
+    "disease_label": 50,
+    "lang": "te",
+    "disease_name": "మూలవ్యాధి",
+    "aliases": ["పైల్స్"],
+    "definitions": "మూలవ్యాధి అనేది మలద్వార ప్రాంతంలో నరాలు ఉబ్బడం వల్ల కలిగే సమస్య. ఇది మలబద్ధకం వల్ల సాధారణంగా ఏర్పడుతుంది."
+  },
+  {
+    "disease_label": 51,
+    "lang": "te",
+    "disease_name": "ఎక్జిమా",
+    "aliases": [],
+    "definitions": "ఎక్జిమా అనేది చర్మ వాపు వ్యాధి. ఇది దురద, ఎర్రదనం మరియు పొడిబారుదలను కలిగిస్తుంది."
+  },
+  {
+    "disease_label": 52,
+    "lang": "te",
+    "disease_name": "మొటిమలు",
+    "aliases": ["యాక్నీ"],
+    "definitions": "మొటిమలు అనేవి చర్మ రంధ్రాలు మూసుకుపోవడం వల్ల కలిగే చర్మ సమస్య. ఇది హార్మోన్ల మార్పులు మరియు బ్యాక్టీరియా వల్ల ఏర్పడుతుంది."
+  },
+  {
+    "disease_label": 53,
+    "lang": "te",
+    "disease_name": "పసుపు కమ్మడం",
+    "aliases": ["జాండిస్"],
+    "definitions": "పసుపు కమ్మడం అనేది రక్తంలో బిలిరుబిన్ స్థాయి పెరగడం వల్ల చర్మం మరియు కళ్ళు పసుపు రంగులోకి మారే పరిస్థితి. ఇది కాలేయ లేదా రక్త వ్యాధుల వల్ల కలుగుతుంది."
+  },
+  {
+    "disease_label": 0,
+    "lang": "ml",
+    "disease_name": "രക്തഹീനത",
+    "aliases": ["അനീമിയ"],
+    "definitions": "രക്തഹീനത എന്നത് രക്തത്തിൽ ഹീമോഗ്ലോബിൻ അല്ലെങ്കിൽ ചുവന്ന രക്താണുക്കളുടെ അളവ് കുറയുന്നതിലൂടെ ഉണ്ടാകുന്ന രക്തരോഗമാണ്. ഇത് പോഷകക്കുറവ്, അണുബാധകൾ അല്ലെങ്കിൽ ദീർഘകാല രോഗങ്ങൾ മൂലമാണ് ഉണ്ടാകുന്നത്."
+  },
+  {
+    "disease_label": 1,
+    "lang": "ml",
+    "disease_name": "പ്രമേഹം",
+    "aliases": ["ഡയബിറ്റീസ്"],
+    "definitions": "പ്രമേഹം ഒരു ദീർഘകാല ചയാപചയ രോഗമാണ്. ഇൻസുലിൻ ഹോർമോണിന്റെ കുറവ് അല്ലെങ്കിൽ പ്രവർത്തനക്കുറവ് മൂലം രക്തത്തിലെ പഞ്ചസാരയുടെ അളവ് ഉയരുന്നു, ഇത് ഹൃദയം, വൃക്ക, നാഡികൾ എന്നിവയെ ബാധിക്കുന്നു."
+  },
+  {
+    "disease_label": 2,
+    "lang": "ml",
+    "disease_name": "ഉയർന്ന രക്തസമ്മർദ്ദം",
+    "aliases": ["ഹൈ ബ്ലഡ് പ്രഷർ"],
+    "definitions": "ഉയർന്ന രക്തസമ്മർദ്ദം രക്തം ധമനികളിൽ അമിതമായി സമ്മർദ്ദം ചെലുത്തുന്ന അവസ്ഥയാണ്. ഇത് ഹൃദയവും മസ്തിഷ്കവും വൃക്കകളും ബാധിക്കുന്ന ഒരു ദീർഘകാല രോഗമാണ്."
+  },
+  {
+    "disease_label": 3,
+    "lang": "ml",
+    "disease_name": "ക്ഷയം",
+    "aliases": ["ടിബി"],
+    "definitions": "ക്ഷയം Mycobacterium tuberculosis എന്ന ബാക്ടീരിയ മൂലമുള്ള സാംക്രമിക രോഗമാണ്. ഇത് പ്രധാനമായും ശ്വാസകോശങ്ങളെ ബാധിക്കുകയും വായുവിലൂടെ പകരുകയും ചെയ്യുന്നു."
+  },
+  {
+    "disease_label": 4,
+    "lang": "ml",
+    "disease_name": "ചിക്കൻഗുനിയ",
+    "aliases": [],
+    "definitions": "ചിക്കൻഗുനിയ ഒരു വൈറസ് രോഗമാണ്. ഇത് ഏഡിസ് കൊതുകുകൾ വഴി പകരുന്നു, സന്ധിവേദന, ജ്വരം എന്നിവ ഉണ്ടാക്കുന്നു."
+  },
+  {
+    "disease_label": 5,
+    "lang": "ml",
+    "disease_name": "ഡെങ്കിപ്പനി",
+    "aliases": ["ഡെങ്കി"],
+    "definitions": "ഡെങ്കി ഡെങ്കി വൈറസ് മൂലമുള്ള കൊതുക് വഴി പകരുന്ന രോഗമാണ്. ഇത് രക്തവും പ്രതിരോധ സംവിധാനവും ബാധിച്ച് രക്തസ്രാവം വരെ ഉണ്ടാക്കാം."
+  },
+  {
+    "disease_label": 6,
+    "lang": "ml",
+    "disease_name": "ടൈഫോയ്ഡ്",
+    "aliases": ["ടൈഫോയ്ഡ് പനി"],
+    "definitions": "ടൈഫോയ്ഡ് Salmonella typhi എന്ന ബാക്ടീരിയ മൂലമുള്ള രോഗമാണ്. മലിനമായ ഭക്ഷണവും വെള്ളവും വഴിയാണ് ഇത് പകരുന്നത്, ജീർണ്ണസംവിധാനത്തെ ബാധിക്കുന്നു."
+  },
+  {
+    "disease_label": 7,
+    "lang": "ml",
+    "disease_name": "അതിസാരം",
+    "aliases": ["ഡയറിയ"],
+    "definitions": "അതിസാരം പേഗുകളെ ബാധിക്കുന്ന ഒരു രോഗാവസ്ഥയാണ്. ബാക്ടീരിയ, വൈറസ് അല്ലെങ്കിൽ പരജീവികൾ മൂലമാണ് ഇത് ഉണ്ടാകുന്നത്."
+  },
+  {
+    "disease_label": 8,
+    "lang": "ml",
+    "disease_name": "പോഷകാഹാരക്കുറവ്",
+    "aliases": [],
+    "definitions": "പോഷകാഹാരക്കുറവ് ശരീരത്തിന് ആവശ്യമായ പോഷകങ്ങൾ ലഭിക്കാത്തതിനാൽ ഉണ്ടാകുന്ന അവസ്ഥയാണ്. ഇത് വളർച്ചയും പ്രതിരോധശേഷിയും കുറയ്ക്കുന്നു."
+  },
+  {
+    "disease_label": 9,
+    "lang": "ml",
+    "disease_name": "കൊളറ",
+    "aliases": [],
+    "definitions": "കൊളറ Vibrio cholerae എന്ന ബാക്ടീരിയ മൂലമുള്ള ജീർണ്ണസംവിധാന രോഗമാണ്. മലിനജലം വഴിയാണ് ഇത് പകരുന്നത്."
+  },
+  {
+    "disease_label": 10,
+    "lang": "ml",
+    "disease_name": "ദേഹവെള്ളക്കുറവ്",
+    "aliases": ["ഡിഹൈഡ്രേഷൻ"],
+    "definitions": "ദേഹവെള്ളക്കുറവ് ശരീരത്തിൽ വെള്ളവും ഇലക്ട്രോളൈറ്റുകളും കുറയുന്ന അവസ്ഥയാണ്. അതിസാരം, ഛർദ്ദി എന്നിവ മൂലമാണ് ഇത് സാധാരണയായി സംഭവിക്കുന്നത്."
+  },
+  {
+    "disease_label": 11,
+    "lang": "ml",
+    "disease_name": "പ്രായബന്ധിത മാകുലാർ ഡിജനറേഷൻ",
+    "aliases": ["AMD"],
+    "definitions": "ഈ രോഗം കണ്ണിന്റെ റെറ്റിനയെ ബാധിക്കുന്നു. പ്രായം കൂടുമ്പോൾ മദ്ധ്യദൃഷ്ടി ക്രമേണ നഷ്ടപ്പെടുന്നു."
+  },
+  {
+    "disease_label": 12,
+    "lang": "ml",
+    "disease_name": "കണ്ണ് അണുബാധ",
+    "aliases": ["പിങ്ക് ഐ"],
+    "definitions": "കണ്ണ് അണുബാധ ബാക്ടീരിയയോ വൈറസോ മൂലമുള്ള രോഗമാണ്. ഇത് കണ്ണിൽ ചുവപ്പ്, വെള്ളം വരിക, ചൊറിച്ചിൽ എന്നിവ ഉണ്ടാക്കുന്നു."
+  },
+  {
+    "disease_label": 13,
+    "lang": "ml",
+    "disease_name": "ആസ്ത്മ",
+    "aliases": [],
+    "definitions": "ആസ്ത്മ ഒരു ദീർഘകാല ശ്വാസകോശ രോഗമാണ്. ശ്വാസനാളങ്ങൾ ചുരുങ്ങുന്നതിലൂടെ ശ്വാസംമുട്ടൽ ഉണ്ടാകുന്നു."
+  },
+  {
+    "disease_label": 14,
+    "lang": "ml",
+    "disease_name": "ഇൻഫ്ലുവൻസ",
+    "aliases": ["ഫ്ലൂ"],
+    "definitions": "ഇൻഫ്ലുവൻസ വൈറസ് മൂലമുള്ള ശ്വാസകോശ രോഗമാണ്. ഇത് ജ്വരം, ചുമ, ശരീരവേദന എന്നിവ ഉണ്ടാക്കുന്നു."
+  },
+  {
+    "disease_label": 15,
+    "lang": "ml",
+    "disease_name": "ന്യൂമോണിയ",
+    "aliases": [],
+    "definitions": "ന്യൂമോണിയ ബാക്ടീരിയ, വൈറസ് അല്ലെങ്കിൽ ഫംഗസ് മൂലമുള്ള ശ്വാസകോശ അണുബാധയാണ്. ശ്വാസംമുട്ടലും ജ്വരവും ഉണ്ടാക്കുന്നു."
+  },
+  {
+    "disease_label": 16,
+    "lang": "ml",
+    "disease_name": "മലബന്ധം",
+    "aliases": ["കൺസ്റ്റിപ്പേഷൻ"],
+    "definitions": "മലബന്ധം പേഗുകളുടെ പ്രവർത്തനക്കുറവ് മൂലമുള്ള അവസ്ഥയാണ്. മലവിസർജനം ബുദ്ധിമുട്ടാകുന്നു."
+  },
+  {
+    "disease_label": 17,
+    "lang": "ml",
+    "disease_name": "സൈനസൈറ്റിസ്",
+    "aliases": [],
+    "definitions": "സൈനസൈറ്റിസ് സൈനസ് ഗുഹകളിൽ ഉണ്ടാകുന്ന അണുബാധയാണ്. ഇത് വൈറസ് അല്ലെങ്കിൽ ബാക്ടീരിയ മൂലമാണ്."
+  },
+  {
+    "disease_label": 18,
+    "lang": "ml",
+    "disease_name": "ഭക്ഷ്യവിഷബാധ",
+    "aliases": ["ഫുഡ് പോയിസണിംഗ്"],
+    "definitions": "ഭക്ഷ്യവിഷബാധ മലിനമായ ഭക്ഷണത്തിലുള്ള ബാക്ടീരിയയോ വിഷാംശങ്ങളോ മൂലമുള്ള ജീർണ്ണസംവിധാന രോഗമാണ്."
+  },
+  {
+    "disease_label": 19,
+    "lang": "ml",
+    "disease_name": "ഫംഗൽ അണുബാധ",
+    "aliases": [],
+    "definitions": "ഫംഗസ് മൂലമുള്ള അണുബാധകളാണ് ഫംഗൽ അണുബാധ. ഇത് ചർമ്മം, നഖങ്ങൾ അല്ലെങ്കിൽ ആന്തരാവയവങ്ങളെ ബാധിക്കുന്നു."
+  },
+  {
+    "disease_label": 20,
+    "lang": "ml",
+    "disease_name": "കൊഴുപ്പുകൂടിയ കരൾ",
+    "aliases": ["ഫാറ്റി ലിവർ"],
+    "definitions": "കരളിൽ അമിതമായി കൊഴുപ്പ് അടിഞ്ഞുകൂടുന്നതിലൂടെ ഉണ്ടാകുന്ന രോഗമാണ്. മദ്യപാനം, പ്രമേഹം എന്നിവ ഇതിന് കാരണമാകാം."
+  },
+  {
+    "disease_label": 21,
+    "lang": "ml",
+    "disease_name": "സന്ധിവാതം",
+    "aliases": ["ആർത്ത്രൈറ്റിസ്"],
+    "definitions": "സന്ധിവാതം സന്ധികളെ ബാധിക്കുന്ന രോഗമാണ്. വേദന, വീക്കം, ചലനക്കുറവ് എന്നിവ ഉണ്ടാകുന്നു."
+  },
+  {
+    "disease_label": 22,
+    "lang": "ml",
+    "disease_name": "ചൂടേറ്റൽ",
+    "aliases": ["ഹീറ്റ് സ്ട്രോക്ക്"],
+    "definitions": "ചൂടേറ്റൽ അത്യധികം ചൂട് മൂലമുള്ള അടിയന്തര അവസ്ഥയാണ്. ഇത് മസ്തിഷ്കത്തെയും മറ്റു അവയവങ്ങളെയും ബാധിക്കുന്നു."
+  },
+  {
+    "disease_label": 23,
+    "lang": "ml",
+    "disease_name": "ഹെപ്പറ്റൈറ്റിസ് ബി",
+    "aliases": [],
+    "definitions": "ഹെപ്പറ്റൈറ്റിസ് ബി വൈറസ് മൂലമുള്ള കരൾ രോഗമാണ്. ഇത് രക്തവും ശരീരദ്രവങ്ങളും വഴിയാണ് പകരുന്നത്."
+  },
+  {
+    "disease_label": 24,
+    "lang": "ml",
+    "disease_name": "ഹെപ്പറ്റൈറ്റിസ് സി",
+    "aliases": [],
+    "definitions": "ഹെപ്പറ്റൈറ്റിസ് സി വൈറസ് മൂലമുള്ള ദീർഘകാല കരൾ രോഗമാണ്. ഇത് കരൾ സിറോസിസിനും കാൻസർക്കും കാരണമാകാം."
+  },
+  {
+    "disease_label": 25,
+    "lang": "ml",
+    "disease_name": "കരൾ സിറോസിസ്",
+    "aliases": [],
+    "definitions": "കരൾ ദീർഘകാലമായി നശിക്കുന്നതിലൂടെ ഉണ്ടാകുന്ന രോഗമാണ്. മദ്യപാനവും വൈറൽ ഹെപ്പറ്റൈറ്റിസും പ്രധാന കാരണങ്ങളാണ്."
+  },
+  {
+    "disease_label": 26,
+    "lang": "ml",
+    "disease_name": "ആൽസൈമേഴ്സ് രോഗം",
+    "aliases": [],
+    "definitions": "ആൽസൈമേഴ്സ് ഒരു നാഡീക്ഷയ രോഗമാണ്. ഇത് ഓർമ്മശക്തിയും ചിന്താശേഷിയും ക്രമേണ കുറയ്ക്കുന്നു."
+  },
+  {
+    "disease_label": 27,
+    "lang": "ml",
+    "disease_name": "ഗ്യാസ്ട്രൈറ്റിസ്",
+    "aliases": [],
+    "definitions": "ഗ്യാസ്ട്രൈറ്റിസ് വയറിന്റെ അകത്തളത്തിലുള്ള വൃണം മൂലമുള്ള രോഗമാണ്. Helicobacter pylori ബാക്ടീരിയ ഒരു പ്രധാന കാരണമാണ്."
+  },
+  {
+    "disease_label": 28,
+    "lang": "ml",
+    "disease_name": "പെപ്റ്റിക് അൾസർ",
+    "aliases": [],
+    "definitions": "വയറിലോ ചെറിയ ആന്ത്രത്തിലോ ഉണ്ടാകുന്ന പുണ്ണാണ് പെപ്റ്റിക് അൾസർ. Helicobacter pylori ബാക്ടീരിയ ഇതിന് കാരണമാകുന്നു."
+  },
+  {
+    "disease_label": 29,
+    "lang": "ml",
+    "disease_name": "പാർക്കിൻസൺസ് രോഗം",
+    "aliases": [],
+    "definitions": "പാർക്കിൻസൺസ് ഒരു നാഡീ രോഗമാണ്. മസ്തിഷ്കത്തിലെ ഡോപ്പമിൻ കുറയുന്നതാണ് ഇതിന്റെ കാരണം."
+  },
+  {
+    "disease_label": 30,
+    "lang": "ml",
+    "disease_name": "സ്തനാർബുദം",
+    "aliases": ["ബ്രെസ്റ്റ് കാൻസർ"],
+    "definitions": "സ്തനങ്ങളിൽ അസാധാരണ കോശവളർച്ച മൂലമുള്ള കാൻസർ ആണ് സ്തനാർബുദം."
+  },
+  {
+    "disease_label": 31,
+    "lang": "ml",
+    "disease_name": "ഗർഭാശയമുഖ കാൻസർ",
+    "aliases": ["സെർവൈക്കൽ കാൻസർ"],
+    "definitions": "HPV വൈറസ് മൂലമുള്ള സ്ത്രീകളിലെ പ്രജനനാവയവ കാൻസറാണ് ഗർഭാശയമുഖ കാൻസർ."
+  },
+  {
+    "disease_label": 32,
+    "lang": "ml",
+    "disease_name": "മൂത്രവാഹിനി അണുബാധ",
+    "aliases": ["യുടിഐ"],
+    "definitions": "മൂത്രവാഹിനികളിൽ ബാക്ടീരിയ മൂലമുള്ള അണുബാധയാണ്. ഇത് മൂത്രാശയത്തെയും വൃക്കകളെയും ബാധിക്കുന്നു."
+  },
+  {
+    "disease_label": 33,
+    "lang": "ml",
+    "disease_name": "ലൂപ്പസ്",
+    "aliases": ["SLE"],
+    "definitions": "ലൂപ്പസ് ഒരു ഓട്ടോഇമ്യൂൺ രോഗമാണ്. ശരീരത്തിന്റെ പ്രതിരോധ സംവിധാനം തന്നെ അവയവങ്ങളെ ആക്രമിക്കുന്നു."
+  },
+  {
+    "disease_label": 34,
+    "lang": "ml",
+    "disease_name": "സ്കർവി",
+    "aliases": [],
+    "definitions": "വിറ്റാമിൻ C കുറവ് മൂലമുള്ള രോഗമാണ് സ്കർവി. ഇത് പല്ലുകൾ, ചർമ്മം, അസ്ഥികൾ എന്നിവയെ ബാധിക്കുന്നു."
+  },
+  {
+    "disease_label": 35,
+    "lang": "ml",
+    "disease_name": "റിംഗ് വർം",
+    "aliases": ["ചർമ ഫംഗസ് രോഗം"],
+    "definitions": "ഫംഗസ് മൂലമുള്ള ചർമ്മ അണുബാധയാണ് റിംഗ് വർം. വൃത്താകൃതിയിലുള്ള ചൊറിച്ചിലുള്ള പാടുകൾ കാണപ്പെടുന്നു."
+  },
+  {
+    "disease_label": 36,
+    "lang": "ml",
+    "disease_name": "നിപാ വൈറസ് അണുബാധ",
+    "aliases": [],
+    "definitions": "നിപാ വൈറസ് മൂലമുള്ള ഗുരുതരമായ വൈറൽ രോഗമാണ്. ഇത് മസ്തിഷ്കത്തെയും ശ്വാസകോശത്തെയും ബാധിക്കുന്നു."
+  },
+  {
+    "disease_label": 37,
+    "lang": "ml",
+    "disease_name": "സിക്ക വൈറസ് രോഗം",
+    "aliases": [],
+    "definitions": "സിക്ക വൈറസ് കൊതുകുകൾ വഴി പകരുന്ന രോഗമാണ്. ഗർഭസ്ഥ ശിശുവിന്റെ മസ്തിഷ്ക വളർച്ചയെ ബാധിക്കാം."
+  },
+  {
+    "disease_label": 38,
+    "lang": "ml",
+    "disease_name": "യെല്ലോ ഫീവർ",
+    "aliases": ["മഞ്ഞപ്പനി"],
+    "definitions": "യെല്ലോ ഫീവർ കൊതുകുകൾ വഴി പകരുന്ന വൈറൽ രോഗമാണ്. ഇത് കരളിനെ ബാധിച്ച് മഞ്ഞപ്പിത്തം ഉണ്ടാക്കുന്നു."
+  },
+  {
+    "disease_label": 39,
+    "lang": "ml",
+    "disease_name": "പോളിസിസ്റ്റിക് ഓവറി സിൻഡ്രോം",
+    "aliases": ["PCOS"],
+    "definitions": "ഹോർമോൺ അസന്തുലിതാവസ്ഥ മൂലമുള്ള സ്ത്രീകളിലെ പ്രജനന രോഗമാണ് PCOS."
+  },
+  {
+    "disease_label": 40,
+    "lang": "ml",
+    "disease_name": "ഹൈപോതൈറോയിഡിസം",
+    "aliases": [],
+    "definitions": "തൈറോയിഡ് ഹോർമോണുകളുടെ കുറവ് മൂലമുള്ള രോഗമാണ്. ഇത് ശരീരത്തിന്റെ ചയാപചയം മന്ദഗതിയിലാക്കുന്നു."
+  },
+  {
+    "disease_label": 41,
+    "lang": "ml",
+    "disease_name": "ഹൈപ്പർതൈറോയിഡിസം",
+    "aliases": [],
+    "definitions": "തൈറോയിഡ് ഹോർമോണുകളുടെ അമിത ഉത്പാദനം മൂലമുള്ള രോഗമാണ്. ഇത് ഹൃദയമിടിപ്പ് വർദ്ധിപ്പിക്കുന്നു."
+  },
+  {
+    "disease_label": 42,
+    "lang": "ml",
+    "disease_name": "സിഒപിഡി",
+    "aliases": ["ക്രോണിക് ഒബ്സ്ട്രക്ടീവ് പൾമണറി രോഗം"],
+    "definitions": "ദീർഘകാല ശ്വാസകോശ രോഗമാണ് സിഒപിഡി. പുകവലി ഇതിന്റെ പ്രധാന കാരണമാണ്."
+  },
+  {
+    "disease_label": 43,
+    "lang": "ml",
+    "disease_name": "എൻഡോമെട്രിയോസിസ്",
+    "aliases": [],
+    "definitions": "ഗർഭാശയത്തിന്റെ അകത്തളപാളി പുറത്തേക്ക് വളരുന്നതിലൂടെ ഉണ്ടാകുന്ന രോഗമാണ്. ഇത് വേദനയും വന്ധ്യതയും ഉണ്ടാക്കുന്നു."
+  },
+  {
+    "disease_label": 44,
+    "lang": "ml",
+    "disease_name": "കാറ്ററാക്റ്റ്",
+    "aliases": ["കണ്ണിലെ മഞ്ഞപ്പാട"],
+    "definitions": "കണ്ണിലെ ലെൻസ് മങ്ങിപ്പോകുന്ന അവസ്ഥയാണ് കാറ്ററാക്റ്റ്. ഇത് കാഴ്ച കുറയാൻ കാരണമാകുന്നു."
+  },
+  {
+    "disease_label": 45,
+    "lang": "ml",
+    "disease_name": "എച്ച്ഐവി / എയ്ഡ്സ്",
+    "aliases": [],
+    "definitions": "എച്ച്ഐവി പ്രതിരോധ സംവിധാനത്തെ ആക്രമിക്കുന്ന വൈറസാണ്. ചികിത്സയില്ലെങ്കിൽ ഇത് എയ്ഡ്സായി മാറും."
+  },
+  {
+    "disease_label": 46,
+    "lang": "ml",
+    "disease_name": "വായ്കാൻസർ",
+    "aliases": [],
+    "definitions": "വായിലെ കോശങ്ങളെ ബാധിക്കുന്ന കാൻസറാണ്. പുകവലിയും പുകയില ഉപയോഗവും പ്രധാന കാരണങ്ങളാണ്."
+  },
+  {
+    "disease_label": 47,
+    "lang": "ml",
+    "disease_name": "വയറ്റുകാൻസർ",
+    "aliases": ["ഗ്യാസ്ട്രിക് കാൻസർ"],
+    "definitions": "വയറിലെ കോശങ്ങളിൽ ഉണ്ടാകുന്ന അസാധാരണ വളർച്ചയാണ് വയറ്റുകാൻസർ."
+  },
+  {
+    "disease_label": 48,
+    "lang": "ml",
+    "disease_name": "കരൾ കാൻസർ",
+    "aliases": [],
+    "definitions": "കരളിലെ കോശങ്ങളിൽ ഉണ്ടാകുന്ന കാൻസറാണ്. സിറോസിസ്, ഹെപ്പറ്റൈറ്റിസ് തുടങ്ങിയവ ഇതിന് കാരണമാകുന്നു."
+  },
+  {
+    "disease_label": 49,
+    "lang": "ml",
+    "disease_name": "ശ്വാസകോശ കാൻസർ",
+    "aliases": [],
+    "definitions": "ശ്വാസകോശത്തെ ബാധിക്കുന്ന കാൻസറാണ്. പുകവലിയാണ് ഇതിന്റെ പ്രധാന കാരണം."
+  },
+  {
+    "disease_label": 50,
+    "lang": "ml",
+    "disease_name": "മൂലവ്യാധി",
+    "aliases": ["പൈൽസ്"],
+    "definitions": "മലദ്വാരത്തിലെ ശിരകൾ വീർപ്പുമുട്ടുന്നതിലൂടെ ഉണ്ടാകുന്ന രോഗമാണ് മൂലവ്യാധി."
+  },
+  {
+    "disease_label": 51,
+    "lang": "ml",
+    "disease_name": "എക്സിമ",
+    "aliases": [],
+    "definitions": "എക്സിമ ചർമ്മത്തെ ബാധിക്കുന്ന അണുബാധയില്ലാത്ത വൃണരോഗമാണ്. ചൊറിച്ചിലും വരൾച്ചയും ഉണ്ടാകുന്നു."
+  },
+  {
+    "disease_label": 52,
+    "lang": "ml",
+    "disease_name": "മുഖക്കുരു",
+    "aliases": ["ആക്‌നെ"],
+    "definitions": "ചർമ്മത്തിലെ രന്ധ്രങ്ങൾ അടയുന്നതിലൂടെ ഉണ്ടാകുന്ന രോഗമാണ് മുഖക്കുരു. ഹോർമോൺ മാറ്റങ്ങളും ബാക്ടീരിയയും കാരണം."
+  },
+  {
+    "disease_label": 53,
+    "lang": "ml",
+    "disease_name": "മഞ്ഞപ്പിത്തം",
+    "aliases": ["ജോണ്ടിസ്"],
+    "definitions": "രക്തത്തിലെ ബിലിറുബിൻ ഉയരുന്നതിലൂടെ കണ്ണുകളും ചർമ്മവും മഞ്ഞനിറമാകുന്ന അവസ്ഥയാണ്. കരൾ രോഗങ്ങൾ ഇതിന് കാരണം."
+  },
+  {
+    "disease_label": 0,
+    "lang": "kn",
+    "disease_name": "ರಕ್ತಹೀನತೆ",
+    "aliases": ["ಅನೀಮಿಯಾ"],
+    "definitions": "ರಕ್ತಹೀನತೆ ರಕ್ತದಲ್ಲಿನ ರೆಡ್ ಬ್ಲಡ್ ಸೆಲ್ ಅಥವಾ ಹೀಮೋಗ್ಲೋಬಿನ್ ಕಡಿಮೆಯಿಂದ ಉಂಟಾಗುವ ರಕ್ತದ ವ್ಯಾಧಿಯಾಗಿದೆ. ಇದು ಲೋಹ, ವಿಟಮಿನ್ ಕೊರತೆ, ಕ್ರೋನಿಕ್ ರೋಗಗಳು ಅಥವಾ ಸೋಂಕುಗಳಿಂದ ಉಂಟಾಗಬಹುದು."
+  },
+  {
+    "disease_label": 1,
+    "lang": "kn",
+    "disease_name": "ಮಧುಮೇಹ",
+    "aliases": ["ಡಯಾಬಿಟೀಸ್ ಮೆಲ್ಲಿಟಸ್"],
+    "definitions": "ಮಧುಮೇಹವು ಎಂಡೋಕ್ರೈನ್ ವ್ಯವಸ್ಥೆಯನ್ನು பாதಿಸುವ ಮೆಟಾಬಾಲಿಕ್ ವ್ಯಾಧಿಯಾಗಿದೆ. ಇನ್ಸುಲಿನ್ ಉತ್ಪಾದನೆ ಅಥವಾ ಕಾರ್ಯಕ್ಷಮತೆಯ ಕೊರತೆಯಿಂದ ರಕ್ತದಲ್ಲಿ ಶರ್ಕರಾ ಮಟ್ಟ ಏರಿಕೆಯಾಗುತ್ತದೆ, ಇದು ಹೃದಯ, ಮೂತ್ರಪಿಂಡ, ನರಗಳು, ಕಣ್ಣು ಮತ್ತು ರಕ್ತನಾಳಗಳನ್ನು ಹಾನಿಗೊಳಿಸುತ್ತದೆ."
+  },
+  {
+    "disease_label": 2,
+    "lang": "kn",
+    "disease_name": "ಉತ್ತರ್ಜನಕ ರಕ್ತದೊತ್ತಡ",
+    "aliases": ["ಹೈ ಬ್ಲಡ್ ಪ್ರೆಶರ್"],
+    "definitions": "ಉತ್ತರ್ಜನಕ ರಕ್ತದೊತ್ತಡವು ರಕ್ತನಾಳಗಳಿಗೆ ನಿತ್ಯ ಅಧಿಕ ಒತ್ತಡ ಉಂಟುಮಾಡುವ ಹೃದಯ ರೋಗವಾಗಿದೆ. ಇದು ಹೃದಯದ ಸೋಂಕು, ಸ್ಟ್ರೋಕ್, ಮೂತ್ರಪಿಂಡ ವೈಫಲ್ಯ ಮತ್ತು ರಕ್ತನಾಳ ಹಾನಿ ಸಂಭವನೀಯತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ."
+  },
+  {
+    "disease_label": 3,
+    "lang": "kn",
+    "disease_name": "ಕ್ಷಯರೋಗ",
+    "aliases": ["ಟಿಬಿ"],
+    "definitions": "ಕ್ಷಯರೋಗವು Mycobacterium tuberculosis ಬ್ಯಾಕ್ಟೀರಿಯಾ ಕಾರಣದಿಂದ ಉಂಟಾಗುವ ಸೋಂಕು ರೋಗವಾಗಿದೆ. ಇದು ಮುಖ್ಯವಾಗಿ ಶ್ವಾಸಕೋಶವನ್ನು ಹಾನಿಗೊಳಿಸುತ್ತದೆ, ಆದರೆ ಇತರ ಅಂಗಾಂಗಗಳಿಗೂ ಹರಡಬಹುದು, ಮತ್ತು ಹದಗೆಟ್ಟ ಚുമ, ಜ್ವರ, ತೂಕ ನಷ್ಟ ಮತ್ತು ದಣಿವಿನ ಲಕ್ಷಣಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 4,
+    "lang": "kn",
+    "disease_name": "ಚಿಕ್ಕುನ್ಗುನ್ಯಾ",
+    "aliases": [],
+    "definitions": "ಚಿಕ್ಕುನ್ಗುನ್ಯಾ ವೈರಲ್ ಸೋಂಕಾಗಿದೆ. ಇದು ಏಡಿಸ್ ದೋಣಿಗಳ ಮೂಲಕ ಹರಡುತ್ತದೆ, ಮೂಳೆ-ಸಂಧಿ ನೋವು, ಜ್ವರ, ದಣಿವು ಮತ್ತು ದೀರ್ಘಕಾಲದ ಸಂಧಿವಾತದಂತಹ ಲಕ್ಷಣಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 5,
+    "lang": "kn",
+    "disease_name": "ಡೆಂಗಿ",
+    "aliases": ["ಬ್ರೇಕ್‌ಬೋನ್ ಫೀವರ್"],
+    "definitions": "ಡೆಂಗಿ ಡೆಂಗಿ ವೈರಸ್ ಕಾರಣವಾಗುವ ದೋಣಿ ಹರಡುವ ಸೋಂಕು ರೋಗವಾಗಿದೆ. ಇದು ರಕ್ತ ಮತ್ತು ರೋಗ ನಿರೋಧಕ ವ್ಯವಸ್ಥೆಯನ್ನು ಹಾನಿಗೊಳಿಸುತ್ತದೆ, ಉರಿಯುವ ಜ್ವರ, ತೀವ್ರ ದೇಹ ನೋವು, ಚರ್ಮದ ರ‍್ಯಾಶ್, ರಕ್ತಸ್ರಾವ, ಮತ್ತು ಗಂಭೀರ ಪ್ರಕರಣಗಳಲ್ಲಿ ಶಾಕ್ ಉಂಟುಮಾಡಬಹುದು."
+  },
+  {
+    "disease_label": 6,
+    "lang": "kn",
+    "disease_name": "ಟೈಫಾಯ್ಡ್",
+    "aliases": ["ಟೈಫಾಯ್ಡ್ ಫೀವರ್"],
+    "definitions": "ಟೈಫಾಯ್ಡ್ Salmonella typhi ಬ್ಯಾಕ್ಟೀರಿಯಾ ಕಾರಣದಿಂದ ಉಂಟಾಗುವ ಸೋಂಕು ರೋಗವಾಗಿದೆ. ಇದು ಜೀರ್ಣತಂತ್ರ ಮತ್ತು ರಕ್ತಪ್ರವಾಹವನ್ನು ಹಾನಿಗೊಳಿಸುತ್ತದೆ ಮತ್ತು ಮಲಿನ ಆಹಾರ ಅಥವಾ ನೀರಿನ ಮೂಲಕ ಹರಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 7,
+    "lang": "kn",
+    "disease_name": "ಅತಿಸಾರ",
+    "aliases": ["ಡಯರಿಯಾ"],
+    "definitions": "ಅತಿಸಾರವು ಆಂತರಾಂಗಗಳ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಹಾನಿಗೊಳಿಸುವ ಜೀರ್ಣತಂತ್ರದ ಸ್ಥಿತಿಯಾಗಿದೆ. ಇದು ಬ್ಯಾಕ್ಟೀರಿಯ, ವೈರಸ್ ಅಥವಾ ಪರಜೀವಿಗಳಿಂದ ಉಂಟಾಗುತ್ತದೆ, ನಿರಂತರ ಶ್ರಾವಣ, ದೇಹದ ನೀರಳೋಷಣಾ ಕೊರತೆ ಮತ್ತು ದಣಿವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 8,
+    "lang": "kn",
+    "disease_name": "ಪೋಷಣಾ ಕೊರತೆ",
+    "aliases": [],
+    "definitions": "ಪೋಷಣಾ ಕೊರತೆ ಹಲವು ದೇಹದ ವ್ಯವಸ್ಥೆಗಳನ್ನು ಹಾನಿಗೊಳಿಸುತ್ತದೆ. ಇದು ಪೋಷಕಾಂಶಗಳ ಅಪೂರ್ಣ ಸೇವನೆ ಅಥವಾ ಅಬ್ಜಾರ್ಶನ್ ಕಾರಣದಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಬೆಳವಣಿಗೆ, ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿ, ಸ್ನಾಯು ನಾಶ ಮತ್ತು ಸೋಂಕಿನ ಅಪಾಯ ಹೆಚ್ಚಿಸುತ್ತದೆ."
+  },
+  {
+    "disease_label": 9,
+    "lang": "kn",
+    "disease_name": "ಕೋಲೆರಾ",
+    "aliases": [],
+    "definitions": "ಕೋಲೆರಾ Vibrio cholerae ಬ್ಯಾಕ್ಟೀರಿಯಾ ಕಾರಣವಾಗುವ ತೀವ್ರ ಜೀರ್ಣತಂತ್ರದ ಸೋಂಕು ರೋಗವಾಗಿದೆ. ಇದು ಮಾಲಿನ್ಯ ನೀರಿನ ಮೂಲಕ ಹರಡುತ್ತದೆ, ಉರಿಯುವ ನೀರಿನ ಅತಿಸಾರ, ಶೀಘ್ರ ದ್ರವಕಾಲಹೀನತೆ, ಮತ್ತು ಶಾಕ್ ಉಂಟುಮಾಡಬಹುದು."
+  },
+  {
+    "disease_label": 10,
+    "lang": "kn",
+    "disease_name": "ದೇಹದ ನೀರಿನ ಕೊರತೆ",
+    "aliases": ["ಡಿಹೈಡ್ರೇಷನ್"],
+    "definitions": "ದೇಹದ ನೀರಿನ ಕೊರತೆವು ದೇಹದ ನೀರಿನ ಅಸಮತೋಲನ ಸ್ಥಿತಿಯಾಗಿದೆ. ಹೆಚ್ಚಿನ ದ್ರವ ನಷ್ಟ ಅಥವಾ ಅಪರ್ಯಾಪ್ತ ಸೇವನೆ ಇದಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ, ರಕ್ತದ ಪ್ರಮಾಣ ಕಡಿಮೆಯಾಗುವುದು, ತಲೆತೂಚು, ಬಾಯಿಯಲ್ಲಿ ಒಣತೆ, ಶೌಚಾಶಯ ಕಡಿಮೆ ಮತ್ತು ಅಂಗಾಂಗ ವೈಫಲ್ಯ ಉಂಟಾಗುತ್ತದೆ."
+  },
+  {
+    "disease_label": 11,
+    "lang": "kn",
+    "disease_name": "ವಯಸ್ಸು ಸಂಬಂಧಿತ ಮ್ಯಾಕ್ಯುಲರ್ ಡಿಜೆನರೇಷನ್",
+    "aliases": ["AMD"],
+    "definitions": "ವಯಸ್ಸು ಸಂಬಂಧಿತ ಮ್ಯಾಕ್ಯುಲರ್ ಡಿಜೆನರೇಷನ್ ಒಂದು ದೃಷ್ಟಿ ಕುಸಿತಕ್ಕೆ ಕಾರಣವಾಗುವ degenerative ಕಣ್ಣು ರೋಗವಾಗಿದೆ, ವಿಶೇಷವಾಗಿ ಮ್ಯಾಕ್ಯುಲಾ ಭಾಗದಲ್ಲಿ, ಮಧ್ಯ ದೃಷ್ಟಿ ಹಾನಿಯಾಗುತ್ತದೆ."
+  },
+  {
+    "disease_label": 12,
+    "lang": "kn",
+    "disease_name": "ಕಣ್ಣಿನ ಸಂಕೋಚ",
+    "aliases": ["ಪಿಂಕ್ ಐ"],
+    "definitions": "ಕಣ್ಣಿನ ಸಂಕೋಚವು ಬ್ಯಾಕ್ಟೀರಿಯಾ, ವೈರಸ್ ಅಥವಾ ಅಲರ್ಜಿಕ್ ಕಾರಣಗಳಿಂದ ಉಂಟಾಗುವ ಕಣ್ಣು ಸೋಂಕು ರೋಗವಾಗಿದೆ. ಇದು ಕಂಜುಂಟಿವಾ ಭಾಗವನ್ನು ಹಾನಿಗೊಳಿಸುತ್ತದೆ, ಕಣ್ಣು ಕೆಂಪಾಗುವುದು, ತೊಳೆಯುವುದು, ಹರಿವು ಮತ್ತು ಅಸೌಕರ್ಯ ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 13,
+    "lang": "kn",
+    "disease_name": "ಅಸ್ಥ್ಮಾ",
+    "aliases": [],
+    "definitions": "ಅಸ್ಥ್ಮಾ ಒಂದು ದೀರ್ಘಕಾಲೀನ ಉಸಿರಾಟದ ಸೋಂಕು ರೋಗವಾಗಿದೆ. ಇದರಿಂದ ಶ್ವಾಸನಾಳಗಳು ತಗ್ಗುತ್ತವೆ, ಶ್ವಾಸಕೋಶವು ಸಂಕೋಚಿಸುತ್ತದೆ, ಉಸಿರಾಟದ ತೊಂದರೆ, ಚುಕ್ಕಳನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 14,
+    "lang": "kn",
+    "disease_name": "ಇನ್ಫ್ಲುಯೆಂಜಾ",
+    "aliases": ["ಫ್ಲೂ"],
+    "definitions": "ಇನ್ಫ್ಲುಯೆಂಜಾ ವೈರಸ್ ಕಾರಣದಿಂದ ಉಂಟಾಗುವ ಉಸಿರಾಟದ ಸೋಂಕು ರೋಗವಾಗಿದೆ. ಮೂಗು, ಗಂಟಲಿನ ಮತ್ತು ಲಂಗ್ಸ್ ಅನ್ನು ಹಾನಿಗೊಳಿಸುತ್ತದೆ, ಜ್ವರ, ಚುಂಬ, ಗಂಟಲು ನೋವು, ದೇಹ ನೋವು, ದಣಿವು ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 15,
+    "lang": "kn",
+    "disease_name": "ನ್ಯೂಮೋನಿಯಾ",
+    "aliases": [],
+    "definitions": "ನ್ಯೂಮೋನಿಯಾ ಬ್ಯಾಕ್ಟೀರಿಯಾ, ವೈರಸ್ ಅಥವಾ ಫಂಗಸ್ ಕಾರಣದಿಂದ ಉಂಟಾಗುವ ಶ್ವಾಸಕೋಶ ಸೋಂಕಾಗಿದೆ. ಇದು ಅಲ್ವಿಯೋಲಿ ಭಾಗವನ್ನು ಹಾನಿಗೊಳಿಸುತ್ತದೆ, ಜ್ವರ, ಚುಂಬ, ಉಸಿರಾಟದ ತೊಂದರೆ ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 16,
+    "lang": "kn",
+    "disease_name": "ಮಲಬದ್ಧತೆ",
+    "aliases": ["ಕಾನ್ಸ್ಟಿಪೇಶನ್"],
+    "definitions": "ಮಲಬದ್ಧತೆ ದೊಡ್ಡ ಆಂತರಾಂಗದಲ್ಲಿ ಉಂಟಾಗುವ ಸ್ಥಿತಿಯಾಗಿದೆ. ಮಲ ವಿಸರ್ಜನೆ ಕಡಿಮೆ ಅಥವಾ ಕಷ್ಟಕರವಾಗುತ್ತದೆ, ಫೈಬರ್ ಕೊರತೆ, ದೇಹದ ನೀರಿನ ಕೊರತೆ, ಔಷಧಿ ಬಳಕೆ, ಅಥವಾ ಪೆಗ್ ಚಲನೆಯ ಕಡಿಮೆಯಿಂದ ಉಂಟಾಗುತ್ತದೆ."
+  },
+  {
+    "disease_label": 17,
+    "lang": "kn",
+    "disease_name": "ಸೈನಸೈಟಿಸ್",
+    "aliases": [],
+    "definitions": "ಸೈನಸೈಟಿಸ್ ಸೈನಸ್ ಹೊಟ್ಟೆಗಳ ಸೋಂಕು ರೋಗವಾಗಿದೆ. ಇದು ಸಾಮಾನ್ಯವಾಗಿ ವೈರಸ್ ಅಥವಾ ಬ್ಯಾಕ್ಟೀರಿಯಾ ಕಾರಣದಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಮೂಗಿನ ಅಡ್ಡತೆಯನ್ನು, ಮುಖದ ನೋವು, ತಲೆನೋವು ಮತ್ತು ಗಟ್ಟಿಯಾದ ಮೂಗಿನ ಹರಿವು ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 18,
+    "lang": "kn",
+    "disease_name": "ಆಹಾರ ವಿಷಕಾರಿ ಸೋಂಕು",
+    "aliases": ["ಫುಡ್ ಪೋಯಿಜನಿಂಗ್"],
+    "definitions": "ಆಹಾರ ವಿಷಕಾರಿ ಸೋಂಕು ಮಾಲಿನ್ಯ ಆಹಾರದ ಬ್ಯಾಕ್ಟೀರಿಯಾ, ವೈರಸ್, ಪರಜೀವಿಗಳು ಅಥವಾ ವಿಷಕಾರಕಗಳ ಕಾರಣದಿಂದ ಉಂಟಾಗುವ ಜೀರ್ಣತಂತ್ರದ ರೋಗವಾಗಿದೆ."
+  },
+  {
+    "disease_label": 19,
+    "lang": "kn",
+    "disease_name": "ಫಂಗಲ್ ಸೋಂಕು",
+    "aliases": ["ಮೈಕೋಸಿಸ್"],
+    "definitions": "ಫಂಗಲ್ ಸೋಂಕು ಸೋಂಕುಕಾರಕ ಫಂಗಸ್ ಕಾರಣದಿಂದ ಚರ್ಮ, ನಖಗಳು, ಲೇಪಕ ಅಥವಾ ಒಳಾಂಗಾಂಗಗಳನ್ನು ಹಾನಿಗೊಳಿಸುತ್ತದೆ, ಚುಚ್ಚು, ರ‍್ಯಾಶ್, ಬಣ್ಣ ಬದಲಾವಣೆ ಅಥವಾ ದೀರ್ಘಕಾಲಿಕ ಲಕ್ಷಣಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 20,
+    "lang": "kn",
+    "disease_name": "ಫ್ಯಾಟಿ ಲಿವರ್",
+    "aliases": ["ಹೆಪಟಿಕ್ ಸ್ಟಿಯಾಟೋಸಿಸ್"],
+    "definitions": "ಫ್ಯಾಟಿ ಲಿವರ್ ಲಿವರ್ ಸೆಲ್‌ಗಳಲ್ಲಿ ಅಧಿಕ ಕೊಬ್ಬಿನ ಸಂಗ್ರಹದ ಮೂಲಕ ಉಂಟಾಗುವ ಮೆಟಾಬಾಲಿಕ್ ರೋಗವಾಗಿದೆ. ಮಧುಮೇಹ, ಹೋದಿಕೆ, ಅಥವಾ ಇನ್ಸುಲಿನ್ ಪ್ರತಿರೋಧದಿಂದ ಉಂಟಾಗಬಹುದು."
+  },
+  {
+    "disease_label": 21,
+    "lang": "kn",
+    "disease_name": "ಅರ್ಥರೈಟಿಸ್",
+    "aliases": [],
+    "definitions": "ಅರ್ಥರೈಟಿಸ್ ಸಂಧಿಗಳನ್ನು ಹಾನಿಗೊಳಿಸುವ ಮೂಳೆ-ಮೂಳೆ ಸಂಬಂಧಿತ ರೋಗವಾಗಿದೆ. ಉರುಕು, ನೋವು, ಚುಚ್ಚು, ಉಬ್ಬು ಮತ್ತು ಚಲನೆಯ ಕಡಿತ ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 22,
+    "lang": "kn",
+    "disease_name": "ಹೀಟ್ ಸ್ಟ್ರೋಕ್",
+    "aliases": [],
+    "definitions": "ಹೀಟ್ ಸ್ಟ್ರೋಕ್ ಜೀವಕ್ಕೆ ಹಾನಿಕಾರಕ ಸ್ಥಿತಿಯಾಗಿದೆ. ಉಷ್ಣತೆಯ ಹೆಚ್ಚಿದ ಪರಿಸರದಲ್ಲಿ ದೀರ್ಘಕಾಲಿಕ ಏರಿಕೆ, ನರಮಂಡಲ ಮತ್ತು ಪ್ರಮುಖ ಅಂಗಾಂಗಗಳಿಗೆ ಹಾನಿ, ತಲೆತೂಚು, ಕಣ್ಣಿನ ತೀವ್ರ ಗಂಡಾಂತರ ಮತ್ತು ಜ್ಞಾನಹೀನತೆ ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 23,
+    "lang": "kn",
+    "disease_name": "ಹೆಪಟೈಟಿಸ್ ಬಿ",
+    "aliases": [],
+    "definitions": "ಹೆಪಟೈಟಿಸ್ ಬಿ ವೈರಲ್ ಲಿವರ್ ಸೋಂಕಾಗಿದೆ, Hepatitis B ವೈರಸ್ ಕಾರಣದಿಂದ ಉಂಟಾಗುತ್ತದೆ. ರಕ್ತ ಮತ್ತು ದೇಹದ ದ್ರವಗಳಿಂದ ಹರಡುತ್ತದೆ, ಲಿವರ್ ಉರಿಯುವಿಕೆ, ಹಳದಿ ಬಣ್ಣದ ಚರ್ಮ, ದಣಿವು, ಸಿರೋಸಿಸ್ ಮತ್ತು ಕ್ಯಾನ್ಸರ್ ಅಪಾಯವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 24,
+    "lang": "kn",
+    "disease_name": "ಹೆಪಟೈಟಿಸ್ ಸಿ",
+    "aliases": [],
+    "definitions": "ಹೆಪಟೈಟಿಸ್ ಸಿ ರಕ್ತದಿಂದ ಹರಡುವ ವೈರಲ್ ಸೋಂಕಾಗಿದೆ, Hepatitis C ವೈರಸ್ ಕಾರಣದಿಂದ ಉಂಟಾಗುತ್ತದೆ. ಮುಖ್ಯವಾಗಿ ಲಿವರ್ ಅನ್ನು ಹಾನಿಗೊಳಿಸುತ್ತದೆ, ದೀರ್ಘಕಾಲಿಕವಾಗಿ ಲಿವರ್ ಫೈಬ್ರೋಸಿಸ್, ಸಿರೋಸಿಸ್ ಅಥವಾ ಕ್ಯಾನ್ಸರ್ ಉಂಟಾಗಬಹುದು."
+  },
+  {
+    "disease_label": 25,
+    "lang": "kn",
+    "disease_name": "ಲಿವರ್ ಸಿರೋಸಿಸ್",
+    "aliases": [],
+    "definitions": "ಲಿವರ್ ಸಿರೋಸಿಸ್ ದೀರ್ಘಕಾಲಿಕ ಲಿವರ್ ರೋಗವಾಗಿದೆ. ದೀರ್ಘಕಾಲದ ಹಾನಿಯಿಂದ ಲಿವರ್ ಕೋಶಗಳಲ್ಲಿ ಶಾಶ್ವತ ಚರ್ಮದ ಹಾನಿ ಉಂಟಾಗುತ್ತದೆ, ಲಿವರ್ ಕಾರ್ಯದಲ್ಲಿ ಕಡಿತ ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 26,
+    "lang": "kn",
+    "disease_name": "ಆಲ್ಜೈಮರ್ಸ್ ರೋಗ",
+    "aliases": ["ಆಲ್ಜೈಮರ್ಸ್ ಡಿಸೀಸ್"],
+    "definitions": "ಆಲ್ಜೈಮರ್ಸ್ ರೋಗ ಮೆದುಳಿಗೆ ಹಾನಿ ಮಾಡುವ ಪ್ರಗತಿಶೀಲ ನ್ಯೂರೋಡೆಜೆನರೇಟಿವ್ ರೋಗವಾಗಿದೆ. ಸ್ಮರಣಶಕ್ತಿ ನಷ್ಟ, ಜ್ಞಾನ ಕುಸಿತ ಮತ್ತು ವ್ಯಕ್ತಿತ್ವ ಬದಲಾವಣೆ ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 27,
+    "lang": "kn",
+    "disease_name": "ಅಮ್ಲಜನಕ ಶೋಥ",
+    "aliases": ["ಗ್ಯಾಸ್ಟ್ರೈಟಿಸ್"],
+    "definitions": "ಅಮ್ಲಜನಕ ಶೋಥವು ಹೊಟ್ಟೆ ಸಾಲಿನಲ್ಲಿ ಉರಿಯುವಿಕೆ ಉಂಟುಮಾಡುವ ಉರಿಯುವಿಕೆ ಅಥವಾ ಸೋಂಕು ರೋಗವಾಗಿದೆ. Helicobacter pylori ಸೋಂಕು, ಮದ್ಯಪಾನ, ಔಷಧಿಗಳು ಸಾಮಾನ್ಯ ಕಾರಣ."
+  },
+  {
+    "disease_label": 28,
+    "lang": "kn",
+    "disease_name": "ಪೆಪ್ಟಿಕ್ ಆಲ್ಸರ್",
+    "aliases": [],
+    "definitions": "ಪೆಪ್ಟಿಕ್ ಆಲ್ಸರ್ ಹೊಟ್ಟೆ ಅಥವಾ ದ್ವಾದಶಾಂತರದಲ್ಲಿ ತೆರೆಯಾದ ಹಾನಿ. ಮುಖ್ಯವಾಗಿ Helicobacter pylori ಸೋಂಕು ಅಥವಾ NSAID ಬಳಕೆಯಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಉರಿಯುವ ನೋವು, ರಕ್ತಸ್ರಾವ, ಜೀರ್ಣತಂತ್ರದ ಅಸೌಕರ್ಯ ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 29,
+    "lang": "kn",
+    "disease_name": "ಪಾರ್ಕಿನ್ಸನ್ಸ್ ರೋಗ",
+    "aliases": [],
+    "definitions": "ಪಾರ್ಕಿನ್ಸನ್ಸ್ ರೋಗ ಚಲನೆಗೆ ಹಾನಿ ಮಾಡುವ ಪ್ರಗತಿಶೀಲ ನ್ಯೂರೋಲಾಜಿಕಲ್ ರೋಗ. ಮೆದುಳಿನ ಡೋಪಮಿನ್ ಉತ್ಪಾದನೆಯ ನರಗಳು ನಾಶವಾಗುತ್ತವೆ, ಕಂಪನೆ, ಉರುಕು, ನಿಧಾನ ಚಲನೆ ಮತ್ತು ಸಮತೋಲನ ಸಮಸ್ಯೆ ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 30,
+    "lang": "kn",
+    "disease_name": "ಸ್ತನ ಕ್ಯಾನ್ಸರ್",
+    "aliases": [],
+    "definitions": "ಸ್ತನ ಕ್ಯಾನ್ಸರ್ ಸ್ತನದಿಂದ ಆರಂಭವಾಗುವ ಮಾಲಿಗ್ನೆಂಟ್ ಟ್ಯೂಮರ್. ನಿಯಂತ್ರಣವಿಲ್ಲದ ಕೋಶ ಬೆಳವಣಿಗೆಯಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಲಿಂಫಾಟಿಕ್ ಮತ್ತು ರಕ್ತ ಸಂಚಲನ ವ್ಯವಸ್ಥೆಗೆ ಹಾನಿ, ಇತರ ಅಂಗಾಂಗಗಳಿಗೆ ಹರಡಬಹುದು."
+  },
+  {
+    "disease_label": 31,
+    "lang": "kn",
+    "disease_name": "ಗರ್ಭನಾಳ ಕ್ಯಾನ್ಸರ್",
+    "aliases": [],
+    "definitions": "ಗರ್ಭನಾಳ ಕ್ಯಾನ್ಸರ್ ಸರ್ವಿಕ್ಸ್ ಅನ್ನು ಹಾನಿಗೊಳಿಸುವ ಮಾಲಿಗ್ನೆಂಟ್ ರೋಗ. ಹೆಚ್ಚು ಅಪಾಯ HPV ಸೋಂಕಿನಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಕೋಶದ ಅಸಮಾನ ಬೆಳವಣಿಗೆ ಮತ್ತು ಹರಡುವಿಕೆಗೆ ಕಾರಣ."
+  },
+  {
+    "disease_label": 32,
+    "lang": "kn",
+    "disease_name": "ಮೂತ್ರಪಿಂಡ ಸೋಂಕು",
+    "aliases": ["UTI"],
+    "definitions": "ಮೂತ್ರಪಿಂಡ ಸೋಂಕು ಸಾಮಾನ್ಯವಾಗಿ Escherichia coli ಬ್ಯಾಕ್ಟೀರಿಯಾ ಕಾರಣದಿಂದ ಉಂಟಾಗುತ್ತದೆ. ಮೂತ್ರಾಶಯ ಅಥವಾ ಮೂತ್ರಪಿಂಡವನ್ನು ಹಾನಿಗೊಳಿಸುತ್ತದೆ, ಶೌಚಕ್ಕೆ ನೋವು, ಸತತ ಇಚ್ಛೆ, ತಳ ಹೊಟ್ಟೆ ನೋವು ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 33,
+    "lang": "kn",
+    "disease_name": "ಲ್ಯುಪಸ್",
+    "aliases": ["Systemic Lupus Erythematosus"],
+    "definitions": "ಲ್ಯುಪಸ್ ಸ್ವಯಂ ಪ್ರತಿರೋಧಕ ರೋಗ, ಶರೀರದ ಆರೋಗ್ಯಕರ ಅಂಗಾಂಗಗಳಿಗೆ ಹಾನಿ ಮಾಡುತ್ತದೆ. ಸಂಧಿ, ಚರ್ಮ, ಮೂತ್ರಪಿಂಡ, ಹೃದಯ, ಮೆದುಳನ್ನು ಹಾನಿಗೊಳಿಸುತ್ತದೆ, ಉರಿಯುವಿಕೆ, ನೋವು, ದಣಿವು ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 34,
+    "lang": "kn",
+    "disease_name": "ಸ್ಕರ್ವಿ",
+    "aliases": [],
+    "definitions": "ಸ್ಕರ್ವಿ ವಿಟಮಿನ್ C ಕೊರತೆಯಿಂದ ಉಂಟಾಗುವ ಪೋಷಣಾ ರೋಗವಾಗಿದೆ. ಸಂಯೋಜಕ ಉತ್ಕ್ರಾಂತಿ, ರಕ್ತನಾಳಗಳು, ಹಲ್ಲು ರಕ್ತಸ್ರಾವ, ದಣಿವು, ರಕ್ತಹೀನತೆ ಮತ್ತು ಚುಚ್ಚು ಗುಣಮುಖತೆಯ ಕೊರತೆ ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 35,
+    "lang": "kn",
+    "disease_name": "ರಿಂಗ್‌ವರ್ಮ್",
+    "aliases": ["ಟಿನಿಯಾ"],
+    "definitions": "ರಿಂಗ್‌ವರ್ಮ್ ತ್ಯಾಜ್ಯಕಾಲಿನ ಚರ್ಮದ ಸೋಂಕು, ಡರ್ಮಟೋಫೈಟ್ಸ್ ಫಂಗಸ್ ಕಾರಣದಿಂದ ಉಂಟಾಗುತ್ತದೆ. ಚರ್ಮ, ತಲೆಯ ಕೂದಲು ಅಥವಾ ನಖಗಳ ಮೇಲೆ ಉರಿಯುವ, ಕೆಂಪು, ಉಬ್ಬಿದ, ವೃತ್ತಾಕಾರದ ರ‍್ಯಾಶ್ ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 36,
+    "lang": "kn",
+    "disease_name": "ನಿಪಾ ವೈರಸ್ ಸೋಂಕು",
+    "aliases": [],
+    "definitions": "ನಿಪಾ ವೈರಸ್ ಸೋಂಕು ಜೂನೋಟಿಕ್ ವೈರಲ್ ರೋಗ. ಶ್ವಾಸಕೋಶ ಮತ್ತು ಮಧ್ಯವೃತ್ತಿಯ ನರಮಂಡಲದ ಮೇಲೆ ಹಾನಿ ಮಾಡುತ್ತದೆ, ಜ್ವರ, ಎನ್ಸೆಫಲೈಟಿಸ್, ಉಸಿರಾಟದ ತೊಂದರೆ, ಹೆಚ್ಚು ಸಾವು ಸಂಭವನೀಯತೆ ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 37,
+    "lang": "kn",
+    "disease_name": "ಜಿಕಾ ವೈರಸ್ ರೋಗ",
+    "aliases": [],
+    "definitions": "ಜಿಕಾ ವೈರಸ್ ರೋಗ ದೋಣಿ ಹರಡುವ ವೈರಲ್ ಸೋಂಕು. ನರಮಂಡಲವನ್ನು ಹಾನಿಗೊಳಿಸುತ್ತದೆ, ಗರ್ಭಧಾರಣೆಯ ವೇಳೆ ಶಿಶು ದೋಷಗಳಿಗೆ ಸಂಬಂಧಿಸಬಹುದು."
+  },
+  {
+    "disease_label": 38,
+    "lang": "kn",
+    "disease_name": "ಹಳದಿ ಜ್ವರ",
+    "aliases": [],
+    "definitions": "ಹಳದಿ ಜ್ವರ Yellow fever ವೈರಸ್ ಕಾರಣವಾಗುವ ವೈರಲ್ ರಕ್ತಸ್ರಾವ ರೋಗ. ದೋಣಿಗಳ ಮೂಲಕ ಹರಡುತ್ತದೆ, ಲಿವರ್ ಮತ್ತು ರಕ್ತವನ್ನು ಹಾನಿಗೊಳಿಸುತ್ತದೆ, ಜ್ವರ, ಹಳದಿ ಬಣ್ಣ, ರಕ್ತಸ್ರಾವ ಮತ್ತು ಅಂಗಾಂಗ ವೈಫಲ್ಯ ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 39,
+    "lang": "kn",
+    "disease_name": "ಪಾಲಿಸಿಸ್ಟಿಕ್ ಅಂಡಾಶಯ синдром್",
+    "aliases": ["PCOS"],
+    "definitions": "ಪಾಲಿಸಿಸ್ಟಿಕ್ ಅಂಡಾಶಯ синдром್ ಸಂತಾನೋತ್ಪತ್ತಿ ಮತ್ತು ಎಂಡೋಕ್ರೈನ್ ವ್ಯವಸ್ಥೆಯನ್ನು ಹಾನಿಗೊಳಿಸುವ ಹಾರ್ಮೋನಲ್ ವ್ಯಾಧಿ. ಅನಿಯಮಿತ ಮಾಸಿಕಚಕ್ರ, ಹೆಚ್ಚಿದ ಆಂಡ್ರೋಜನ್, ಅಂಡಾಶಯ ಸಿಸ್ಟುಗಳು, ಮೆಟಾಬಾಲಿಕ್ ಅಪಾಯ ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 40,
+    "lang": "kn",
+    "disease_name": "ಹೈಪೋಥೈರಾಯ್ಡಿಸಂ",
+    "aliases": [],
+    "definitions": "ಹೈಪೋಥೈರಾಯ್ಡಿಸಂ ತೈರಾಯ್ಡ್ ಹಾರ್ಮೋನ್ ಉತ್ಪಾದನೆಯ ಕೊರತೆಯಿಂದ ಉಂಟಾಗುವ ಎಂಡೋಕ್ರೈನ್ ರೋಗ. ಮೆಟಾಬಾಲಿಸಂ ಕಡಿಮೆಯಾಗುವುದು, ದಣಿವು, ತೂಕ ಹೆಚ್ಚಳ, ತಂಪು ತಡೆಯದಿಕೆ ಮತ್ತು ದೇಹ ಕಾರ್ಯ ನಿಧಾನಗೊಳ್ಳುತ್ತದೆ."
+  },
+  {
+    "disease_label": 41,
+    "lang": "kn",
+    "disease_name": "ಹೈಪರ್‌ಥೈರಾಯ್ಡಿಸಂ",
+    "aliases": [],
+    "definitions": "ಹೈಪರ್‌ಥೈರಾಯ್ಡಿಸಂ ತೈರಾಯ್ಡ್ ಹಾರ್ಮೋನ್ ಅಧಿಕ ಉತ್ಪಾದನೆಯೊಂದಿಗೆ ಉಂಟಾಗುವ ಎಂಡೋಕ್ರೈನ್ ರೋಗ. ಇದು ಮೆಟಾಬಾಲಿಸಂ ವೇಗವಾಗಿ ನಡೆಯುತ್ತದೆ, ತೂಕ ಕಡಿಮೆ, ಹೃದಯ ತ್ವರಿತ, ಚಿಂತೆ, ಕಂಪನೆ, ಮತ್ತು ಉಷ್ಣತೆಯ ಅಸಹ್ಯತೆ ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 42,
+    "lang": "kn",
+    "disease_name": "ದೀರ್ಘಕಾಲೀನ ಶ್ವಾಸಕೋಶ ತೊಂದರೆ",
+    "aliases": ["COPD"],
+    "definitions": "COPD ಶ್ವಾಸಕೋಶದ chronic ರೋಗ. ಮುಖ್ಯವಾಗಿ ಧೂಮಪಾನದಿಂದ ಉಂಟಾಗುತ್ತದೆ. ನಿರಂತರ ಶ್ವಾಸದ ತೊಂದರೆ, chronic ಚುಂಬ, ಉಸಿರಾಟದ ತೊಂದರೆ ಮತ್ತು ಶ್ವಾಸಕೋಶ ಹಾನಿ ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 43,
+    "lang": "kn",
+    "disease_name": "ಎಂಡೋಮೆಟ್ರಿಯೋಸಿಸ್",
+    "aliases": [],
+    "definitions": "ಎಂಡೋಮೆಟ್ರಿಯೋಸಿಸ್ ಗರ್ಭಾಶಯ ಲೈನಿಂಗ್‌ನಂತೆ ಇರುವ ತಂತ್ರಾಂಶದ ಹೊರಗಿನ ಬೆಳವಣಿಗೆ. ಗರ್ಭಾಶಯ ಶರೀರದ ಅಂಗಾಂಗಗಳನ್ನು ಹಾನಿಗೊಳಿಸುತ್ತದೆ, ದೀರ್ಘಕಾಲೀನ ನೋವು, ವೇದನೆಯ ಮಾಸಿಕಚಕ್ರ, ಸ್ತ್ರೀಬಲಾಪಾಯ ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 44,
+    "lang": "kn",
+    "disease_name": "ಕ್ಯಾಟರ್ಯಾಕ್ಟ್",
+    "aliases": [],
+    "definitions": "ಕ್ಯಾಟರ್ಯಾಕ್ಟ್ ಕಣ್ಣು ರೋಗ, ಲೆನ್ಸ್ ಮೋಡಣ, ದೃಷ್ಟಿ ಹಾನಿ, ದೀರ್ಘಕಾಲीन ದೃಷ್ಟಿ ತೊಂದರೆ, ಕಂಚು, ಬೆಳಕು ಅಸಹ್ಯತೆ ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 45,
+    "lang": "kn",
+    "disease_name": "ಎಚ್‌ಐವಿ/ಏಡ್ಸ್",
+    "aliases": [],
+    "definitions": "ಎಚ್‌ಐವಿ/ಏಡ್ಸ್ ವೈರಲ್ ರೋಗ, Human Immunodeficiency Virus ಕಾರಣದಿಂದ ಉಂಟಾಗುತ್ತದೆ. ರೋಗ ನಿರೋಧಕ ವ್ಯವಸ್ಥೆಯನ್ನು ಹಾನಿಗೊಳಿಸುತ್ತದೆ, ಸೋಂಕು ಮತ್ತು ಕ್ಯಾನ್ಸರ್ ವಿರುದ್ಧ ಶರೀರದ ರಕ್ಷಣೆ ಕುಸಿದು ಹೋಗುತ್ತದೆ."
+  },
+  {
+    "disease_label": 46,
+    "lang": "kn",
+    "disease_name": "ಮುಖ ಕ್ಯಾನ್ಸರ್",
+    "aliases": [],
+    "definitions": "ಮುಖ ಕ್ಯಾನ್ಸರ್ ಮುಖ ಅಥವಾ ಗಂಟಲು ткಕಗಳು ಹಾನಿಗೊಳಿಸುವ ಮಾಲಿಗ್ನೆಂಟ್ ಟ್ಯೂಮರ್. ತಂಬಾಕು ಅಥವಾ ಮದ್ಯಪಾನದ ಬಳಕೆ ಸಂಬಂಧಿತ, ಗಂಡಾಂತರ, ನೋವು, ನುಂಗುವ ಕಷ್ಟ ಮತ್ತು ಮಾತು ಸಮಸ್ಯೆ ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 47,
+    "lang": "kn",
+    "disease_name": "ಹೊಟ್ಟೆ ಕ್ಯಾನ್ಸರ್",
+    "aliases": ["ಗ್ಯಾಸ್ಟ್ರಿಕ್ ಕ್ಯಾನ್ಸರ್"],
+    "definitions": "ಹೊಟ್ಟೆ ಕ್ಯಾನ್ಸರ್ ಹೊಟ್ಟೆ ಸಾಲು ಹಾನಿಗೊಳಿಸುವ ಮಾಲಿಗ್ನೆಂಟ್ ರೋಗ. Helicobacter pylori ಸೋಂಕು ಸಾಮಾನ್ಯ ಕಾರಣ, ಜೀರ್ಣತಂತ್ರದ ಅಸೌಕರ್ಯ, ತೂಕ ಕಡಿಮೆಯಾಗುವುದು, ಹೊಟ್ಟೆ ನೋವು ಮತ್ತು ರಕ್ತಸ್ರಾವ ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 48,
+    "lang": "kn",
+    "disease_name": "ಕಲಿಯ ಕ್ಯಾನ್ಸರ್",
+    "aliases": ["ಹೆಪಟೋಸೆಲ್ಲ್ಯುಲಾರ್ ಕಾರ್ಸಿನೋಮಾ"],
+    "definitions": "ಕಲಿಯ ಕ್ಯಾನ್ಸರ್ ಲಿವರ್ ಕೋಶಗಳಿಂದ ಆರಂಭವಾಗುವ ಮಾಲಿಗ್ನೆಂಟ್ ಟ್ಯೂಮರ್. ದೀರ್ಘಕಾಲಿಕ ಹೆಪಟೈಟಿಸ್, ಸಿರೋಸಿಸ್ ಅಥವಾ ಲಿವರ್ ಹಾನಿ ಕಾರಣವಾಗಬಹುದು."
+  },
+  {
+    "disease_label": 49,
+    "lang": "kn",
+    "disease_name": "ಲಂಗ್ ಕ್ಯಾನ್ಸರ್",
+    "aliases": [],
+    "definitions": "ಲಂಗ್ ಕ್ಯಾನ್ಸರ್ ಶ್ವಾಸಕೋಶದ ಟಿಷ್ಯೂ ಹಾನಿಗೊಳಿಸುವ ಮಾಲಿಗ್ನೆಂಟ್ ರೋಗ. ಮುಖ್ಯವಾಗಿ ಧೂಮಪಾನದಿಂದ ಉಂಟಾಗುತ್ತದೆ, chronic ಚುಂಬ, ಹೊಟ್ಟೆ ನೋವು, ಉಸಿರಾಟದ ತೊಂದರೆ, ಇತರ ಅಂಗಾಂಗಗಳಿಗೆ ಹರಡುವ ಸಾಧ್ಯತೆ."
+  },
+  {
+    "disease_label": 50,
+    "lang": "kn",
+    "disease_name": "ಹೆಮೋರಾಯಿಡ್ಸ್",
+    "aliases": ["ಪೈಲ್ಸ್"],
+    "definitions": "ಹೆಮೋರಾಯಿಡ್ಸ್ rektum ಅಥವಾ ಅನಸ್ ನಲ್ಲಿ ಉಬ್ಬಿದ ರಕ್ತನಾಳಗಳು. ಕೆಳ ಜೀರ್ಣತಂತ್ರದಲ್ಲಿ ನೋವು, ಚುಚ್ಚು, ಅಸೌಕರ್ಯ ಮತ್ತು ಮಲ ವಿಸರ್ಜನೆ ವೇಳೆ ರಕ್ತಸ್ರಾವ ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 51,
+    "lang": "kn",
+    "disease_name": "ಎಕ್ಜೀಮಾ",
+    "aliases": ["ಅಟೋಪಿಕ್ ಡರ್ಮಟೈಟಿಸ್"],
+    "definitions": "ಎಕ್ಜೀಮಾ ಚರ್ಮದ ದೀರ್ಘಕಾಲೀನ ಉರಿಯುವಿಕೆ ರೋಗ. ಇಮ್ಯೂನ್ ಅಸಮತೋಲನ ಅಥವಾ ಅಲರ್ಜನ್ಸ್ ಕಾರಣ, ಚುಚ್ಚು, ಕೆಂಪುತನ, ಒಣತೆ, ಚರ್ಮದ ಅಸೌಕರ್ಯ ಉಂಟುಮಾಡುತ್ತದೆ."
+  },
+  {
+    "disease_label": 52,
+    "lang": "kn",
+    "disease_name": "ಮುಚ್ಚು",
+    "aliases": ["ಅಕ್ನೆ"],
+    "definitions": "ಮುಚ್ಚು ಚರ್ಮದ ರೋಗ, ಕೂದಲು ಮೂಳೆಗಿಳುವು ಮತ್ತು ಸೆಬೇಶಿಯಸ್ ಗ್ರಂಥಿಗಳನ್ನು ಹಾನಿಗೊಳಿಸುತ್ತದೆ. ರಂಧ್ರಗಳ ಅಡ್ಡತೆಯಿಂದ, ಬ್ಯಾಕ್ಟೀರಿಯಾ ಮತ್ತು ಹಾರ್ಮೋನಲ್ ಬದಲಾವಣೆಗಳಿಂದ ಉಂಟಾಗುತ್ತದೆ."
+  },
+  {
+    "disease_label": 53,
+    "lang": "kn",
+    "disease_name": "ಜಾಂಡೀಸ್",
+    "aliases": ["ಹಳದಿ ಚರ್ಮ"],
+    "definitions": "ಜಾಂಡೀಸ್ ಲಿವರ್ ಮತ್ತು ರಕ್ತವನ್ನು ಹಾನಿಗೊಳಿಸುವ ಸ್ಥಿತಿ. ಬಿಳಿರುಬಿನ್ ಮಟ್ಟ ಹೆಚ್ಚಾದ ಕಾರಣ ಚರ್ಮ ಮತ್ತು ಕಣ್ಣು ಹಳದಿ ಬಣ್ಣ, ಲಿವರ್ ರೋಗ ಅಥವಾ ರಕ್ತದ ಸಮಸ್ಯೆಗಳು ಸಾಮಾನ್ಯ ಕಾರಣ."
+  },
+  {
+    "disease_label": 0,
+    "lang": "mr",
+    "disease_name": "अ‍ॅनिमिया",
+    "aliases": ["ऍनीमिया"],
+    "definitions": "अ‍ॅनिमिया ही रक्तातील लाल रक्तपेशी किंवा हिमोग्लोबिन कमी होण्यामुळे होणारी रक्तविकार आहे, ज्यामुळे ऊतकांमध्ये ऑक्सिजन पोहोच कमी होते. याचे सामान्य कारण लोहाची कमतरता, जीवनसत्त्वे, आजार किंवा संसर्ग आहेत."
+  },
+  {
+    "disease_label": 1,
+    "lang": "mr",
+    "disease_name": "मधुमेह",
+    "aliases": ["डायबिटीज मेलिटस"],
+    "definitions": "मधुमेह हा अंतःस्रावी प्रणालीवर परिणाम करणारा चयापचय विकार आहे, ज्यामुळे इन्सुलिनचे उत्पादन अपुरे होणे किंवा इन्सुलिन प्रतिकारामुळे रक्तातील साखरेची पातळी जास्त राहते आणि रक्तवाहिन्या, मज्जासंस्था, डोळे, किडनी व हृदय प्रभावित होतात."
+  },
+  {
+    "disease_label": 2,
+    "lang": "mr",
+    "disease_name": "हायपरटेन्शन",
+    "aliases": ["उच्च रक्तदाब"],
+    "definitions": "हायपरटेन्शन ही हृदयविकाराशी संबंधित अवस्था आहे जिथे रक्तदाब दीर्घकाळ जास्त राहतो, ज्यामुळे धमन्यांवर ताण येतो आणि हृदयविकार, स्ट्रोक, किडनी फेल्युअर व रक्तवाहिन्यांचे नुकसान होण्याचा धोका वाढतो."
+  },
+  {
+    "disease_label": 3,
+    "lang": "mr",
+    "disease_name": "क्षयरोग",
+    "aliases": ["टीबी"],
+    "definitions": "क्षयरोग हा मायकोबॅक्टेरियम ट्युबरक्युलोसिस या बॅक्टेरियामुळे होणारा संसर्गजन्य रोग आहे, जो मुख्यतः फुफ्फुसांना प्रभावित करतो, हवेतील थेंबांद्वारे पसरतो, दीर्घकाळचा खोकला, ताप, वजन कमी होणे व थकवा निर्माण करतो."
+  },
+  {
+    "disease_label": 4,
+    "lang": "mr",
+    "disease_name": "चिकनगुनिया",
+    "aliases": [],
+    "definitions": "चिकनगुनिया ही एडिस माश्यांद्वारे पसरणारी चिकनगुनिया व्हायरसमुळे होणारी संसर्गजन्य रोग आहे, जो सांध्यांवर आणि स्नायूंवर परिणाम करतो, ज्यामुळे जास्त ताप, तीव्र सांध्य वेदना, थकवा आणि दीर्घकाळ टिकणारा सांध्यांचा वेदना निर्माण होतो."
+  },
+  {
+    "disease_label": 5,
+    "lang": "mr",
+    "disease_name": "डेन्ग्यू",
+    "aliases": ["ब्रेकबोन फिव्हर"],
+    "definitions": "डेन्ग्यू ही एडिस माश्यांद्वारे पसरणारी व्हायरसजन्य रोग आहे, जी रक्त आणि रोगप्रतिकारक प्रणालीला प्रभावित करते, ज्यामुळे जास्त ताप, तीव्र शरीर वेदना, त्वचेवर पुरळ, रक्तस्त्राव आणि गंभीर प्रकरणांमध्ये शॉक होतो."
+  },
+  {
+    "disease_label": 6,
+    "lang": "mr",
+    "disease_name": "टायफॉइड",
+    "aliases": ["टायफॉइड फीव्हर"],
+    "definitions": "टायफॉइड हा सॅल्मोनेला टायफी या बॅक्टेरियामुळे होणारा संसर्ग आहे, जो पचनसंस्था आणि रक्त प्रवाहाला प्रभावित करतो, दूषित अन्न किंवा पाण्यामुळे पसरणारा, जास्त काळचा ताप, पोटदुखी, थकवा आणि आतड्याचे गुंतागुंत निर्माण करतो."
+  },
+  {
+    "disease_label": 7,
+    "lang": "mr",
+    "disease_name": "अजिरस",
+    "aliases": ["दस्त"],
+    "definitions": "अजिरस ही आतड्यांवर परिणाम करणारी स्थिती आहे, सामान्यतः बॅक्टेरिया, व्हायरस किंवा परजीवी संसर्गामुळे होते, ज्यामुळे वारंवार सैल शौच, द्रवहानी, इलेक्ट्रोलाइट असंतुलन व थकवा निर्माण होतो."
+  },
+  {
+    "disease_label": 8,
+    "lang": "mr",
+    "disease_name": "अति-पोषणाचा अभाव",
+    "aliases": [],
+    "definitions": "अति-पोषणाचा अभाव हा अनेक शरीर प्रणालींवर परिणाम करणारा पोषण विकार आहे, अपुरी आहार घेतल्याने किंवा पोषक तत्त्वांचे शोषण न होणे यामुळे होतो, ज्यामुळे वाढ मंदावणे, रोगप्रतिकारक शक्ती कमी होणे, स्नायूंचा बळ कमी होणे आणि संसर्गाचा धोका वाढतो."
+  },
+  {
+    "disease_label": 9,
+    "lang": "mr",
+    "disease_name": "कोलेरा",
+    "aliases": [],
+    "definitions": "कोलेरा हा व्हायब्रिओ कोलेरे या बॅक्टेरियामुळे होणारा तीव्र संसर्गजन्य रोग आहे, जो आतड्यांना प्रभावित करतो आणि दूषित पाण्याद्वारे पसरणारा आहे, ज्यामुळे तीव्र पाण्यासारखी दस्त, द्रुत द्रवहानि, इलेक्ट्रोलाइट कमी होणे आणि शॉक निर्माण होतो."
+  },
+  {
+    "disease_label": 10,
+    "lang": "mr",
+    "disease_name": "निर्जलीकरण",
+    "aliases": [],
+    "definitions": "निर्जलीकरण हा संपूर्ण शरीराला प्रभावित करणारा द्रव असंतुलन आहे, जास्त द्रव हरवणे किंवा अपुरी पाण्याचे सेवन यामुळे होतो, ज्यामुळे रक्तप्रवाह कमी होणे, डोकेचक्कर, तोंड कोरडे होणे, कमी मूत्र, आणि अवयव कार्यात अडथळा निर्माण होतो."
+  },
+  {
+    "disease_label": 11,
+    "lang": "mr",
+    "disease_name": "वय-संबंधित मॅक्युलर डिस्ट्रॉफी",
+    "aliases": ["AMD"],
+    "definitions": "वय-संबंधित मॅक्युलर डिस्ट्रॉफी ही डोळ्याची स्थिती आहे, जी रेटिनावर विशेषतः मॅक्युलाला प्रभावित करते, ज्यामुळे मध्य दृष्टि कमी होणे आणि वाचन व चेहरा ओळखण्यात अडचण येते."
+  },
+  {
+    "disease_label": 12,
+    "lang": "mr",
+    "disease_name": "कंजंक्टिव्हायटिस",
+    "aliases": ["पिंक आई"],
+    "definitions": "कंजंक्टिव्हायटिस ही डोळ्याची जळजळ निर्माण करणारी स्थिती आहे, जी व्हायरस, बॅक्टेरिया किंवा अॅलर्जीमुळे होते, ज्यामुळे डोळा लाल होणे, खाज सुटणे, स्त्राव, अश्रू आणि अस्वस्थता निर्माण होते."
+  },
+  {
+    "disease_label": 13,
+    "lang": "mr",
+    "disease_name": "अस्थमा",
+    "aliases": [],
+    "definitions": "अस्थमा ही श्वसन मार्गावर परिणाम करणारी दीर्घकालीन जळजळ स्थिती आहे, अॅलर्जन किंवा संसर्गामुळे निर्माण होते, ज्यामुळे श्वास कोंडा, श्वास घेण्यास त्रास, छाती घट्ट होणे आणि खोकला येतो."
+  },
+  {
+    "disease_label": 14,
+    "lang": "mr",
+    "disease_name": "इन्फ्लुएंझा",
+    "aliases": ["फ्लू"],
+    "definitions": "इन्फ्लुएंझा हा व्हायरसजन्य श्वसन आजार आहे, जो नाक, घसा व फुफ्फुसांना प्रभावित करतो, ज्यामुळे ताप, खोकला, घशात दुखणे, शरीरदुखी, थकवा आणि संभाव्य न्यूमोनिया निर्माण होतो."
+  },
+  {
+    "disease_label": 15,
+    "lang": "mr",
+    "disease_name": "न्यूमोनिया",
+    "aliases": [],
+    "definitions": "न्यूमोनिया हा फुफ्फुसांचा संसर्ग आहे, जो बॅक्टेरिया, व्हायरस किंवा बुरशीमुळे होतो, अल्व्हेओली प्रभावित होतात, ज्यामुळे ताप, खोकला, छाती दुखणे, श्वास घेण्यात त्रास आणि ऑक्सिजनची देवाणघेवाण कमी होते."
+  },
+  {
+    "disease_label": 16,
+    "lang": "mr",
+    "disease_name": "कोस",
+    "aliases": ["संकुचित मळ"],
+    "definitions": "कोस ही मोठ्या आतड्यावर परिणाम करणारी स्थिती आहे, ज्यात कमी वारंवार किंवा कठीण मळ येते. कमी तंतुमय पदार्थ, निर्जलीकरण, औषधे किंवा आतड्यांच्या हालचाली कमी होणे सामान्य कारण आहेत."
+  },
+  {
+    "disease_label": 17,
+    "lang": "mr",
+    "disease_name": "सायनसिटिस",
+    "aliases": [],
+    "definitions": "साइनसिटिस ही साइनस गह्वरांची जळजळ निर्माण करणारी स्थिती आहे, सामान्यतः व्हायरस किंवा बॅक्टेरियामुळे होते, ज्यामुळे नाक बंद होणे, चेहऱ्याचे दुखणे, डोकेदुखी, जाड नाकाचा स्त्राव, व सुगंध कमी होतो."
+  },
+  {
+    "disease_label": 18,
+    "lang": "mr",
+    "disease_name": "अन्न विषबाधा",
+    "aliases": [],
+    "definitions": "अन्न विषबाधा ही तीव्र आतड्यांची आजार आहे, जी दूषित अन्नातील बॅक्टेरिया, व्हायरस, परजीवी किंवा विषामुळे होते, पोट आणि आतड्यांवर परिणाम करते, ज्यामुळे जुलाब, उलटी, पोटदुखी आणि ताप येतो."
+  },
+  {
+    "disease_label": 19,
+    "lang": "mr",
+    "disease_name": "बुरशीचे संसर्ग",
+    "aliases": ["मायकोसिस"],
+    "definitions": "बुरशीचे संसर्ग त्वचा, नखे, श्लेष्म झिल्ली किंवा अंतर्गत अवयवांना प्रभावित करणारे रोग आहेत, ज्यामुळे खाज, पुरळ, रंग बदल किंवा रोगप्रतिकारक क्षमता कमी असलेल्या व्यक्तींमध्ये संसर्ग होतो."
+  },
+  {
+    "disease_label": 20,
+    "lang": "mr",
+    "disease_name": "फॅटी लिव्हर",
+    "aliases": ["हिपॅटिक स्टिऑसिस"],
+    "definitions": "फॅटी लिव्हर हा जठरशयातील चरबीचा जास्त साठा होणारा आजार आहे, जो मुळात लठ्ठपणा, मधुमेह, मद्यपान किंवा इन्सुलिन प्रतिकारामुळे होतो, लिव्हरमध्ये सूज आणि हानी होऊ शकते."
+  },
+  {
+    "disease_label": 21,
+    "lang": "mr",
+    "disease_name": "संधिवात",
+    "aliases": [],
+    "definitions": "संधिवात हा सांध्यांवर परिणाम करणारा स्नायू-हाडांचा विकार आहे, जो जळजळ, प्रतिकारशक्तीची प्रतिक्रिया किंवा घर्षणामुळे होतो, ज्यामुळे सांध्य दुखणे, घट्टपणा, सूज आणि हालचाली कमी होतात."
+  },
+  {
+    "disease_label": 22,
+    "lang": "mr",
+    "disease_name": "उष्णतेचा झटका",
+    "aliases": [],
+    "definitions": "उष्णतेचा झटका हा जीवनाला धोका पोहोचवणारा आजार आहे, जो उच्च तापमानात जास्त वेळ राहिल्यामुळे होतो, त्यामुळे तापमान नियंत्रणाचे बिघाड, गोंधळ, अवयवांचे नुकसान आणि बेहोशी निर्माण होतो."
+  },
+  {
+    "disease_label": 23,
+    "lang": "mr",
+    "disease_name": "हिपॅटायटिस बी",
+    "aliases": [],
+    "definitions": "हिपॅटायटिस बी हा यकृताचा व्हायरल संसर्ग आहे, जो हिपॅटायटिस बी व्हायरसने होतो, रक्त व शरीरातील द्रवद्रव्यांमधून पसरणारा, ज्यामुळे यकृत जळजळ, पिवळसर त्वचा, थकवा व सिरोसिस व कर्करोगाचा धोका वाढतो."
+  },
+  {
+    "disease_label": 24,
+    "lang": "mr",
+    "disease_name": "हिपॅटायटिस सी",
+    "aliases": [],
+    "definitions": "हिपॅटायटिस सी हा रक्तजन्य व्हायरल संसर्ग आहे, जो प्रामुख्याने यकृतावर परिणाम करतो, दीर्घकालीन होऊ शकतो आणि यकृत फिब्रोसिस, सिरोसिस किंवा यकृत कर्करोगास कारणीभूत ठरतो."
+  },
+  {
+    "disease_label": 25,
+    "lang": "mr",
+    "disease_name": "यकृत सिरोसिस",
+    "aliases": [],
+    "definitions": "यकृत सिरोसिस ही दीर्घकालीन यकृताची स्थिती आहे, जिथे यकृतातील ऊतक अपरिवर्तनीयरीत्या जखमी होतात, मुख्यतः मद्यपान, व्हायरल हिपॅटायटिस किंवा फॅटी लिव्हरमुळे, ज्यामुळे यकृत कार्य प्रभावित होते."
+  },
+  {
+    "disease_label": 26,
+    "lang": "mr",
+    "disease_name": "अल्झायमर रोग",
+    "aliases": ["अल्झायमर डिसीज"],
+    "definitions": "अल्झायमर हा मेंदूवर परिणाम करणारा प्रगत न्यूरोडिजेनेरेटिव्ह विकार आहे, ज्यात स्मरणशक्ती कमी होणे, संज्ञानात्मक घट व वर्तनातील बदल दिसतात, मुख्यतः मेंदूमध्ये असामान्य प्रथिन जमा होण्यामुळे."
+  },
+  {
+    "disease_label": 27,
+    "lang": "mr",
+    "disease_name": "गॅस्ट्रायटिस",
+    "aliases": [],
+    "definitions": "गॅस्ट्रायटिस ही पोटाच्या आतील झिल्लीची जळजळ आहे, सामान्यतः हेलिकोबॅक्टर पायलोरी संसर्ग, जास्त मद्यपान किंवा औषधांमुळे होते, ज्यामुळे पोटदुखी, मळमळ व अपचन होते."
+  },
+  {
+    "disease_label": 28,
+    "lang": "mr",
+    "disease_name": "पेप्टिक अल्सर",
+    "aliases": [],
+    "definitions": "पेप्टिक अल्सर रोगात पोट किंवा डुओडेनममध्ये उघडे घाव निर्माण होतात, मुख्यतः हेलिकोबॅक्टर पायलोरी संसर्ग किंवा NSAID वापरामुळे, ज्यामुळे जळजळ होणे, रक्तस्त्राव आणि अपचनाची अस्वस्थता होते."
+  },
+  {
+    "disease_label": 29,
+    "lang": "mr",
+    "disease_name": "पार्किन्सन्स रोग",
+    "aliases": [],
+    "definitions": "पार्किन्सन्स रोग हा प्रगत न्यूरोलॉजिकल विकार आहे, जो मेंदूत डोपामिन उत्पादक न्यूरॉन्सच्या हानीमुळे हालचालींवर परिणाम करतो, ज्यामुळे कंपकंप, घट्टपणा, मंद हालचाली व संतुलन समस्या निर्माण होतात."
+  },
+  {
+    "disease_label": 30,
+    "lang": "mr",
+    "disease_name": "स्तन कर्करोग",
+    "aliases": [],
+    "definitions": "स्तन कर्करोग हा स्तन ऊतकांमध्ये निर्माण होणारा घातक ट्यूमर आहे, अनियंत्रित पेशींच्या वाढीमुळे होतो, लसीकापेशी आणि रक्तप्रवाह प्रणालींवर परिणाम करतो आणि उपचार नसल्यास इतर अवयवांमध्ये पसरू शकतो."
+  },
+  {
+    "disease_label": 31,
+    "lang": "mr",
+    "disease_name": "गर्भाशयाचा कर्करोग",
+    "aliases": [],
+    "definitions": "गर्भाशयाचा कर्करोग हा गर्भाशयाच्या गळ्यात होणारा घातक आजार आहे, मुख्यतः उच्च धोका असलेल्या HPV संसर्गामुळे, ज्यामुळे असामान्य पेशींची वाढ आणि संभाव्य पसराव होतो."
+  },
+  {
+    "disease_label": 32,
+    "lang": "mr",
+    "disease_name": "मूत्रमार्गाचा संसर्ग",
+    "aliases": ["यूटीआय"],
+    "definitions": "मूत्रमार्गाचा संसर्ग ही बॅक्टेरियल संसर्गजन्य अवस्था आहे, सामान्यतः ई.कोलाईमुळे, मूत्रपिंड किंवा मूत्राशय प्रभावित होतो, ज्यामुळे वेदनादायक लघवी, वारंवार लघवी येण्याची तडजोड आणि पोटदुखी होते."
+  },
+  {
+    "disease_label": 33,
+    "lang": "mr",
+    "disease_name": "लुपस",
+    "aliases": ["सिस्टेमिक लुपस एरिथेमॅटोसस"],
+    "definitions": "लुपस हा ऑटोइम्यून रोग आहे, ज्यात रोगप्रतिकारक प्रणाली निरोगी ऊतकांवर हल्ला करते, सांधे, त्वचा, किडनी, हृदय आणि मेंदू प्रभावित होतात, ज्यामुळे जळजळ, वेदना, थकवा व अवयवांचे नुकसान होते."
+  },
+  {
+    "disease_label": 34,
+    "lang": "mr",
+    "disease_name": "स्कर्वी",
+    "aliases": [],
+    "definitions": "स्कर्वी हा जीवनसत्त्व C च्या कमतरतेमुळे होणारा पोषण विकार आहे, जो संयोजक ऊतक आणि रक्तवाहिन्यांना प्रभावित करतो, ज्यामुळे मसूळ रक्तस्त्राव, थकवा, अ‍ॅनिमिया आणि जखमांची मंद सुधारणा होते."
+  },
+  {
+    "disease_label": 35,
+    "lang": "mr",
+    "disease_name": "रिंगवर्म",
+    "aliases": ["टिनिया"],
+    "definitions": "रिंगवर्म हा संसर्गजन्य बुरशीजन्य त्वचा रोग आहे, जो त्वचा, केसाळ किंवा नखे प्रभावित करतो, ज्यामुळे वर्तुळाकार, खाज सुटणारे, लाल व खवखवणारे पुरळ तयार होतात."
+  },
+  {
+    "disease_label": 36,
+    "lang": "mr",
+    "disease_name": "निपाह व्हायरस संसर्ग",
+    "aliases": [],
+    "definitions": "निपाह व्हायरस संसर्ग हा झूनोटिक व्हायरसजन्य रोग आहे, जो श्वसन आणि मेंदूच्या प्रणालींना प्रभावित करतो, ज्यामुळे ताप, मेंदूशोथ, श्वसन ताण आणि उच्च मृत्यू दर होतो."
+  },
+  {
+    "disease_label": 37,
+    "lang": "mr",
+    "disease_name": "झिका व्हायरस रोग",
+    "aliases": [],
+    "definitions": "झिका व्हायरस रोग हा माश्यांद्वारे पसरणारा व्हायरसजन्य संसर्ग आहे, जो मज्जासंस्था प्रभावित करतो, सामान्यतः सौम्य असतो, परंतु गर्भधारणेदरम्यान संसर्ग झाल्यास जन्मजात दोष निर्माण होऊ शकतात."
+  },
+  {
+    "disease_label": 38,
+    "lang": "mr",
+    "disease_name": "पिवळा ताप",
+    "aliases": [],
+    "definitions": "पिवळा ताप हा व्हायरल रक्तस्त्रावजन्य रोग आहे, जो पिवळा ताप व्हायरसमुळे होतो, माश्यांद्वारे पसरणारा, यकृत आणि रक्त प्रवाह प्रभावित करतो, ज्यामुळे ताप, पिवळसर त्वचा, रक्तस्त्राव आणि अवयव फेल्युअर होतो."
+  },
+  {
+    "disease_label": 39,
+    "lang": "mr",
+    "disease_name": "पोलीसिस्टिक ओवरी सिंड्रोम",
+    "aliases": ["PCOS"],
+    "definitions": "पोलीसिस्टिक ओवरी सिंड्रोम हा अंतःस्रावी व प्रजनन प्रणालींवर परिणाम करणारा हार्मोनल विकार आहे, ज्यात अनियमित मासिक पाळी, जास्त अँड्रोजन स्तर, अंडाशयात सिस्ट आणि वाढलेला चयापचय धोका असतो."
+  },
+  {
+    "disease_label": 40,
+    "lang": "mr",
+    "disease_name": "हायपोथायरॉईडिझम",
+    "aliases": [],
+    "definitions": "हायपोथायरॉईडिझम हा अंतःस्रावी विकार आहे, जो थायरॉईड हार्मोनच्या अपुरी निर्मितीमुळे होतो, ज्यामुळे चयापचय प्रभावित होतो आणि थकवा, वजन वाढ, थंड सहनशक्ती कमी व शरीराच्या कार्यांमध्ये मंदी येते."
+  },
+  {
+    "disease_label": 41,
+    "lang": "mr",
+    "disease_name": "हायपरथायरॉईडिझम",
+    "aliases": [],
+    "definitions": "हायपरथायरॉईडिझम हा अंतःस्रावी विकार आहे, ज्यात थायरॉईड हार्मोनचे जास्त उत्पादन होते, चयापचय गती वाढते आणि वजन कमी होणे, हृदय गती जास्त होणे, चिंता, कंपकंप व उष्णता सहनशक्ती कमी होते."
+  },
+  {
+    "disease_label": 42,
+    "lang": "mr",
+    "disease_name": "क्रॉनिक ऑब्स्ट्रक्टिव्ह पल्मोनरी डिसीज",
+    "aliases": ["COPD"],
+    "definitions": "COPD हा फुफ्फुसांना प्रभावित करणारा दीर्घकालीन श्वसन आजार आहे, मुख्यतः धूम्रपानामुळे, ज्यामध्ये श्वसनमार्गे वायूचे मर्यादित प्रवाह, सतत खोकला, श्वास घेण्यात त्रास आणि फुफ्फुस हानी दिसते."
+  },
+  {
+    "disease_label": 43,
+    "lang": "mr",
+    "disease_name": "एंडोमेट्रिओसिस",
+    "aliases": [],
+    "definitions": "एंडोमेट्रिओसिस ही स्त्रीरोगविज्ञानातील समस्या आहे, ज्यात गर्भाशयाच्या आंतरिक झिल्लीसारखी ऊतक बाहेरील अवयवांवर वाढते, पेल्विक अवयव प्रभावित होतात आणि दीर्घकालीन वेदना, वेदनादायक मासिक पाळी व निरुत्पादकता होते."
+  },
+  {
+    "disease_label": 44,
+    "lang": "mr",
+    "disease_name": "मोतीबिंदू",
+    "aliases": [],
+    "definitions": "मोतीबिंदू हा डोळ्यांचा आजार आहे, ज्यात नैसर्गिक लेन्स धुसर होते, दृष्टी स्पष्टतेवर परिणाम होतो, धूसर दृष्टी, उजेडात चमक व पाहण्यात अडचण निर्माण होते, सामान्यतः वयानुसार."
+  },
+  {
+    "disease_label": 45,
+    "lang": "mr",
+    "disease_name": "एचआयव्ही/एड्स",
+    "aliases": [],
+    "definitions": "एचआयव्ही/एड्स हा मानव इम्युनोडेफिशियन्सी व्हायरसमुळे होणारा संसर्गजन्य रोग आहे, जो रोगप्रतिकारक प्रणालीवर परिणाम करतो आणि उपचार न केल्यास संसर्ग व कर्करोगाविरुद्ध संरक्षण हळूहळू कमी करतो."
+  },
+  {
+    "disease_label": 46,
+    "lang": "mr",
+    "disease_name": "मुखाचा कर्करोग",
+    "aliases": [],
+    "definitions": "मुखाचा कर्करोग हा तोंड किंवा घसा ऊतकांवर परिणाम करणारा घातक ट्यूमर आहे, सामान्यतः तंबाखू किंवा मद्यपानामुळे होतो, सतत जखमा, वेदना, गिळण्यास त्रास आणि बोलण्यात अडचण निर्माण करतो."
+  },
+  {
+    "disease_label": 47,
+    "lang": "mr",
+    "disease_name": "पोटाचा कर्करोग",
+    "aliases": ["गॅस्ट्रिक कॅन्सर"],
+    "definitions": "पोटाचा कर्करोग हा पोटाच्या आतल्या झिल्लीवर होणारा घातक आजार आहे, सामान्यतः हेलिकोबॅक्टर पायलोरी संसर्गामुळे, ज्यामुळे अपचन, वजन कमी होणे, पोटदुखी व जठर आतड्यांतून रक्तस्त्राव होतो."
+  },
+  {
+    "disease_label": 48,
+    "lang": "mr",
+    "disease_name": "यकृताचा कर्करोग",
+    "aliases": ["हिपॅटोसेल्युलर कार्सिनोमा"],
+    "definitions": "यकृताचा कर्करोग हा यकृत पेशींमध्ये निर्माण होणारा घातक ट्यूमर आहे, जो सामान्यतः दीर्घकालीन हिपॅटायटिस संसर्ग, सिरोसिस किंवा दीर्घकालीन यकृत हानीमुळे विकसित होतो."
+  },
+  {
+    "disease_label": 49,
+    "lang": "mr",
+    "disease_name": "फुफ्फुसाचा कर्करोग",
+    "aliases": [],
+    "definitions": "फुफ्फुसाचा कर्करोग हा फुफ्फुसांच्या ऊतकांवर परिणाम करणारा घातक आजार आहे, मुख्यतः धूम्रपानामुळे होतो, सतत खोकला, छाती दुखणे, श्वास घेण्यात त्रास आणि इतर अवयवांमध्ये पसरू शकतो."
+  },
+  {
+    "disease_label": 50,
+    "lang": "mr",
+    "disease_name": "हॅमोरॉइड्स",
+    "aliases": ["पायल्स"],
+    "definitions": "हॅमोरॉइड्स ही रेक्टम किंवा गुदद्वारातील सूजलेली रक्तवाहिन्या आहेत, ज्या खालच्या पचनसंस्थेला प्रभावित करतात, ज्यामुळे वेदना, खाज, अस्वस्थता व मळासाठी रक्तस्त्राव होतो."
+  },
+  {
+    "disease_label": 51,
+    "lang": "mr",
+    "disease_name": "इक्झिमा",
+    "aliases": ["अ‍ॅटॉपिक डर्माटायटिस"],
+    "definitions": "इक्झिमा ही त्वचेला प्रभावित करणारी दीर्घकालीन जळजळ स्थिती आहे, प्रतिकारशक्ती बिघाड किंवा अॅलर्जनमुळे होते, ज्यामुळे खाज, लालसरपणा, कोरडेपणा आणि त्वचेवर जळजळ निर्माण होते."
+  },
+  {
+    "disease_label": 52,
+    "lang": "mr",
+    "disease_name": "मुरुम",
+    "aliases": ["अॅक्ने"],
+    "definitions": "मुरुम हा त्वचेचा आजार आहे, जो केसांच्या फॉलिकल्स आणि तेल ग्रंथींवर परिणाम करतो, छिद्रे बंद होणे, बॅक्टेरिया आणि हार्मोनल बदलामुळे, ज्यामुळे पिंपल्स, ब्लॅकहेड्स आणि जळजळ होतो."
+  },
+  {
+    "disease_label": 53,
+    "lang": "mr",
+    "disease_name": "पिवळसरपणा",
+    "aliases": ["जॉन्डिस"],
+    "definitions": "पिवळसरपणा हा यकृत आणि रक्तप्रवाहावर परिणाम करणारी स्थिती आहे, ज्यात बिलिरुबिन पातळी जास्त असल्याने त्वचा आणि डोळे पिवळसर होतात, सामान्यतः यकृत आजार किंवा रक्तविकारांमुळे."
+  },
+  {
+    "disease_label": 0,
+    "lang": "gu",
+    "disease_name": "એનિમિયા",
+    "aliases": ["એનિમિયા"],
+    "definitions": "એનિમિયા એક રક્ત વિકાર છે જેમાં લાલ રક્તકણો અથવા હિમોગ્લોબિનની માત્રા ઓછી હોય છે, જેના કારણે શરીરના તંતુઓ સુધી ઓક્સિજન પહોંચ ઘટે છે. તે સામાન્ય રીતે લોહ, વિટામિનની અછત, ચેપ, દીર્ઘકાળીન રોગો અથવા વારસાગત વિકારોથી થાય છે."
+  },
+  {
+    "disease_label": 1,
+    "lang": "gu",
+    "disease_name": "મધુમેહ",
+    "aliases": ["ડાયાબિટીસ મેલિટસ"],
+    "definitions": "મધુમેહ એ ચયાપચય સંબંધિત રોગ છે જે એન્ડોક્રાઇન સિસ્ટમને અસર કરે છે, ઇન્સુલિનની અછત અથવા ઇન્સુલિન પ્રતિકારને કારણે થાય છે, અને લાંબા સમય સુધી ઊંચા બ્લડ શુગરથી નસો, કિડની, આંખો, હૃદય અને નર્વસ સિસ્ટમને નુકસાન કરે છે."
+  },
+  {
+    "disease_label": 2,
+    "lang": "gu",
+    "disease_name": "ઉચ્ચ રક્તચાપ",
+    "aliases": ["હાઈ બ્લડ પ્રેશર"],
+    "definitions": "ઉચ્ચ રક્તચાપ એ હૃદય-રક્તવાહિની રોગ છે જેમાં ધમનીઓમાં રક્તદાબ સતત વધારે રહે છે, જેના કારણે હૃદયરોગ, સ્ટ્રોક, કિડની નિષ્ફળતા અને નસોને નુકસાન થવાનો જોખમ વધે છે."
+  },
+  {
+    "disease_label": 3,
+    "lang": "gu",
+    "disease_name": "ક્ષયરોગ",
+    "aliases": ["ટીબી"],
+    "definitions": "ક્ષયરોગ માયકોબેક્ટેરિયમ ટ્યુબરક્યુલોસિસ નામના બેક્ટેરિયા દ્વારા થતો ચેપજન્ય રોગ છે, જે મુખ્યત્વે ફેફસાંને અસર કરે છે, હવામાં ફેલાય છે અને લાંબાગાળાનો ઉધરસ, તાવ, વજન ઘટાડો અને થાક સર્જે છે."
+  },
+  {
+    "disease_label": 4,
+    "lang": "gu",
+    "disease_name": "ચિકનગુનિયા",
+    "aliases": [],
+    "definitions": "ચિકનગુનિયા એ એડિસ મચ્છર દ્વારા ફેલાતો વાયરસજન્ય રોગ છે, જે સાંધા અને પેશીઓને અસર કરે છે, જેમાં તેજ તાવ, ગંભીર સાંધાના દુખાવા, થાક અને લાંબા સમય સુધી દુખાવો રહે છે."
+  },
+  {
+    "disease_label": 5,
+    "lang": "gu",
+    "disease_name": "ડેન્ગ્યુ",
+    "aliases": ["બ્રેકબોન ફીવર"],
+    "definitions": "ડેન્ગ્યુ એ એડિસ મચ્છર દ્વારા ફેલાતો વાયરસજન્ય રોગ છે, જે રક્ત અને રોગપ્રતિકારક સિસ્ટમને અસર કરે છે, જેમાં ઊંચો તાવ, શરીરના દુખાવા, ચામડી પર ચાંદડા અને ગંભીર સ્થિતિમાં રક્તસ્ત્રાવ અથવા શોક થાય છે."
+  },
+  {
+    "disease_label": 6,
+    "lang": "gu",
+    "disease_name": "ટાઈફોઈડ",
+    "aliases": ["ટાઈફોઈડ ફીવર"],
+    "definitions": "ટાઈફોઈડ એ સેલ્મોનેલા ટાઈફી બેક્ટેરિયા દ્વારા થતો ચેપ છે, જે પાચનતંત્ર અને રક્તપ્રવાહને અસર કરે છે, દૂષિત ખોરાક અથવા પાણીથી ફેલાય છે અને લાંબા સમય સુધી તાવ, પેટનો દુખાવો અને થાક કરે છે."
+  },
+  {
+    "disease_label": 7,
+    "lang": "gu",
+    "disease_name": "ડાયરીયા",
+    "aliases": ["દસ્ત"],
+    "definitions": "ડાયરીયા એ આંતરડાનો રોગ છે, જે બેક્ટેરિયા, વાયરસ અથવા પરજીવી ચેપથી થાય છે, જેમાં વારંવાર પાતળું શૌચ, ડિહાઈડ્રેશન, ઇલેક્ટ્રોલાઇટ અસંતુલન અને નબળાઈ થાય છે."
+  },
+  {
+    "disease_label": 8,
+    "lang": "gu",
+    "disease_name": "કુપોષણ",
+    "aliases": [],
+    "definitions": "કુપોષણ એ પોષણ સંબંધિત રોગ છે, જે પૂરતા પોષક તત્વો ન મળવાથી અથવા શોષણ ન થવાથી થાય છે, અને શરીરની વૃદ્ધિ, રોગપ્રતિકારક શક્તિ અને પેશીઓની તાકાતને અસર કરે છે."
+  },
+  {
+    "disease_label": 9,
+    "lang": "gu",
+    "disease_name": "કોલેરા",
+    "aliases": [],
+    "definitions": "કોલેરા એ વિબ્રિયો કોલેરા બેક્ટેરિયા દ્વારા થતો તીવ્ર ચેપજન્ય રોગ છે, જે આંતરડાને અસર કરે છે અને દૂષિત પાણીથી ફેલાય છે, જેમાં ભારે પાણી જેવી દસ્ત, ઝડપથી ડિહાઈડ્રેશન અને શોક થાય છે."
+  },
+  {
+    "disease_label": 10,
+    "lang": "gu",
+    "disease_name": "ડિહાઈડ્રેશન",
+    "aliases": [],
+    "definitions": "ડિહાઈડ્રેશન એ શરીરમાં પ્રવાહીનો અભાવ થવાની સ્થિતિ છે, જે વધારે પ્રવાહી ગુમાવવાથી અથવા ઓછું પાણી પીવાથી થાય છે, અને ચક્કર, સૂકો મોઢો, ઓછું મૂત્ર અને અંગોના કાર્યમાં બગાડ કરે છે."
+  },
+  {
+    "disease_label": 11,
+    "lang": "gu",
+    "disease_name": "ઉંમર સંબંધિત મેક્યુલર ડિજનરેશન",
+    "aliases": ["AMD"],
+    "definitions": "ઉંમર સંબંધિત મેક્યુલર ડિજનરેશન એ આંખનો રોગ છે, જે રેટિના અને ખાસ કરીને મેક્યુલાને અસર કરે છે, જેના કારણે મધ્ય દ્રષ્ટિ ધીમે ધીમે ઘટે છે."
+  },
+  {
+    "disease_label": 12,
+    "lang": "gu",
+    "disease_name": "કંજંકટિવાઇટિસ",
+    "aliases": ["પિંક આઈ"],
+    "definitions": "કંજંકટિવાઇટિસ એ આંખની ચેપ અથવા સોજાની સ્થિતિ છે, જે વાયરસ, બેક્ટેરિયા અથવા એલર્જીથી થાય છે અને આંખ લાલ થવી, ખંજવાળ, પાણી આવવું અને સ્ત્રાવ થવો જેવી લક્ષણો આપે છે."
+  },
+  {
+    "disease_label": 13,
+    "lang": "gu",
+    "disease_name": "દમ",
+    "aliases": [],
+    "definitions": "દમ એ શ્વસનતંત્રનો દીર્ઘકાળીન રોગ છે, જે શ્વાસનળીમાં સોજો અને સંકોચન કરે છે, અને શ્વાસ લેવામાં તકલીફ, સીટી જેવી અવાજ, ઉધરસ અને છાતીમાં ભાર અનુભવાય છે."
+  },
+  {
+    "disease_label": 14,
+    "lang": "gu",
+    "disease_name": "ફ્લૂ",
+    "aliases": ["ઇન્ફ્લૂએન્ઝા"],
+    "definitions": "ફ્લૂ એ ઇન્ફ્લૂએન્ઝા વાયરસથી થતો શ્વસન રોગ છે, જે નાક, ગળા અને ફેફસાંને અસર કરે છે અને તાવ, ઉધરસ, શરીરદુખાવો અને થાક ઉત્પન્ન કરે છે."
+  },
+  {
+    "disease_label": 15,
+    "lang": "gu",
+    "disease_name": "ન્યૂમોનિયા",
+    "aliases": [],
+    "definitions": "ન્યૂમોનિયા એ ફેફસાંનો ચેપ છે, જે બેક્ટેરિયા, વાયરસ અથવા ફૂગથી થાય છે, જેમાં એલ્વિઓલીમાં પ્રવાહી ભરાય છે અને તાવ, ઉધરસ, છાતીનો દુખાવો અને શ્વાસ લેવામાં તકલીફ થાય છે."
+  },
+  {
+    "disease_label": 16,
+    "lang": "gu",
+    "disease_name": "કબજિયાત",
+    "aliases": [],
+    "definitions": "કબજિયાત એ પાચનતંત્રની સ્થિતિ છે જેમાં શૌચ ઓછું કે મુશ્કેલ બને છે, જે ઓછું ફાઈબર, પાણીની અછત અથવા આંતરડાની ગતિ ધીમી થવાથી થાય છે."
+  },
+  {
+    "disease_label": 17,
+    "lang": "gu",
+    "disease_name": "સાઇનસાઈટિસ",
+    "aliases": [],
+    "definitions": "સાઇનસાઈટિસ એ સાઇનસ ખોખાંમાં સોજાની સ્થિતિ છે, જે સામાન્ય રીતે વાયરસ અથવા બેક્ટેરિયા ચેપથી થાય છે અને નાક બંધ થવું, ચહેરાનો દુખાવો અને માથાનો દુખાવો થાય છે."
+  },
+  {
+    "disease_label": 18,
+    "lang": "gu",
+    "disease_name": "ફૂડ પોઈઝનિંગ",
+    "aliases": [],
+    "definitions": "ફૂડ પોઈઝનિંગ એ દૂષિત ખોરાકમાં રહેલા બેક્ટેરિયા, વાયરસ અથવા ઝેરથી થતો પાચનતંત્રનો તીવ્ર રોગ છે, જેમાં ઉલ્ટી, દસ્ત, પેટદુખાવો અને તાવ થાય છે."
+  },
+  {
+    "disease_label": 19,
+    "lang": "gu",
+    "disease_name": "ફૂગ સંક્રમણ",
+    "aliases": ["માયકોસિસ"],
+    "definitions": "ફૂગ સંક્રમણ ફૂગ દ્વારા થતો રોગ છે, જે ચામડી, નખ, મ્યુકસ મેમ્બ્રેન અથવા આંતરિક અંગોને અસર કરે છે અને ખંજવાળ, ચાંદડા અથવા ગંભીર ચેપ ઉત્પન્ન કરે છે."
+  },
+  {
+    "disease_label": 20,
+    "lang": "gu",
+    "disease_name": "ફેટી લિવર",
+    "aliases": ["હેપેટિક સ્ટિયાટોસિસ"],
+    "definitions": "ફેટી લિવર એ યકૃતમાં વધારાની ચરબી જમા થવાની સ્થિતિ છે, જે મોટાપો, મધુમેહ, દારૂ અથવા ઇન્સુલિન પ્રતિકારને કારણે થાય છે અને યકૃતના કાર્યને અસર કરે છે."
+  },
+
+  {
+    "disease_label": 21,
+    "lang": "gu",
+    "disease_name": "સંધિવાત",
+    "aliases": [],
+    "definitions": "સંધિવાત એ સાંધાઓને અસર કરતો રોગ છે, જે સોજા અથવા ઓટોઇમ્યુન પ્રક્રિયા દ્વારા થાય છે અને દુખાવો, સખ્તાઈ તથા હલનચલનમાં અડચણ કરે છે."
+  },
+  {
+    "disease_label": 22,
+    "lang": "gu",
+    "disease_name": "હીટ સ્ટ્રોક",
+    "aliases": [],
+    "definitions": "હીટ સ્ટ્રોક એ ઊંચા તાપમાનમાં લાંબા સમય સુધી રહેવાને કારણે થતી ગંભીર સ્થિતિ છે, જેમાં શરીરનું તાપમાન નિયંત્રણ બગડે છે અને મગજ તથા અંગોને નુકસાન થાય છે."
+  },
+  {
+    "disease_label": 23,
+    "lang": "gu",
+    "disease_name": "હેપેટાઈટિસ બી",
+    "aliases": [],
+    "definitions": "હેપેટાઈટિસ બી એ હેપેટાઈટિસ બી વાયરસથી થતો યકૃતનો ચેપ છે, જે રક્ત અને શરીર પ્રવાહીથી ફેલાય છે અને યકૃત સોજો, પીળિયું અને સિરોસિસનું જોખમ વધારેછે."
+  },
+  {
+    "disease_label": 24,
+    "lang": "gu",
+    "disease_name": "હેપેટાઈટિસ સી",
+    "aliases": [],
+    "definitions": "હેપેટાઈટિસ સી એ રક્ત દ્વારા ફેલાતો વાયરસજન્ય યકૃત રોગ છે, જે લાંબા સમય સુધી રહે તો સિરોસિસ અને લિવર કેન્સરનું કારણ બની શકે છે."
+  },
+  {
+    "disease_label": 25,
+    "lang": "gu",
+    "disease_name": "લિવર સિરોસિસ",
+    "aliases": [],
+    "definitions": "લિવર સિરોસિસ એ યકૃતનો દીર્ઘકાળીન રોગ છે, જેમાં યકૃતનું કાયમી નુકસાન થાય છે, સામાન્ય રીતે દારૂ, વાયરસ હેપેટાઈટિસ અથવા ફેટી લિવરથી."
+  },
+  {
+    "disease_label": 26,
+    "lang": "gu",
+    "disease_name": "અલ્ઝાઈમર રોગ",
+    "aliases": ["અલ્ઝાઈમર ડિસીઝ"],
+    "definitions": "અલ્ઝાઈમર એ મગજનો ધીમે ધીમે વધતો ન્યુરોડિજનરેટિવ રોગ છે, જેમાં સ્મૃતિભ્રંશ, વિચારશક્તિમાં ઘટાડો અને વર્તનમાં ફેરફાર થાય છે."
+  },
+  {
+    "disease_label": 27,
+    "lang": "gu",
+    "disease_name": "ગેસ્ટ્રાઇટિસ",
+    "aliases": [],
+    "definitions": "ગેસ્ટ્રાઇટિસ એ પેટની અંદરની સપાટીનો સોજો છે, જે હેલિકોબેક્ટર પાયલોરી ચેપ, દારૂ અથવા દવાઓથી થાય છે અને પેટદુખાવો તથા અપચો સર્જે છે."
+  },
+  {
+    "disease_label": 28,
+    "lang": "gu",
+    "disease_name": "પેપ્ટિક અલ્સર",
+    "aliases": [],
+    "definitions": "પેપ્ટિક અલ્સર એ પેટ અથવા ડ્યુઓડેનમમાં બનેલા ઘા છે, જે હેલિકોબેક્ટર પાયલોરી અથવા પેઈનકિલર દવાઓથી થાય છે."
+  },
+  {
+    "disease_label": 29,
+    "lang": "gu",
+    "disease_name": "પાર્કિન્સન રોગ",
+    "aliases": [],
+    "definitions": "પાર્કિન્સન એ નર્વસ સિસ્ટમનો રોગ છે, જેમાં ડોપામિન ઉત્પન્ન કરતી કોષિકાઓ નાશ પામે છે અને કંપન, ધીમા હલનચલન તથા સંતુલન સમસ્યાઓ થાય છે."
+  },
+  {
+    "disease_label": 30,
+    "lang": "gu",
+    "disease_name": "સ્તન કેન્સર",
+    "aliases": [],
+    "definitions": "સ્તન કેન્સર એ સ્તનના કોષોમાં થતો ઘાતક ગાંઠરોગ છે, જે લસિકા અને અન્ય અંગોમાં ફેલાઈ શકે છે."
+  },
+  {
+    "disease_label": 31,
+    "lang": "gu",
+    "disease_name": "ગર્ભાશય ગ્રીવા કેન્સર",
+    "aliases": [],
+    "definitions": "ગર્ભાશય ગ્રીવા કેન્સર એ HPV વાયરસના લાંબા ચેપથી થતો કેન્સર છે, જે ગર્ભાશયના ગળાને અસર કરે છે."
+  },
+  {
+    "disease_label": 32,
+    "lang": "gu",
+    "disease_name": "મૂત્ર માર્ગ ચેપ",
+    "aliases": ["UTI"],
+    "definitions": "મૂત્ર માર્ગ ચેપ એ મુખ્યત્વે ઈ.કોલાઈ બેક્ટેરિયા દ્વારા થતો ચેપ છે, જે મૂત્રાશય અને કિડનીને અસર કરે છે."
+  },
+  {
+    "disease_label": 33,
+    "lang": "gu",
+    "disease_name": "લુપસ",
+    "aliases": ["સિસ્ટેમિક લુપસ એરીથમેટોસસ"],
+    "definitions": "લુપસ એ ઓટોઇમ્યુન રોગ છે જેમાં રોગપ્રતિકારક શક્તિ શરીરના પોતાના અંગો પર હુમલો કરે છે."
+  },
+  {
+    "disease_label": 34,
+    "lang": "gu",
+    "disease_name": "સ્કર્વી",
+    "aliases": [],
+    "definitions": "સ્કર્વી એ વિટામિન C ની અછતથી થતો રોગ છે, જે દાંતમાંથી રક્તસ્રાવ અને નબળાઈ કરે છે."
+  },
+  {
+    "disease_label": 35,
+    "lang": "gu",
+    "disease_name": "દાદ",
+    "aliases": ["ટિનિયા"],
+    "definitions": "દાદ એ ફૂગથી થતો ચામડીનો ચેપ છે, જેમાં ગોળાકાર ખંજવાળવાળા ચાંદડા થાય છે."
+  },
+  {
+    "disease_label": 36,
+    "lang": "gu",
+    "disease_name": "નિપાહ વાયરસ ચેપ",
+    "aliases": [],
+    "definitions": "નિપાહ વાયરસ ચેપ એ ઝૂનોટિક વાયરસજન્ય રોગ છે, જે મગજ અને શ્વસનતંત્રને અસર કરે છે અને ઊંચો મૃત્યુદર ધરાવે છે."
+  },
+  {
+    "disease_label": 37,
+    "lang": "gu",
+    "disease_name": "ઝિકા વાયરસ રોગ",
+    "aliases": [],
+    "definitions": "ઝિકા વાયરસ રોગ એ મચ્છર દ્વારા ફેલાતો ચેપ છે, જે સામાન્ય રીતે હળવો હોય છે પરંતુ ગર્ભાવસ્થામાં બાળકમાં જન્મજાત ખામીઓ ઊભી કરી શકે છે."
+  },
+  {
+    "disease_label": 38,
+    "lang": "gu",
+    "disease_name": "પીળો તાવ",
+    "aliases": [],
+    "definitions": "પીળો તાવ એ વાયરસજન્ય રોગ છે, જે મચ્છરથી ફેલાય છે અને યકૃત તથા રક્તપ્રવાહને અસર કરે છે."
+  },
+  {
+    "disease_label": 39,
+    "lang": "gu",
+    "disease_name": "પોલીસિસ્ટિક ઓવરી સિન્ડ્રોમ",
+    "aliases": ["PCOS"],
+    "definitions": "PCOS એ હોર્મોનલ વિકાર છે, જે સ્ત્રીઓના પ્રજનન તંત્રને અસર કરે છે અને અનિયમિત માસિક, હોર્મોન અસંતુલન અને સિસ્ટ ઉત્પન્ન કરે છે."
+  },
+  {
+    "disease_label": 40,
+    "lang": "gu",
+    "disease_name": "હાઈપોથાયરોઇડિઝમ",
+    "aliases": [],
+    "definitions": "હાઈપોથાયરોઇડિઝમ એ થાઈરોઇડ હોર્મોનની અછતથી થતો રોગ છે, જે ચયાપચયને ધીમો કરે છે."
+  },
+  {
+    "disease_label": 41,
+    "lang": "gu",
+    "disease_name": "હાઈપરથાયરોઇડિઝમ",
+    "aliases": [],
+    "definitions": "હાઈપરથાયરોઇડિઝમ એ થાઈરોઇડ હોર્મોન વધુ બનવાથી થતો રોગ છે, જે ચયાપચયને ઝડપથી ચલાવે છે."
+  },
+  {
+    "disease_label": 42,
+    "lang": "gu",
+    "disease_name": "સીઓપીડી",
+    "aliases": ["Chronic Obstructive Pulmonary Disease"],
+    "definitions": "COPD એ ફેફસાંનો દીર્ઘકાળીન રોગ છે, જે મુખ્યત્વે ધુમ્રપાનથી થાય છે અને શ્વાસ લેવામાં તકલીફ કરે છે."
+  },
+  {
+    "disease_label": 43,
+    "lang": "gu",
+    "disease_name": "એન્ડોમેટ્રિઓસિસ",
+    "aliases": [],
+    "definitions": "એન્ડોમેટ્રિઓસિસ એ ગર્ભાશયની અંદરની પાતળી બહાર વધવાની સ્થિતિ છે, જે પેલ્વિક દુખાવો અને વંધ્યત્વનું કારણ બની શકે છે."
+  },
+  {
+    "disease_label": 44,
+    "lang": "gu",
+    "disease_name": "મોતિયાબિંદ",
+    "aliases": [],
+    "definitions": "મોતિયાબિંદ એ આંખની લેન્સ ધૂંધળી થવાની સ્થિતિ છે, જે દ્રષ્ટિ ઘટાડે છે અને સામાન્ય રીતે વૃદ્ધાવસ્થામાં થાય છે."
+  },
+  {
+    "disease_label": 45,
+    "lang": "gu",
+    "disease_name": "એચઆઈવી/એડ્સ",
+    "aliases": [],
+    "definitions": "એચઆઈવી એ વાયરસજન્ય રોગ છે, જે રોગપ્રતિકારક સિસ્ટમને નબળી બનાવે છે અને એડ્સ તરફ દોરી જાય છે."
+  },
+  {
+    "disease_label": 46,
+    "lang": "gu",
+    "disease_name": "મોઢાનો કેન્સર",
+    "aliases": [],
+    "definitions": "મોઢાનો કેન્સર એ મોઢા અને ગળાના કોષોમાં થતો ઘાતક રોગ છે, જે સામાન્ય રીતે તમાકુ અને દારૂથી સંબંધિત છે."
+  },
+  {
+    "disease_label": 47,
+    "lang": "gu",
+    "disease_name": "પેટનો કેન્સર",
+    "aliases": ["ગેસ્ટ્રિક કેન્સર"],
+    "definitions": "પેટનો કેન્સર એ પેટની અંદરની સપાટીમાંથી થતો કેન્સર છે, જે પાચન સમસ્યાઓ અને વજન ઘટાડે છે."
+  },
+  {
+    "disease_label": 48,
+    "lang": "gu",
+    "disease_name": "યકૃતનો કેન્સર",
+    "aliases": ["હેપાટોસેલ્યુલર કાર્સિનોમા"],
+    "definitions": "યકૃતનો કેન્સર એ યકૃત કોષોમાં થતો ઘાતક રોગ છે, જે સામાન્ય રીતે સિરોસિસ અથવા હેપેટાઈટિસથી થાય છે."
+  },
+  {
+    "disease_label": 49,
+    "lang": "gu",
+    "disease_name": "ફેફસાંનો કેન્સર",
+    "aliases": [],
+    "definitions": "ફેફસાંનો કેન્સર એ ફેફસાંના કોષોમાં થતો કેન્સર છે, જે મુખ્યત્વે ધુમ્રપાનથી થાય છે."
+  },
+  {
+    "disease_label": 50,
+    "lang": "gu",
+    "disease_name": "બાવાસીર",
+    "aliases": ["હેમોરોઇડ્સ"],
+    "definitions": "બાવાસીર એ ગુદા વિસ્તારમાં સોજા આવેલા રક્તવાહિનીઓ છે, જે દુખાવો અને રક્તસ્રાવ કરે છે."
+  },
+  {
+    "disease_label": 51,
+    "lang": "gu",
+    "disease_name": "એકઝિમા",
+    "aliases": ["એટોપિક ડર્માટાઇટિસ"],
+    "definitions": "એકઝિમા એ ચામડીનો દીર્ઘકાળીન સોજાવાળો રોગ છે, જે ખંજવાળ અને લાલાશ ઉત્પન્ન કરે છે."
+  },
+  {
+    "disease_label": 52,
+    "lang": "gu",
+    "disease_name": "મુહાંસા",
+    "aliases": ["એકને"],
+    "definitions": "મુહાંસા એ ચામડીનો રોગ છે, જે તેલ ગ્રંથિઓ અને બેક્ટેરિયા કારણે થાય છે."
+  },
+  {
+    "disease_label": 53,
+    "lang": "gu",
+    "disease_name": "પીળિયો",
+    "aliases": ["જૉન્ડિસ"],
+    "definitions": "પીળિયો એ યકૃત અને રક્તમાં બિલિરૂબિન વધવાથી થતી સ્થિતિ છે, જેમાં ચામડી અને આંખો પીળા દેખાય છે."
+  },
+  {
+    "disease_label": 0,
+    "lang": "as",
+    "disease_name": "ৰক্তাল্পতা",
+    "aliases": ["এনিমিয়া"],
+    "definitions": "ৰক্তাল্পতা এটা ৰক্তজনিত ৰোগ য'ত লোহিত ৰক্তকণিকা বা হিমোগ্লোবিন কম হৈ যায়, ফলত দেহৰ টিস্যুলৈ অক্সিজেন যোগান কম হয়। ই লোহ বা ভিটামিনৰ অভাৱ, সংক্রমণ বা দীঘলীয়া ৰোগৰ বাবে হয়।"
+  },
+  {
+    "disease_label": 1,
+    "lang": "as",
+    "disease_name": "মধুমেহ",
+    "aliases": ["ডায়াবেটিছ"],
+    "definitions": "মধুমেহ এটা দীঘলীয়া বিপাকীয় ৰোগ য'ত ইনছুলিনৰ অভাৱ বা কাৰ্যক্ষমতা হ্ৰাসৰ ফলত ৰক্তত চেনিৰ পৰিমাণ বৃদ্ধি পায় আৰু হৃদয়, বৃক্ক, স্নায়ু আৰু চকুত ক্ষতি কৰে।"
+  },
+  {
+    "disease_label": 2,
+    "lang": "as",
+    "disease_name": "উচ্চ ৰক্তচাপ",
+    "aliases": ["হাই ব্লাড প্ৰেছাৰ"],
+    "definitions": "উচ্চ ৰক্তচাপ এটা হৃদ-ৰক্তনালীজনিত অৱস্থা য'ত ধমনীৰ ভিতৰত ৰক্তচাপ দীঘলীয়া সময়লৈ অধিক থাকে, যাৰ ফলত হৃদৰোগ, ষ্ট্ৰোক আৰু বৃক্ক ক্ষতিৰ আশংকা বৃদ্ধি পায়।"
+  },
+  {
+    "disease_label": 3,
+    "lang": "as",
+    "disease_name": "ক্ষয় ৰোগ",
+    "aliases": ["টিবি"],
+    "definitions": "ক্ষয় ৰোগ মাইকোব্যাক্টেৰিয়াম টিউবাৰকিউলোছিছ নামৰ বেক্টেৰিয়াৰ দ্বাৰা হোৱা সংক্রামক ৰোগ, যিয়ে মূলত ফুসফুস আক্ৰান্ত কৰে আৰু দীঘলীয়া কাহ, জ্বৰ আৰু ওজন হ্ৰাস ঘটায়।"
+  },
+  {
+    "disease_label": 4,
+    "lang": "as",
+    "disease_name": "চিকুনগুনিয়া",
+    "aliases": [],
+    "definitions": "চিকুনগুনিয়া এটা ভাইৰাছজনিত ৰোগ যি এডিছ মহৰ দ্বাৰা বিস্তাৰ হয় আৰু জ্বৰ, তীব্ৰ গাঁঠিৰ বিষ আৰু ক্লান্তি সৃষ্টি কৰে।"
+  },
+  {
+    "disease_label": 5,
+    "lang": "as",
+    "disease_name": "ডেংগু",
+    "aliases": ["ব্ৰেকবোন জ্বৰ"],
+    "definitions": "ডেংগু এডিছ মহৰ দ্বাৰা বিস্তাৰ হোৱা ভাইৰাছজনিত ৰোগ যিয়ে ৰক্ত আৰু প্ৰতিৰোধ ব্যৱস্থাক প্ৰভাৱিত কৰে আৰু তীব্ৰ জ্বৰ, শৰীৰৰ বিষ আৰু কেতিয়াবা ৰক্তক্ষৰণ ঘটায়।"
+  },
+  {
+    "disease_label": 6,
+    "lang": "as",
+    "disease_name": "টাইফয়েড",
+    "aliases": ["টাইফয়েড জ্বৰ"],
+    "definitions": "টাইফয়েড ছালমোনেলা টাইফি নামৰ বেক্টেৰিয়াৰ দ্বাৰা হোৱা ৰোগ, যি দূষিত খাদ্য বা পানীৰে বিস্তাৰ হয় আৰু দীঘলীয়া জ্বৰ, পেটৰ বিষ আৰু দুৰ্বলতা সৃষ্টি কৰে।"
+  },
+  {
+    "disease_label": 7,
+    "lang": "as",
+    "disease_name": "ডায়েৰিয়া",
+    "aliases": ["পাতল পায়খানা"],
+    "definitions": "ডায়েৰিয়া এটা পেটজনিত অৱস্থা য'ত বেক্টেৰিয়া, ভাইৰাছ বা পৰজীৱীৰ সংক্রমণৰ ফলত ঘন ঘন পাতল পায়খানা আৰু পানীশূন্যতা হয়।"
+  },
+  {
+    "disease_label": 8,
+    "lang": "as",
+    "disease_name": "পুষ্টিহীনতা",
+    "aliases": [],
+    "definitions": "পুষ্টিহীনতা দেহত প্ৰয়োজনীয় পুষ্টি উপাদানৰ অভাৱৰ ফলত হোৱা অৱস্থা, যিয়ে বৃদ্ধি, ৰোগ প্ৰতিৰোধ ক্ষমতা আৰু শক্তি হ্ৰাস কৰে।"
+  },
+  {
+    "disease_label": 9,
+    "lang": "as",
+    "disease_name": "কলেৰা",
+    "aliases": [],
+    "definitions": "কলেৰা ভিব্ৰিঅ' কলেৰা বেক্টেৰিয়াৰ দ্বাৰা হোৱা তীব্ৰ অন্ত্ৰজনিত সংক্রমণ, যি দূষিত পানীৰে বিস্তাৰ হয় আৰু তীব্ৰ পানীযুক্ত ডায়েৰিয়া সৃষ্টি কৰে।"
+  },
+  {
+    "disease_label": 10,
+    "lang": "as",
+    "disease_name": "পানীশূন্যতা",
+    "aliases": ["ডিহাইড্ৰেশ্বন"],
+    "definitions": "পানীশূন্যতা দেহত প্ৰয়োজনীয় পানীৰ অভাৱৰ ফলত হোৱা অৱস্থা, যিয়ে চক্কৰ, মুখ শুকান আৰু অঙ্গসমূহৰ কাৰ্যক্ষমতা হ্ৰাস কৰে।"
+  },
+  {
+    "disease_label": 11,
+    "lang": "as",
+    "disease_name": "বয়সজনিত মেকুলাৰ ডিজেনাৰেচন",
+    "aliases": ["AMD"],
+    "definitions": "এইটো চকুৰ ৰেটিনাৰ মেকুলা অংশ আক্ৰান্ত কৰা ৰোগ, যিয়ে বয়স বৃদ্ধিৰ লগে লগে মধ্য দৃষ্টিশক্তি হ্ৰাস কৰে।"
+  },
+  {
+    "disease_label": 12,
+    "lang": "as",
+    "disease_name": "কনজাংটিভাইটিছ",
+    "aliases": ["পিংক আই"],
+    "definitions": "কনজাংটিভাইটিছ ভাইৰাছ, বেক্টেৰিয়া বা এলাৰ্জিৰ বাবে হোৱা চকুৰ সংক্রমণ, য'ত চকু ৰঙা, পানী ওলোৱা আৰু জ্বলা-পোৰা হয়।"
+  },
+  {
+    "disease_label": 13,
+    "lang": "as",
+    "disease_name": "হাঁপানি",
+    "aliases": ["এস্থমা"],
+    "definitions": "হাঁপানি এটা দীঘলীয়া শ্বাস-প্ৰশ্বাসজনিত ৰোগ য'ত শ্বাসনলীৰ সোজা আৰু সংকোচন হয়, ফলত শ্বাস লোৱাত অসুবিধা হয়।"
+  },
+  {
+    "disease_label": 14,
+    "lang": "as",
+    "disease_name": "ইনফ্লুৱেঞ্জা",
+    "aliases": ["ফ্লু"],
+    "definitions": "ইনফ্লুৱেঞ্জা এটা ভাইৰাছজনিত শ্বাসনালী ৰোগ যিয়ে নাক, গলা আৰু ফুসফুস আক্ৰান্ত কৰে আৰু জ্বৰ, কাহ আৰু শৰীৰৰ বিষ সৃষ্টি কৰে।"
+  },
+  {
+    "disease_label": 15,
+    "lang": "as",
+    "disease_name": "নিউমোনিয়া",
+    "aliases": [],
+    "definitions": "নিউমোনিয়া বেক্টেৰিয়া, ভাইৰাছ বা ফাংগাছৰ দ্বাৰা হোৱা ফুসফুসৰ সংক্রমণ য'ত শ্বাস লোৱাত কষ্ট, জ্বৰ আৰু বুকুৰ বিষ হয়।"
+  },
+
+  {
+    "disease_label": 16,
+    "lang": "as",
+    "disease_name": "কোষ্ঠকাঠিন্য",
+    "aliases": ["কনষ্টিপেশ্বন"],
+    "definitions": "কোষ্ঠকাঠিন্য এটা পাচনতন্ত্ৰৰ অৱস্থা য'ত পায়খানা কঠিন হয় বা কম হয়, সাধাৰণতে পানী বা আঁহৰ অভাৱৰ বাবে।"
+  },
+  {
+    "disease_label": 17,
+    "lang": "as",
+    "disease_name": "ছাইনাছাইটিছ",
+    "aliases": [],
+    "definitions": "ছাইনাছাইটিছ নাকৰ ওপৰৰ ছাইনাছ গহ্বৰসমূহত হোৱা সোজা, সাধাৰণতে ভাইৰাছ বা বেক্টেৰিয়াৰ সংক্রমণৰ ফলত।"
+  },
+  {
+    "disease_label": 18,
+    "lang": "as",
+    "disease_name": "খাদ্য বিষক্ৰিয়া",
+    "aliases": ["ফুড পয়জনিং"],
+    "definitions": "খাদ্য বিষক্ৰিয়া দূষিত খাদ্যত থকা বেক্টেৰিয়া বা বিষাক্ত পদাৰ্থৰ বাবে হোৱা ৰোগ য'ত বমি, ডায়েৰিয়া আৰু পেটৰ বিষ হয়।"
+  },
+  {
+    "disease_label": 19,
+    "lang": "as",
+    "disease_name": "ফাংগাছ সংক্রমণ",
+    "aliases": ["মাইক'ছিছ"],
+    "definitions": "ফাংগাছ সংক্রমণ ছাল, নখ বা ভিতৰুৱা অঙ্গত হোৱা ফাংগাছজনিত ৰোগ য'ত খুজলি, ৰঙা দাগ বা সংক্রমণ হয়।"
+  },
+  {
+    "disease_label": 20,
+    "lang": "as",
+    "disease_name": "ফেটি লিভাৰ",
+    "aliases": ["হেপাটিক ষ্টিয়াট'ছিছ"],
+    "definitions": "ফেটি লিভাৰ যকৃতত অধিক চৰ্বি জমা হোৱাৰ ফলত হোৱা অৱস্থা, যি মধুমেহ, মেদবহুলতা বা মদ্যপানৰ সৈতে সম্পৰ্কিত।"
+  },
+
+  {
+    "disease_label": 21,
+    "lang": "as",
+    "disease_name": "আৰ্থ্ৰাইটিছ",
+    "aliases": ["সন্ধি ৰোগ"],
+    "definitions": "আৰ্থ্ৰাইটিছ সন্ধিসমূহত হোৱা সোজা আৰু বিষৰ ৰোগ, যিয়ে চলাচল সীমিত কৰে।"
+  },
+  {
+    "disease_label": 22,
+    "lang": "as",
+    "disease_name": "তাপ আঘাত",
+    "aliases": ["হিট ষ্ট্ৰোক"],
+    "definitions": "তাপ আঘাত অধিক তাপত দীঘলীয়া সময় থাকিলে হোৱা বিপজ্জনক অৱস্থা য'ত দেহৰ তাপ নিয়ন্ত্ৰণ ব্যৱস্থা বিকল হয়।"
+  },
+  {
+    "disease_label": 23,
+    "lang": "as",
+    "disease_name": "হেপাটাইটিছ বি",
+    "aliases": [],
+    "definitions": "হেপাটাইটিছ বি এটা ভাইৰাছজনিত যকৃত ৰোগ যি ৰক্ত আৰু দেহৰ দ্ৰৱৰ জৰিয়তে বিস্তাৰ হয় আৰু যকৃতৰ সোজা সৃষ্টি কৰে।"
+  },
+  {
+    "disease_label": 24,
+    "lang": "as",
+    "disease_name": "হেপাটাইটিছ চি",
+    "aliases": [],
+    "definitions": "হেপাটাইটিছ চি এটা ৰক্তজনিত ভাইৰাছ ৰোগ যিয়ে যকৃত দীঘলীয়া সময়লৈ ক্ষতি কৰে আৰু কেতিয়াবা যকৃত কেঞ্চাৰলৈ ৰূপান্তৰিত হয়।"
+  },
+  {
+    "disease_label": 25,
+    "lang": "as",
+    "disease_name": "লিভাৰ চিৰ'ছিছ",
+    "aliases": [],
+    "definitions": "লিভাৰ চিৰ'ছিছ যকৃতৰ দীঘলীয়া ক্ষতিৰ ফলত হোৱা অৱস্থা য'ত স্বাভাৱিক কোষবোৰ দাগযুক্ত টিস্যুত পৰিণত হয়।"
+  },
+  {
+    "disease_label": 26,
+    "lang": "as",
+    "disease_name": "আলঝাইমাৰ ৰোগ",
+    "aliases": [],
+    "definitions": "আলঝাইমাৰ মগজুৰ এটা স্নায়বিক ৰোগ য'ত স্মৃতি শক্তি আৰু চিন্তাশক্তি ধীৰে ধীৰে হ্ৰাস পায়।"
+  },
+  {
+    "disease_label": 27,
+    "lang": "as",
+    "disease_name": "গেষ্ট্ৰাইটিছ",
+    "aliases": [],
+    "definitions": "গেষ্ট্ৰাইটিছ পাকস্থলীৰ ভিতৰৰ আৱৰণত হোৱা সোজা, সাধাৰণতে হেলিকোবেক্টাৰ পাইল'ৰি বেক্টেৰিয়াৰ বাবে।"
+  },
+  {
+    "disease_label": 28,
+    "lang": "as",
+    "disease_name": "পেপ্টিক আলচাৰ",
+    "aliases": [],
+    "definitions": "পেপ্টিক আলচাৰ পাকস্থলী বা ডুৱ'ডেনামত হোৱা ঘাঁ, যি বেক্টেৰিয়া বা বেদনানাশক ঔষধৰ বাবে হয়।"
+  },
+  {
+    "disease_label": 29,
+    "lang": "as",
+    "disease_name": "পাৰ্কিনছন ৰোগ",
+    "aliases": [],
+    "definitions": "পাৰ্কিনছন এটা স্নায়বিক ৰোগ য'ত দেহৰ গতি ধীৰ হয়, কঁপনি আৰু ভাৰসাম্য সমস্যাৰ সৃষ্টি হয়।"
+  },
+  {
+    "disease_label": 30,
+    "lang": "as",
+    "disease_name": "স্তন কেঞ্চাৰ",
+    "aliases": [],
+    "definitions": "স্তন কেঞ্চাৰ স্তনৰ কোষত হোৱা কেঞ্চাৰ যি আন অঙ্গলৈ বিস্তাৰিত হব পাৰে।"
+  },
+  {
+    "disease_label": 31,
+    "lang": "as",
+    "disease_name": "জৰায়ুৰ গ্ৰীৱা কেঞ্চাৰ",
+    "aliases": ["ছাৰ্ভাইকেল কেঞ্চাৰ"],
+    "definitions": "এইটো HPV ভাইৰাছৰ দীঘলীয়া সংক্রমণৰ ফলত হোৱা কেঞ্চাৰ যিয়ে জৰায়ুৰ গ্ৰীৱা অংশ আক্ৰান্ত কৰে।"
+  },
+  {
+    "disease_label": 32,
+    "lang": "as",
+    "disease_name": "মূত্ৰনালী সংক্রমণ",
+    "aliases": ["UTI"],
+    "definitions": "মূত্ৰনালী সংক্রমণ সাধাৰণতে ই-ক'লাই বেক্টেৰিয়াৰ বাবে হয় আৰু মূত্ৰাশয় আৰু বৃক্ক আক্ৰান্ত কৰে।"
+  },
+  {
+    "disease_label": 33,
+    "lang": "as",
+    "disease_name": "লুপাছ",
+    "aliases": ["SLE"],
+    "definitions": "লুপাছ এটা অটোইমিউন ৰোগ য'ত দেহৰ প্ৰতিৰোধ ব্যৱস্থাই নিজৰ অঙ্গসমূহক আক্ৰমণ কৰে।"
+  },
+  {
+    "disease_label": 34,
+    "lang": "as",
+    "disease_name": "স্কাৰ্ভি",
+    "aliases": [],
+    "definitions": "স্কাৰ্ভি ভিটামিন চিৰ অভাৱৰ ফলত হোৱা ৰোগ য'ত দাঁতৰ ৰক্তক্ষৰণ আৰু দুৰ্বলতা দেখা যায়।"
+  },
+  {
+    "disease_label": 35,
+    "lang": "as",
+    "disease_name": "দাদ",
+    "aliases": ["ৰিংৱৰ্ম"],
+    "definitions": "দাদ এটা ফাংগাছজনিত ছাল ৰোগ য'ত গ'লাকাৰ খুজলিযুক্ত দাগ দেখা যায়।"
+  },
+  {
+    "disease_label": 36,
+    "lang": "as",
+    "disease_name": "নিপাহ ভাইৰাছ সংক্রমণ",
+    "aliases": [],
+    "definitions": "নিপাহ ভাইৰাছ এটা গুৰুতৰ ভাইৰাছজনিত ৰোগ যিয়ে মগজু আৰু শ্বাসতন্ত্ৰ আক্ৰান্ত কৰে আৰু মৃত্যুহাৰ অধিক।"
+  },
+  {
+    "disease_label": 37,
+    "lang": "as",
+    "disease_name": "জিকা ভাইৰাছ ৰোগ",
+    "aliases": [],
+    "definitions": "জিকা ভাইৰাছ মহৰ দ্বাৰা বিস্তাৰ হোৱা ৰোগ, যি সাধাৰণতে মৃদু যদিও গৰ্ভৱতী মহিলাৰ ক্ষেত্ৰত শিশুৰ জন্মগত সমস্যাৰ সৃষ্টি কৰিব পাৰে।"
+  },
+  {
+    "disease_label": 38,
+    "lang": "as",
+    "disease_name": "পীত জ্বৰ",
+    "aliases": ["ইয়েল' ফিভাৰ"],
+    "definitions": "পীত জ্বৰ এটা ভাইৰাছজনিত ৰোগ যি মহৰ দ্বাৰা বিস্তাৰ হয় আৰু যকৃত আৰু ৰক্তসংবহন ব্যৱস্থাক ক্ষতি কৰে।"
+  },
+  {
+    "disease_label": 39,
+    "lang": "as",
+    "disease_name": "পলিচিষ্টিক অ’ভাৰী চিণ্ড্ৰোম",
+    "aliases": ["PCOS"],
+    "definitions": "PCOS এটা হৰম'নজনিত ৰোগ যিয়ে মহিলাৰ প্ৰজনন ব্যৱস্থাক আক্ৰান্ত কৰে আৰু অনিয়মিত মাহেকীয়া সৃষ্টি কৰে।"
+  },
+  {
+    "disease_label": 40,
+    "lang": "as",
+    "disease_name": "হাইপ'থাইৰয়ডিজম",
+    "aliases": [],
+    "definitions": "হাইপ'থাইৰয়ডিজম থাইৰয়ড হৰম'নৰ অভাৱৰ ফলত হোৱা ৰোগ যিয়ে বিপাকীয় গতি ধীৰ কৰে।"
+  },
+  {
+    "disease_label": 41,
+    "lang": "as",
+    "disease_name": "হাইপাৰথাইৰয়ডিজম",
+    "aliases": [],
+    "definitions": "হাইপাৰথাইৰয়ডিজম থাইৰয়ড হৰম'ন অধিক উৎপন্ন হোৱাৰ ফলত হোৱা ৰোগ যিয়ে বিপাকীয় গতি বৃদ্ধি কৰে।"
+  },
+  {
+    "disease_label": 42,
+    "lang": "as",
+    "disease_name": "চিওপিডি",
+    "aliases": ["Chronic Obstructive Pulmonary Disease"],
+    "definitions": "চিওপিডি ফুসফুসৰ দীঘলীয়া ৰোগ যি সাধাৰণতে ধূমপানৰ ফলত হয় আৰু শ্বাস লোৱাত অসুবিধা কৰে।"
+  },
+  {
+    "disease_label": 43,
+    "lang": "as",
+    "disease_name": "এণ্ডোমেট্ৰিঅ'ছিছ",
+    "aliases": [],
+    "definitions": "এণ্ডোমেট্ৰিঅ'ছিছ জৰায়ুৰ ভিতৰৰ টিস্যু বাহিৰত বৃদ্ধি পোৱা অৱস্থা যিয়ে তলপেটৰ বিষ আৰু বন্ধ্যাত্বৰ সৃষ্টি কৰিব পাৰে।"
+  },
+  {
+    "disease_label": 44,
+    "lang": "as",
+    "disease_name": "চানি",
+    "aliases": ["কেটাৰেক্ট"],
+    "definitions": "চানি চকুৰ লেন্স ধোঁৱা ধোঁৱা হৈ যোৱাৰ অৱস্থা যিয়ে দৃষ্টিশক্তি হ্ৰাস কৰে।"
+  },
+  {
+    "disease_label": 45,
+    "lang": "as",
+    "disease_name": "এইচআইভি/এইডছ",
+    "aliases": [],
+    "definitions": "এইচআইভি এটা ভাইৰাছ যিয়ে দেহৰ প্ৰতিৰোধ ব্যৱস্থা ধ্বংস কৰে আৰু এইডছ অৱস্থালৈ লৈ যায়।"
+  },
+  {
+    "disease_label": 46,
+    "lang": "as",
+    "disease_name": "মুখৰ কেঞ্চাৰ",
+    "aliases": [],
+    "definitions": "মুখৰ কেঞ্চাৰ মুখ আৰু গলাৰ কোষত হোৱা কেঞ্চাৰ যি সাধাৰণতে তামাক আৰু মদ্যপানৰ সৈতে সম্পৰ্কিত।"
+  },
+  {
+    "disease_label": 47,
+    "lang": "as",
+    "disease_name": "পাকস্থলীৰ কেঞ্চাৰ",
+    "aliases": ["গেষ্ট্ৰিক কেঞ্চাৰ"],
+    "definitions": "পাকস্থলীৰ কেঞ্চাৰ পাকস্থলীৰ ভিতৰৰ আৱৰণত হোৱা কেঞ্চাৰ যিয়ে পাচন সমস্যা আৰু ওজন হ্ৰাস কৰে।"
+  },
+  {
+    "disease_label": 48,
+    "lang": "as",
+    "disease_name": "যকৃত কেঞ্চাৰ",
+    "aliases": [],
+    "definitions": "যকৃত কেঞ্চাৰ যকৃতৰ কোষত হোৱা কেঞ্চাৰ, সাধাৰণতে চিৰ'ছিছ বা হেপাটাইটিছৰ পিছত দেখা যায়।"
+  },
+  {
+    "disease_label": 49,
+    "lang": "as",
+    "disease_name": "ফুসফুস কেঞ্চাৰ",
+    "aliases": [],
+    "definitions": "ফুসফুস কেঞ্চাৰ ফুসফুসৰ কোষত হোৱা কেঞ্চাৰ যি প্ৰধানকৈ ধূমপানৰ ফলত হয়।"
+  },
+  {
+    "disease_label": 50,
+    "lang": "as",
+    "disease_name": "বৱাচিৰ",
+    "aliases": ["হেম'ৰয়েডছ"],
+    "definitions": "বৱাচিৰ মলদ্বাৰৰ আশে-পাশে ফুলা ৰক্তনালীৰ অৱস্থা যিয়ে বিষ আৰু ৰক্তক্ষৰণ কৰে।"
+  },
+  {
+    "disease_label": 51,
+    "lang": "as",
+    "disease_name": "একজিমা",
+    "aliases": [],
+    "definitions": "একজিমা এটা দীঘলীয়া ছালৰ ৰোগ য'ত খুজলি, ৰঙা দাগ আৰু ছাল শুষ্ক হয়।"
+  },
+  {
+    "disease_label": 52,
+    "lang": "as",
+    "disease_name": "ব্ৰণ",
+    "aliases": ["একনে"],
+    "definitions": "ব্ৰণ ছালৰ তেল গ্ৰন্থি আৰু বেক্টেৰিয়াৰ বাবে হোৱা ৰোগ য'ত মুখত দানা উঠে।"
+  },
+  {
+    "disease_label": 53,
+    "lang": "as",
+    "disease_name": "পীতিয়া",
+    "aliases": ["জণ্ডিচ"],
+    "definitions": "পীতিয়া যকৃতৰ সমস্যা বা ৰক্তত বিলিৰুবিন বৃদ্ধি পোৱাৰ ফলত হোৱা অৱস্থা য'ত চকু আৰু ছাল হালধীয়া দেখা যায়।"
+  },
+  {
+    "disease_label": 0,
+    "lang": "bn",
+    "disease_name": "রক্তাল্পতা",
+    "aliases": ["অ্যানিমিয়া"],
+    "definitions": "রক্তাল্পতা একটি রক্তজনিত রোগ যেখানে লোহিত রক্তকণিকা বা হিমোগ্লোবিনের পরিমাণ কমে যায়, ফলে শরীরের টিস্যুতে অক্সিজেন সরবরাহ হ্রাস পায়। এটি পুষ্টির অভাব, সংক্রমণ বা দীর্ঘস্থায়ী রোগের কারণে হতে পারে।"
+  },
+  {
+    "disease_label": 1,
+    "lang": "bn",
+    "disease_name": "ডায়াবেটিস",
+    "aliases": ["ডায়াবেটিস মেলিটাস"],
+    "definitions": "ডায়াবেটিস একটি বিপাকীয় রোগ যেখানে ইনসুলিনের অভাব বা কার্যকারিতা কমে যাওয়ার ফলে রক্তে গ্লুকোজের মাত্রা বেড়ে যায় এবং হৃদয়, কিডনি, চোখ ও স্নায়ু ক্ষতিগ্রস্ত হয়।"
+  },
+  {
+    "disease_label": 2,
+    "lang": "bn",
+    "disease_name": "উচ্চ রক্তচাপ",
+    "aliases": ["হাই ব্লাড প্রেসার"],
+    "definitions": "উচ্চ রক্তচাপ একটি হৃদ্‌রোগজনিত অবস্থা যেখানে ধমনীর ভেতরে রক্তচাপ দীর্ঘ সময় ধরে বেশি থাকে, যা হৃদরোগ, স্ট্রোক ও কিডনি ক্ষতির ঝুঁকি বাড়ায়।"
+  },
+  {
+    "disease_label": 3,
+    "lang": "bn",
+    "disease_name": "যক্ষ্মা",
+    "aliases": ["টিবি"],
+    "definitions": "যক্ষ্মা একটি ব্যাকটেরিয়াজনিত সংক্রামক রোগ যা মাইকোব্যাকটেরিয়াম টিউবারকিউলোসিস দ্বারা সৃষ্ট এবং প্রধানত ফুসফুসে আক্রমণ করে, কাশি, জ্বর ও ওজন হ্রাস ঘটায়।"
+  },
+  {
+    "disease_label": 4,
+    "lang": "bn",
+    "disease_name": "চিকুনগুনিয়া",
+    "aliases": [],
+    "definitions": "চিকুনগুনিয়া একটি ভাইরাসজনিত রোগ যা এডিস মশার মাধ্যমে ছড়ায় এবং জ্বর, তীব্র জয়েন্টের ব্যথা ও দুর্বলতা সৃষ্টি করে।"
+  },
+  {
+    "disease_label": 5,
+    "lang": "bn",
+    "disease_name": "ডেঙ্গু",
+    "aliases": ["ব্রেকবোন জ্বর"],
+    "definitions": "ডেঙ্গু একটি মশাবাহিত ভাইরাসজনিত রোগ যা রক্ত ও রোগপ্রতিরোধ ব্যবস্থাকে প্রভাবিত করে এবং উচ্চ জ্বর, শরীর ব্যথা ও রক্তক্ষরণের ঝুঁকি তৈরি করে।"
+  },
+  {
+    "disease_label": 6,
+    "lang": "bn",
+    "disease_name": "টাইফয়েড",
+    "aliases": ["টাইফয়েড জ্বর"],
+    "definitions": "টাইফয়েড সালমোনেলা টাইফি ব্যাকটেরিয়া দ্বারা সৃষ্ট একটি রোগ যা দূষিত খাবার বা পানির মাধ্যমে ছড়ায় এবং দীর্ঘস্থায়ী জ্বর ও পেটের সমস্যা সৃষ্টি করে।"
+  },
+  {
+    "disease_label": 7,
+    "lang": "bn",
+    "disease_name": "ডায়রিয়া",
+    "aliases": ["অতিসার"],
+    "definitions": "ডায়রিয়া একটি পরিপাকতন্ত্রজনিত অবস্থা যেখানে ব্যাকটেরিয়া, ভাইরাস বা পরজীবীর সংক্রমণে ঘন ঘন পাতলা পায়খানা ও পানিশূন্যতা দেখা যায়।"
+  },
+  {
+    "disease_label": 8,
+    "lang": "bn",
+    "disease_name": "অপুষ্টি",
+    "aliases": [],
+    "definitions": "অপুষ্টি শরীরে প্রয়োজনীয় পুষ্টি উপাদানের অভাবে সৃষ্ট একটি অবস্থা যা বৃদ্ধি, রোগপ্রতিরোধ ক্ষমতা ও শক্তি হ্রাস করে।"
+  },
+  {
+    "disease_label": 9,
+    "lang": "bn",
+    "disease_name": "কলেরা",
+    "aliases": [],
+    "definitions": "কলেরা ভিব্রিও কলেরি ব্যাকটেরিয়া দ্বারা সৃষ্ট একটি তীব্র অন্ত্রজনিত সংক্রমণ যা দূষিত পানির মাধ্যমে ছড়ায় এবং মারাত্মক পানিশূন্যতা ঘটায়।"
+  },
+  {
+    "disease_label": 10,
+    "lang": "bn",
+    "disease_name": "পানিশূন্যতা",
+    "aliases": ["ডিহাইড্রেশন"],
+    "definitions": "পানিশূন্যতা শরীরে তরলের ঘাটতির কারণে সৃষ্ট একটি অবস্থা যা মাথা ঘোরা, মুখ শুকানো ও অঙ্গের কার্যকারিতা কমিয়ে দেয়।"
+  },
+  {
+    "disease_label": 11,
+    "lang": "bn",
+    "disease_name": "বয়সজনিত ম্যাকুলার ডিজেনারেশন",
+    "aliases": ["AMD"],
+    "definitions": "এটি একটি চোখের রোগ যা রেটিনার ম্যাকুলা অংশকে প্রভাবিত করে এবং বয়স্কদের মধ্যে ধীরে ধীরে কেন্দ্রীয় দৃষ্টিশক্তি হ্রাস করে।"
+  },
+  {
+    "disease_label": 12,
+    "lang": "bn",
+    "disease_name": "কনজাংকটিভাইটিস",
+    "aliases": ["পিঙ্ক আই"],
+    "definitions": "কনজাংকটিভাইটিস চোখের কনজাংকটিভা ঝিল্লির সংক্রমণ বা প্রদাহ যা ভাইরাস, ব্যাকটেরিয়া বা অ্যালার্জির কারণে হয়।"
+  },
+  {
+    "disease_label": 13,
+    "lang": "bn",
+    "disease_name": "হাঁপানি",
+    "aliases": ["অ্যাজমা"],
+    "definitions": "হাঁপানি একটি দীর্ঘস্থায়ী শ্বাসতন্ত্রের রোগ যেখানে শ্বাসনালী সংকুচিত হয়ে শ্বাসকষ্ট, কাশি ও বুক ধরা অনুভূতি সৃষ্টি করে।"
+  },
+  {
+    "disease_label": 14,
+    "lang": "bn",
+    "disease_name": "ইনফ্লুয়েঞ্জা",
+    "aliases": ["ফ্লু"],
+    "definitions": "ইনফ্লুয়েঞ্জা একটি ভাইরাসজনিত শ্বাসতন্ত্রের রোগ যা নাক, গলা ও ফুসফুসে সংক্রমণ ঘটিয়ে জ্বর ও শরীর ব্যথা সৃষ্টি করে।"
+  },
+  {
+    "disease_label": 15,
+    "lang": "bn",
+    "disease_name": "নিউমোনিয়া",
+    "aliases": [],
+    "definitions": "নিউমোনিয়া ব্যাকটেরিয়া, ভাইরাস বা ছত্রাক দ্বারা সৃষ্ট ফুসফুসের সংক্রমণ যা শ্বাসকষ্ট ও অক্সিজেনের ঘাটতি ঘটায়।"
+  },
+  {
+    "disease_label": 16,
+    "lang": "bn",
+    "disease_name": "কোষ্ঠকাঠিন্য",
+    "aliases": ["কনস্টিপেশন"],
+    "definitions": "কোষ্ঠকাঠিন্য একটি পরিপাকজনিত সমস্যা যেখানে মলত্যাগ কঠিন বা কম হয়, সাধারণত আঁশ ও পানির অভাবে।"
+  },
+  {
+    "disease_label": 17,
+    "lang": "bn",
+    "disease_name": "সাইনোসাইটিস",
+    "aliases": [],
+    "definitions": "সাইনোসাইটিস নাকের পাশের সাইনাস গহ্বরে প্রদাহ বা সংক্রমণ, যা সাধারণত ভাইরাস বা ব্যাকটেরিয়ার কারণে হয়।"
+  },
+  {
+    "disease_label": 18,
+    "lang": "bn",
+    "disease_name": "খাদ্যে বিষক্রিয়া",
+    "aliases": ["ফুড পয়জনিং"],
+    "definitions": "খাদ্যে বিষক্রিয়া দূষিত খাদ্যে থাকা জীবাণু বা বিষাক্ত পদার্থের কারণে সৃষ্ট অসুস্থতা যা বমি ও ডায়রিয়া ঘটায়।"
+  },
+  {
+    "disease_label": 19,
+    "lang": "bn",
+    "disease_name": "ছত্রাক সংক্রমণ",
+    "aliases": ["মাইকোসিস"],
+    "definitions": "ছত্রাক সংক্রমণ ত্বক, নখ বা অভ্যন্তরীণ অঙ্গে ছত্রাক দ্বারা সৃষ্ট রোগ যা চুলকানি ও দাগ সৃষ্টি করে।"
+  },
+  {
+    "disease_label": 20,
+    "lang": "bn",
+    "disease_name": "ফ্যাটি লিভার",
+    "aliases": ["হেপাটিক স্টিয়াটোসিস"],
+    "definitions": "ফ্যাটি লিভার যকৃতে অতিরিক্ত চর্বি জমে যাওয়ার ফলে সৃষ্ট রোগ যা ডায়াবেটিস ও স্থূলতার সঙ্গে সম্পর্কিত।"
+  },
+  {
+    "disease_label": 21,
+    "lang": "bn",
+    "disease_name": "আর্থ্রাইটিস",
+    "aliases": [],
+    "definitions": "আর্থ্রাইটিস জয়েন্টের প্রদাহজনিত রোগ যা ব্যথা, ফোলা ও চলাচলে অসুবিধা সৃষ্টি করে।"
+  },
+  {
+    "disease_label": 22,
+    "lang": "bn",
+    "disease_name": "হিট স্ট্রোক",
+    "aliases": ["তাপঘাত"],
+    "definitions": "হিট স্ট্রোক অতিরিক্ত তাপের কারণে সৃষ্ট একটি গুরুতর অবস্থা যা স্নায়ুতন্ত্র ও অঙ্গপ্রত্যঙ্গের ক্ষতি করতে পারে।"
+  },
+  {
+    "disease_label": 23,
+    "lang": "bn",
+    "disease_name": "হেপাটাইটিস বি",
+    "aliases": [],
+    "definitions": "হেপাটাইটিস বি একটি ভাইরাসজনিত যকৃতের রোগ যা রক্ত ও শরীরের তরলের মাধ্যমে ছড়ায় এবং যকৃতের প্রদাহ সৃষ্টি করে।"
+  },
+  {
+    "disease_label": 24,
+    "lang": "bn",
+    "disease_name": "হেপাটাইটিস সি",
+    "aliases": [],
+    "definitions": "হেপাটাইটিস সি একটি রক্তবাহিত ভাইরাস সংক্রমণ যা যকৃতকে দীর্ঘমেয়াদে ক্ষতিগ্রস্ত করে।"
+  },
+  {
+    "disease_label": 25,
+    "lang": "bn",
+    "disease_name": "লিভার সিরোসিস",
+    "aliases": [],
+    "definitions": "লিভার সিরোসিস দীর্ঘদিনের যকৃত ক্ষতির ফলে সৃষ্ট অবস্থা যেখানে স্বাভাবিক টিস্যু দাগযুক্ত টিস্যুতে পরিণত হয়।"
+  },
+  {
+    "disease_label": 26,
+    "lang": "bn",
+    "disease_name": "আলঝাইমার রোগ",
+    "aliases": [],
+    "definitions": "আলঝাইমার একটি স্নায়ুবিক রোগ যা স্মৃতিভ্রংশ ও চিন্তাশক্তি ধীরে ধীরে কমিয়ে দেয়।"
+  },
+  {
+    "disease_label": 27,
+    "lang": "bn",
+    "disease_name": "গ্যাস্ট্রাইটিস",
+    "aliases": [],
+    "definitions": "গ্যাস্ট্রাইটিস পাকস্থলীর আবরণের প্রদাহ যা সাধারণত হেলিকোব্যাক্টার পাইলোরি সংক্রমণের কারণে হয়।"
+  },
+  {
+    "disease_label": 28,
+    "lang": "bn",
+    "disease_name": "পেপটিক আলসার",
+    "aliases": [],
+    "definitions": "পেপটিক আলসার পাকস্থলী বা ডুওডেনামে সৃষ্ট ক্ষত যা ব্যাকটেরিয়া বা ব্যথানাশক ওষুধের কারণে হয়।"
+  },
+  {
+    "disease_label": 29,
+    "lang": "bn",
+    "disease_name": "পারকিনসন রোগ",
+    "aliases": [],
+    "definitions": "পারকিনসন একটি স্নায়বিক রোগ যা শরীরের গতি ধীর করে এবং কাঁপুনি সৃষ্টি করে।"
+  },
+  {
+    "disease_label": 30,
+    "lang": "bn",
+    "disease_name": "স্তন ক্যান্সার",
+    "aliases": [],
+    "definitions": "স্তন ক্যান্সার স্তনের কোষে সৃষ্ট একটি মারাত্মক টিউমার যা শরীরের অন্যান্য অংশে ছড়াতে পারে।"
+  },
+  {
+    "disease_label": 31,
+    "lang": "bn",
+    "disease_name": "জরায়ুমুখ ক্যান্সার",
+    "aliases": ["সার্ভাইক্যাল ক্যান্সার"],
+    "definitions": "এই ক্যান্সার জরায়ুমুখে হয় এবং প্রধানত এইচপিভি ভাইরাস সংক্রমণের কারণে সৃষ্টি হয়।"
+  },
+  {
+    "disease_label": 32,
+    "lang": "bn",
+    "disease_name": "মূত্রনালীর সংক্রমণ",
+    "aliases": ["UTI"],
+    "definitions": "মূত্রনালীর সংক্রমণ সাধারণত ই-কোলাই ব্যাকটেরিয়ার কারণে হয় এবং মূত্রথলি ও কিডনি প্রভাবিত করে।"
+  },
+  {
+    "disease_label": 33,
+    "lang": "bn",
+    "disease_name": "লুপাস",
+    "aliases": ["এসএলই"],
+    "definitions": "লুপাস একটি অটোইমিউন রোগ যেখানে শরীরের প্রতিরক্ষা ব্যবস্থা নিজস্ব টিস্যুকে আক্রমণ করে।"
+  },
+  {
+    "disease_label": 34,
+    "lang": "bn",
+    "disease_name": "স্কার্ভি",
+    "aliases": [],
+    "definitions": "স্কার্ভি ভিটামিন সি-এর অভাবে সৃষ্ট রোগ যা মাড়ি থেকে রক্তপাত ও দুর্বলতা সৃষ্টি করে।"
+  },
+  {
+    "disease_label": 35,
+    "lang": "bn",
+    "disease_name": "দাদ",
+    "aliases": ["রিংওয়ার্ম"],
+    "definitions": "দাদ একটি ছত্রাকজনিত ত্বকের রোগ যা চুলকানিযুক্ত বৃত্তাকার দাগ সৃষ্টি করে।"
+  },
+  {
+    "disease_label": 36,
+    "lang": "bn",
+    "disease_name": "নিপাহ ভাইরাস সংক্রমণ",
+    "aliases": [],
+    "definitions": "নিপাহ ভাইরাস একটি মারাত্মক ভাইরাসজনিত রোগ যা মস্তিষ্ক ও শ্বাসতন্ত্রে আক্রমণ করে।"
+  },
+  {
+    "disease_label": 37,
+    "lang": "bn",
+    "disease_name": "জিকা ভাইরাস রোগ",
+    "aliases": [],
+    "definitions": "জিকা ভাইরাস মশাবাহিত রোগ যা সাধারণত হালকা হলেও গর্ভাবস্থায় ভ্রূণের ক্ষতি করতে পারে।"
+  },
+  {
+    "disease_label": 38,
+    "lang": "bn",
+    "disease_name": "ইয়েলো ফিভার",
+    "aliases": ["পীত জ্বর"],
+    "definitions": "ইয়েলো ফিভার একটি ভাইরাসজনিত রোগ যা মশার মাধ্যমে ছড়ায় এবং যকৃত ও রক্তসংবহনতন্ত্রকে ক্ষতিগ্রস্ত করে।"
+  },
+  {
+    "disease_label": 39,
+    "lang": "bn",
+    "disease_name": "পলিসিস্টিক ওভারি সিনড্রোম",
+    "aliases": ["PCOS"],
+    "definitions": "PCOS একটি হরমোনজনিত রোগ যা নারীর প্রজনন ব্যবস্থাকে প্রভাবিত করে এবং মাসিক অনিয়মিত করে।"
+  },
+  {
+    "disease_label": 40,
+    "lang": "bn",
+    "disease_name": "হাইপোথাইরয়েডিজম",
+    "aliases": [],
+    "definitions": "হাইপোথাইরয়েডিজম থাইরয়েড হরমোনের অভাবে সৃষ্ট রোগ যা বিপাকক্রিয়া ধীর করে।"
+  },
+  {
+    "disease_label": 41,
+    "lang": "bn",
+    "disease_name": "হাইপারথাইরয়েডিজম",
+    "aliases": [],
+    "definitions": "হাইপারথাইরয়েডিজম থাইরয়েড হরমোন অতিরিক্ত উৎপাদনের ফলে সৃষ্ট রোগ।"
+  },
+  {
+    "disease_label": 42,
+    "lang": "bn",
+    "disease_name": "সিওপিডি",
+    "aliases": ["COPD"],
+    "definitions": "সিওপিডি একটি দীর্ঘস্থায়ী ফুসফুসের রোগ যা শ্বাস নিতে অসুবিধা সৃষ্টি করে।"
+  },
+  {
+    "disease_label": 43,
+    "lang": "bn",
+    "disease_name": "এন্ডোমেট্রিওসিস",
+    "aliases": [],
+    "definitions": "এন্ডোমেট্রিওসিস এমন একটি রোগ যেখানে জরায়ুর ভেতরের টিস্যু বাইরে বেড়ে ওঠে এবং তীব্র ব্যথা সৃষ্টি করে।"
+  },
+  {
+    "disease_label": 44,
+    "lang": "bn",
+    "disease_name": "ছানি",
+    "aliases": ["ক্যাটারাক্ট"],
+    "definitions": "ছানি চোখের লেন্স ঘোলাটে হয়ে যাওয়ার একটি অবস্থা যা দৃষ্টিশক্তি কমিয়ে দেয়।"
+  },
+  {
+    "disease_label": 45,
+    "lang": "bn",
+    "disease_name": "এইচআইভি/এইডস",
+    "aliases": [],
+    "definitions": "এইচআইভি একটি ভাইরাস যা শরীরের রোগপ্রতিরোধ ক্ষমতা ধ্বংস করে এবং এইডসে পরিণত হতে পারে।"
+  },
+  {
+    "disease_label": 46,
+    "lang": "bn",
+    "disease_name": "মুখের ক্যান্সার",
+    "aliases": [],
+    "definitions": "মুখের ক্যান্সার মুখগহ্বর বা গলার কোষে সৃষ্ট ক্যান্সার যা তামাক ব্যবহারের সঙ্গে সম্পর্কিত।"
+  },
+  {
+    "disease_label": 47,
+    "lang": "bn",
+    "disease_name": "পাকস্থলীর ক্যান্সার",
+    "aliases": ["গ্যাস্ট্রিক ক্যান্সার"],
+    "definitions": "পাকস্থলীর ক্যান্সার পাকস্থলীর আবরণে সৃষ্ট ক্যান্সার যা হজম সমস্যা ও ওজন হ্রাস ঘটায়।"
+  },
+  {
+    "disease_label": 48,
+    "lang": "bn",
+    "disease_name": "যকৃতের ক্যান্সার",
+    "aliases": [],
+    "definitions": "যকৃতের ক্যান্সার যকৃতের কোষে সৃষ্ট মারাত্মক টিউমার যা সাধারণত দীর্ঘস্থায়ী লিভার রোগের পরে দেখা যায়।"
+  },
+  {
+    "disease_label": 49,
+    "lang": "bn",
+    "disease_name": "ফুসফুসের ক্যান্সার",
+    "aliases": [],
+    "definitions": "ফুসফুসের ক্যান্সার ফুসফুসের কোষে সৃষ্ট ক্যান্সার যা প্রধানত ধূমপানের কারণে হয়।"
+  },
+  {
+    "disease_label": 50,
+    "lang": "bn",
+    "disease_name": "অর্শ",
+    "aliases": ["হেমোরয়েডস"],
+    "definitions": "অর্শ মলদ্বারের চারপাশে ফোলা রক্তনালীর অবস্থা যা ব্যথা ও রক্তপাত ঘটায়।"
+  },
+  {
+    "disease_label": 51,
+    "lang": "bn",
+    "disease_name": "একজিমা",
+    "aliases": [],
+    "definitions": "একজিমা একটি দীর্ঘস্থায়ী ত্বকের রোগ যা চুলকানি, লালচে দাগ ও শুষ্কতা সৃষ্টি করে।"
+  },
+  {
+    "disease_label": 52,
+    "lang": "bn",
+    "disease_name": "ব্রণ",
+    "aliases": ["অ্যাকনে"],
+    "definitions": "ব্রণ ত্বকের তেলগ্রন্থি ও ব্যাকটেরিয়ার কারণে সৃষ্ট রোগ যা মুখে ফুসকুড়ি সৃষ্টি করে।"
+  },
+  {
+    "disease_label": 53,
+    "lang": "bn",
+    "disease_name": "জন্ডিস",
+    "aliases": ["পীতিয়া"],
+    "definitions": "জন্ডিস যকৃত বা রক্তে বিলিরুবিন বেড়ে যাওয়ার ফলে সৃষ্ট অবস্থা যেখানে ত্বক ও চোখ হলুদ হয়ে যায়।"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+Flask
+transformers
+torch
+sentencepiece
+langgraph
+flask-cors
+requests
+deep-translator
+langdetect
+peft
