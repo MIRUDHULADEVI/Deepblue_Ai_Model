@@ -13,35 +13,40 @@ backend_dir = os.path.dirname(current_dir)
 model_path = os.path.join(backend_dir, "navarasa-symptom-checker-final")
 
 base_model_name = "Telugu-LLM-Labs/Indic-gemma-2b-finetuned-sft-Navarasa-2.0"
-tokenizer = AutoTokenizer.from_pretrained(base_model_name)
+#tokenizer = AutoTokenizer.from_pretrained(base_model_name)
 
 # Load base model + PEFT adapter
 # Load base model + PEFT adapter
 # device_map="auto" causing issues with offloading and missing keys in PEFT
-device = "cuda" if torch.cuda.is_available() else "cpu"
-print(f"Loading model on: {device}")
+#device = "cuda" if torch.cuda.is_available() else "cpu"
+#print(f"Loading model on: {device}")
+_tokenizer = None
+_model = None
 
-try:
-    base_model = AutoModelForCausalLM.from_pretrained(
-        base_model_name,
-        torch_dtype=torch.bfloat16,
-        # device_map="auto" 
-    )
+def get_model():
+    global _tokenizer, _model
 
-    # Move to device explicitly
-    base_model.to(device)
+    if _model is None:
+        print("[INFO] Loading Navarasa model (lazy)...")
 
-    model = PeftModel.from_pretrained(base_model, model_path)
-    model.eval()
+        _tokenizer = AutoTokenizer.from_pretrained(base_model_name)
 
-    # Add pad_token if missing
-    if tokenizer.pad_token is None:
-        tokenizer.pad_token = tokenizer.eos_token
+        base_model = AutoModelForCausalLM.from_pretrained(
+            base_model_name,
+            torch_dtype=torch.float32,   # ✅ CPU-safe
+            low_cpu_mem_usage=True       # ✅ critical
+        )
 
-except Exception as e:
-    print(f"[ERROR] Failed to load model: {e}")
-    print("[WARNING] Running in fallback mode (Mock Predictions)")
-    model = None
+        _model = PeftModel.from_pretrained(base_model, model_path)
+        _model.eval()
+
+        if _tokenizer.pad_token is None:
+            _tokenizer.pad_token = _tokenizer.eos_token
+
+        print("[INFO] Model loaded successfully")
+
+    return _tokenizer, _model
+
 
 # -------------------------------------------------------------
 # Language Detection (10 supported languages)
@@ -174,11 +179,13 @@ Symptoms: {processing_text}
 ### Response:
 Disease: """
 
-    if model is None:
-        print("[WARNING] Model not loaded, returning mock prediction")
-        return processing_lang, 22, 2 # Heat Stroke, Emergency
+    try:
+        tokenizer, model = get_model()
+    except Exception as e:
+        print(f"[ERROR] Model load failed: {e}")
+        return processing_lang, 22, 2
 
-    inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
+    inputs = tokenizer(prompt, return_tensors="pt")
 
     with torch.no_grad():
         outputs = model.generate(
