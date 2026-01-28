@@ -1,6 +1,6 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.1.0+cpu
-transformers==4.38.2
+torch==2.10.0+cpu
+transformers
 sentencepiece
 Flask
 flask-cors
