@@ -2,6 +2,7 @@
 torch==2.10.0+cpu
 transformers
 sentencepiece
+gunicorn
 Flask
 flask-cors
 requests
